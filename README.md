@@ -71,7 +71,7 @@ This repository showcases my expertise in web scraping, data extraction, and aut
 | **Scraping** | Selenium WebDriver | Web Automation |
 | **Data Processing** | Pandas DataFrames | Data Manipulation |
 | **Programming** | Python 3.8+ | Core Language |
-| **Data Storage** | CSV/JSON | File Export |
+| **Data Storage** | CSV | File Export |
 | **Development** | Jupyter Notebooks | Interactive Development |
 
 ## 📁 Project Structure
@@ -154,12 +154,6 @@ pip install -r box-office-scraper/requirements.txt
 - **File Handling**: CSV export/import operations
 - **Error Handling**: Robust scraping with try-catch blocks
 
-### Project Management
-- Code organization and modularity
-- Documentation and comments
-- Data validation and quality checks
-- Ethical scraping practices
-
 ## 🤝 Ethical Scraping Practices
 
 - Respects `robots.txt` guidelines
@@ -167,15 +161,6 @@ pip install -r box-office-scraper/requirements.txt
 - Uses minimal server resources
 - For educational purposes only
 - Complies with website terms of service
-
-## 🚧 Future Enhancements
-
-- [ ] Add API integration
-- [ ] Implement database storage
-- [ ] Create data visualization dashboards
-- [ ] Add unit tests
-- [ ] Docker containerization
-- [ ] Real-time data streaming
 
 ## 📝 License
 
@@ -193,10 +178,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ⭐ **If you find this repository helpful, please give it a star!**
 
 ---
-
-## Plain Text Version (Copy this for your README.md file):
-
-Copy and paste the entire content below into your README.md file:
 
 ```markdown
 # 🌐 Web Scraping Projects Portfolio

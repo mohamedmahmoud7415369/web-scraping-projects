@@ -1,6 +1,6 @@
 # 🌐 Web Scraping Projects Portfolio
 
-<div align="center">
+<div align="left">
 
 ![Web Scraping Banner](https://via.placeholder.com/1200x400/2E86AB/FFFFFF?text=Web+Scraping+Projects+Portfolio)
 
@@ -16,7 +16,7 @@
 
 ## 📊 Project Overview
 
-<div align="center">
+<div align="left">
 
 ```mermaid
 graph TD
@@ -33,7 +33,7 @@ graph TD
 🛒 1. Amazon Product Scraper
 E-commerce Data Extraction Engine
 
-<div align="center">
+<div align="left">
 https://via.placeholder.com/800x400/FF9900/FFFFFF?text=Amazon+Product+Scraper+Demo
 
 </div>

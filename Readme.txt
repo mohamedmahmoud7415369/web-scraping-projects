@@ -1,57 +1,30 @@
-# 🌐 Web Scraping Projects Collection
+# 🌐 Web Scraping Projects Portfolio
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Selenium](https://img.shields.io/badge/Selenium-WebDriver-green)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
-![Web Scraping](https://img.shields.io/badge/Web-Scraping-lightgrey)
+<div align="center">
 
-A collection of professional web scraping projects demonstrating data extraction, automation, and data analysis skills using Python, Selenium, and Pandas.
+![Web Scraping Banner](https://via.placeholder.com/1200x400/2E86AB/FFFFFF?text=Web+Scraping+Projects+Portfolio)
 
-## 🚀 Featured Projects
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-4.15.0-43B02A?logo=selenium&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2.1.3-150458?logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white)
 
-### 1. Amazon Product Scraper
-**📊 E-commerce Data Extraction**
-- **Target**: Amazon Egypt
-- **Data Extracted**: Smartphone products, prices, and reviews
-- **Features**: Multi-page scraping, automated navigation, CSV export
-- **Technologies**: Selenium WebDriver, Pandas, XPath
+*A collection of professional web scraping projects demonstrating data extraction, automation, and analysis skills*
 
-**Key Metrics:**
-- Scraped 6+ pages of product data
-- Extracted product names, prices, and review counts
-- Automated pagination handling
+</div>
 
-### 2. Box Office Mojo Scraper
-**🎬 Movie Industry Data Collection**
-- **Target**: Box Office Mojo Worldwide Charts
-- **Data Extracted**: Top-grossing films, lifetime revenue, release years
-- **Features**: Table data extraction, data cleaning, structured export
-- **Technologies**: Selenium, DataFrames, CSV processing
+## 📊 Project Overview
 
-**Key Metrics:**
-- Collected top lifetime grossing movies data
-- Processed financial data in millions
-- Cleaned and structured film metadata
+<div align="center">
 
-## 🛠️ Technical Stack
-
-- **Programming Language**: Python 3.8+
-- **Web Automation**: Selenium WebDriver
-- **Data Manipulation**: Pandas
-- **Browser Control**: Chrome WebDriver
-- **Data Storage**: CSV, Pandas DataFrames
-
-## 📦 Installation & Setup
-
-### Prerequisites
-```bash
-# Install required packages
-pip install selenium pandas openpyxl
-
-# Download Chrome WebDriver
-# Make sure Chrome browser is installed
-# Install required packages
-pip install selenium pandas openpyxl
-
-# Download Chrome WebDriver
-# Make sure Chrome browser is installed
+```mermaid
+graph TD
+    A[🎯 Web Scraping Projects] --> B[🛒 E-Commerce Data]
+    A --> C[🎬 Entertainment Data]
+    B --> D[Amazon Product Scraper]
+    C --> E[Box Office Scraper]
+    D --> F[📈 Price Analysis]
+    D --> G[🌟 Review Analytics]
+    E --> H[💰 Revenue Tracking]
+    E --> I[🎞️ Film Industry Insights]

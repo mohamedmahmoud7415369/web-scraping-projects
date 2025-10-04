@@ -50,3 +50,8 @@ pip install selenium pandas openpyxl
 
 # Download Chrome WebDriver
 # Make sure Chrome browser is installed
+# Install required packages
+pip install selenium pandas openpyxl
+
+# Download Chrome WebDriver
+# Make sure Chrome browser is installed

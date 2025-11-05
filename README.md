@@ -1,95 +1,85 @@
 <!-- Banner / Header -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD6qfI3Yxk9Ft4M/giphy.gif" width="250" alt="Coding Web-Scraping"/>
+  <img src="https://media.giphy.com/media/3o7aD6qfI3Yxk9Ft4M/giphy.gif" width="250" alt="Web Scraping Code"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Mohamed Mahmoud</h1>
+# Hi 👋 I’m **Mohamed Mahmoud**  
+*Data & Web-Scraping Enthusiast | Manufacturing Background | Python & Data Pipeline Practitioner*
 
-<p align="center">
-  <a href="https://github.com/mohamedmahmoud7415369">
-    <img src="https://komarev.com/ghpvc/?username=mohamedmahmoud7415369&style=flat-square&color=blue" alt="Profile views"/>
-  </a>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=mohamedmahmoud7415369&style=flat-square&color=blue)](https://github.com/mohamedmahmoud7415369)
 
 ---
 
-### 🧰 About Me
-I’m a passionate manufacturing professional turned data and web-scraping enthusiast. With a background in producing insulation foam & building materials, I’ve developed strong analytical, process-oriented and problem-solving skills.  
-Now, I’m leveraging those skills into programming, data science and automation — especially with web-scraping, data collection, and analytics.  
-
-Here are a few things about me:
-- 🔍 **Current focus**: Web scraping projects, data pipelines & building data-driven insights.
-- 💡 **Industry experience**: Manufacturing (insulation foam & building materials) — I bring practical domain experience.
-- 📘 **Learning path**: Deepening my understanding of computer science, data management and Python.
-- ✉️ **Reach me at**: [Your Email or LinkedIn] (optional)  
-- 🌍 **Location**: Based in Suez, Egypt.
+## 🧰 About Me  
+With a foundation in manufacturing (insulation foam & building materials), I’ve harnessed analytical and process-driven thinking, and now pivoting into programming, data science and automation.  
+My current focus: **web scraping**, data ingestion, cleaning & analysis pipelines.  
+Based in Suez, Egypt.  
 
 ---
 
-### 🛠️ Skills & Tools
-Here are the main technologies I work with:
+## 🛠️ Skills & Tools  
+Here’s a visual snapshot of the technologies I work with:
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"    alt="Python"     width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"    alt="Pandas"     width="40" height="40"/>  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/beautifulsoup/beautifulsoup-original.svg" alt="BeautifulSoup" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scrapy/scrapy-original.svg" alt="Scrapy" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width=“40” height=“40”/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scrapy/scrapy-original.svg"               alt="Scrapy"      width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"               alt="SQLite"      width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"        alt="MySQL"       width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"                     alt="Git"         width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"               alt="GitHub"      width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"               alt="Docker"      width="40" height="40"/>  
 </div>
 
-**Core competencies:**
-- Web scraping & automation (e.g., using Python, BeautifulSoup, Scrapy)  
-- Data extraction, cleaning & transformation – building robust data-pipelines  
-- Relational database design for scraped / processed data (MySQL, SQLite)  
-- Version control (Git), cloud / containerization basics (Docker)  
-- Domain experience: manufacturing processes, materials, operations — bringing real-world context to data use.
+**Core strengths:**
+- Web scraping & automation (Python, BeautifulSoup, Scrapy)  
+- Data extraction → cleaning → storing workflows  
+- Relational databases (SQLite, MySQL) for scraped data  
+- Version control + collaboration (Git & GitHub)  
+- Applying manufacturing domain understanding to data workflows  
 
 ---
 
-### 📁 Featured Projects
-Here are a few projects in this repo:
+## 📁 Projects Overview  
+Here’s a curated view of the major folders/projects in this repository, what they solve and which tools they use:
 
-| Project | Description |
-|---------|-------------|
-| **Project A** | A scraper that aggregates product listings across multiple e-commerce sites. |
-| **Project B** | Data pipeline: scraped data → cleaned/structured → stored in database → summary analytics. |
-| **Project C** | Building a dashboard (or visualization) of scraped data trends / anomalies. |
+| Folder / Project | Description | Key tools & highlights |
+|------------------|-------------|-----------------------|
+| **`ecommerce_scraper/`** | Scrapes multiple e-commerce websites, aggregates product names, prices, availability, stores in database. | Python + Requests, BeautifulSoup, SQLite/MySQL, data cleaning |
+| **`job_listings_pipeline/`** | Extracts job postings (roles, companies, salaries) from job boards, loads into table, does simple analytics. | Scrapy, Pandas, MySQL, basic dashboard (e.g., Jupyter Notebook) |
+| **`news_aggregator/`** | Collects news articles from several websites, normalizes content, stores as JSON/CSV for downstream use. | BeautifulSoup, Pandas, CSV/JSON export, date/time parsing |
+| **`dashboard_visualization/`** | Takes scraped data from other projects, builds summary visuals: trends, top X lists, alerts. | Matplotlib/Seaborn/Plotly, Pandas, Jupyter Notebook |
+| **`manufacturing_data_scrape/`** | Applying domain knowledge: scrape building-materials / insulation foam product sites to analyse pricing, suppliers. | Python + BeautifulSoup/Scrapy, MySQL, domain data insights |
 
-*(You can list specific folder names & links in your repo for each project.)*
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedmahmoud7415369&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmahmoud7415369&layout=compact&theme=dark" alt="Top Languages"/>
-</p>
+*(Feel free to rename or update these with your exact project folder names and details.)*
 
 ---
 
-### 🎯 What’s Next
-- Deepen my knowledge in **data science & machine learning** (especially predictive analytics for manufacturing/data pipelines).  
-- Build more **end-to-end automation**: scrape → store → analyze → visualize with dashboards.  
-- Share **open-source tools & utilities** (to help community replicate web-scraping + data-ingesting tasks).  
-- Collaborate on projects bridging manufacturing/data analytics + web-scraping.
+## 🚀 How to Get This Repo & Start  
+Here’s how **you** can clone, explore and use this repository:
 
----
+```bash
+# Clone the repo
+git clone https://github.com/mohamedmahmoud7415369/web-scraping-projects.git
 
-### 💬 Let’s Connect
-- GitHub: [mohamedmahmoud7415369](https://github.com/mohamedmahmoud7415369)  
-- LinkedIn: [Your Profile]  
-- Email: [your.email@example.com]
+# Navigate into the directory
+cd web-scraping-projects
 
----
+# (Optional) Create a virtual environment
+python3 -m venv venv
+source venv/bin/activate   # on Linux/macOS
+# .\venv\Scripts\activate    # on Windows
 
-> “Data is the raw material of the 21st century — I’m mining it with web-scrapers and turning it into insight.”
+# Install dependencies (if a requirements file exists)
+pip install -r requirements.txt
 
----
+# Explore a project folder, e.g. `ecommerce_scraper/`
+cd ecommerce_scraper
+python run_scraper.py   # or follow docs in that folder
 
-Thanks for visiting my GitHub 👏  
-_(Feel free to star ⭐ the repos you find interesting!)_
+# View results: check the database / CSVs / Jupyter notebooks.
 
+# (For visualization folder)
+cd ../dashboard_visualization
+jupyter notebook   # open the notebook to view charts

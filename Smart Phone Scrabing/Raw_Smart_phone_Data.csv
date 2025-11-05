@@ -1,0 +1,524 @@
+scrape_time,brand,page,position_on_page,asin,name,model,storage,color,price_raw,price_numeric,currency,rating,review_count,is_prime,badges,url,website
+2025-10-20T11:04:45.502098,apple phone,1,1,B09G9DHS68,Apple,N/A,N/A,N/A,"30,44400",30.444,EGP,,Apple,False,None,N/A,Amazon
+2025-10-20T11:04:46.403054,apple phone,1,2,B09G9BJD28,Apple,N/A,N/A,N/A,"30,44400",30.444,EGP,,Apple,False,Save 5%,N/A,Amazon
+2025-10-20T11:04:46.633482,apple phone,1,3,B0DGJ2FB85,Apple,N/A,N/A,N/A,"75,75000",75.75,EGP,,Apple,False,None,N/A,Amazon
+2025-10-20T11:04:47.003698,apple phone,1,4,B0CHXNZPP1,Apple,N/A,N/A,N/A,"54,44400",54.444,EGP,,Apple,False,None,N/A,Amazon
+2025-10-20T11:04:47.214114,apple phone,1,5,B0DXQHPY34,Apple,N/A,N/A,N/A,"49,99900",49.999,EGP,,Apple,False,None,N/A,Amazon
+2025-10-20T11:04:47.422465,apple phone,1,6,B0DGHT9R73,Apple,N/A,N/A,N/A,"66,44400",66.444,EGP,,Apple,False,None,N/A,Amazon
+2025-10-20T11:04:47.987998,apple phone,1,7,B0DGJKQ3KW,Apple,N/A,N/A,N/A,N/A,,EGP,,Apple,False,None,N/A,Amazon
+2025-10-20T11:04:48.404230,apple phone,1,8,B07Y3L5KWP,Apple,N/A,N/A,N/A,N/A,,EGP,,Apple,False,None,N/A,Amazon
+2025-10-20T11:04:48.607541,apple phone,1,9,B0DGJN6RDB,Apple,N/A,N/A,N/A,N/A,,EGP,,Apple,False,None,N/A,Amazon
+2025-10-20T11:04:48.841512,apple phone,1,10,B0DGHH9JY3,Apple,N/A,N/A,N/A,"71,99900",71.999,EGP,,Apple,False,None,N/A,Amazon
+2025-10-20T11:04:49.051719,apple phone,1,11,B0DGHZQXTJ,Apple,N/A,N/A,N/A,"70,99900",70.999,EGP,,Apple,False,None,N/A,Amazon
+2025-10-20T11:04:49.543696,apple phone,1,12,B0DGHS5NND,Apple,N/A,N/A,N/A,"67,69900",67.699,EGP,,Apple,False,None,N/A,Amazon
+2025-10-20T11:04:49.742439,apple phone,1,13,B0DZ895SXY,Apple,N/A,N/A,N/A,,,EGP,,Apple,False,None,N/A,Amazon
+2025-10-20T11:04:49.946729,apple phone,1,14,B0CHXKDDJH,Apple,N/A,N/A,N/A,"58,30000",58.3,EGP,,Apple,False,None,N/A,Amazon
+2025-10-20T11:04:50.139557,apple phone,1,15,B0DZ7WF87P,Apple,N/A,N/A,N/A,"21,00000",21.0,EGP,,Apple,False,None,N/A,Amazon
+2025-10-20T11:04:50.344193,apple phone,1,16,B0CX95PRMC,Samsung,N/A,N/A,N/A,"16,19900",16.199,EGP,,Samsung,False,None,N/A,Amazon
+2025-10-20T11:04:50.554401,apple phone,1,17,B0CX95YDYS,Samsung,N/A,N/A,N/A,"16,19900",16.199,EGP,,Samsung,False,None,N/A,Amazon
+2025-10-20T11:04:50.760311,apple phone,1,18,B0D7HWG255,Google,N/A,N/A,N/A,"47,75000",47.75,EGP,,Google,False,None,N/A,Amazon
+2025-10-20T11:04:50.966642,apple phone,1,19,B0D8L7LRLC,SAMSUNG,N/A,N/A,N/A,"84,95000",84.95,EGP,,SAMSUNG,False,None,N/A,Amazon
+2025-10-20T11:04:51.148166,apple phone,1,20,B0CC9X8B6K,SAMSUNG,N/A,N/A,N/A,N/A,,EGP,,SAMSUNG,False,None,N/A,Amazon
+2025-10-20T11:04:51.344201,apple phone,1,21,B0B8GDXPBL,eufy,N/A,N/A,N/A,99900,99900.0,EGP,,eufy,False,None,N/A,Amazon
+2025-10-20T11:04:51.540794,apple phone,1,22,B0C2BMNHW2,Wireless Charger iPhone Charging Station: 3 in 1 Charger Stand Multiple Devices for Apple - iPhone 16 15 14 Pro Max 13 12 11 - Watch 10 9 8 7 6 5 4 3 2 SE and Ultra Series - Airpods 4 3 2 Pro,16 15,N/A,N/A,"2,49999",2.49999,EGP,,Only 2 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:04:51.749370,apple phone,1,23,B07ZWVDFP7,LECHLY,N/A,N/A,N/A,90000,90000.0,EGP,,LECHLY,False,None,N/A,Amazon
+2025-10-20T11:04:51.955705,apple phone,1,24,B0DGHYFVM1,Apple,N/A,N/A,N/A,"20,80000",20.8,EGP,,Apple,False,None,N/A,Amazon
+2025-10-20T11:04:52.219529,apple phone,1,25,B01HHXMRTY,"[3Pack] Waterproof Case Universal Cellphone Dry Bag Pouch Compatible with Apple iPhone XR X XS MAX 8,8plus,7,7plus,6s, 6, 6S Plus, SE, 5S, Samsung Galaxy s8 s8Plus S7, S6 Note 7 5 up to 6.5"" Diagonal",N/A,N/A,N/A,10800,10800.0,EGP,,Only 2 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:04:52.448761,apple phone,1,26,B07X33S6FQ,"Wireless Car Charger, Smart Sensor 10W Fast Charging Auto-Clamp Phone Holder Mount for Apple iPhone 13/12/11/8/8 Plus/X/XS/XR, Samsung S20/S9/S8/Note 8, Huawei P40 P30 Mate50/40/30, Xiaomi Mix 4/3/2S",13,N/A,N/A,37100,37100.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:04:52.661559,apple phone,1,27,B09MLRDN2F,sarmert,N/A,N/A,N/A,36900,36900.0,EGP,,sarmert,False,None,N/A,Amazon
+2025-10-20T11:04:52.857494,apple phone,1,28,B0CTXDB9VC,"for iPhone 14 Pro Max Case with Magsafe, [Strong Magnets] [Non Yellowing] [Military Drop Protection] Magnetic Clear Slim Phone Case Thin Cover for (Apple iPhone 14 pro Max Mag Safe (Sierra Blue)",14 Pro,N/A,blue,8500,8500.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:04:53.058236,apple phone,1,29,B0B9751PX4,ORNARTO,N/A,N/A,N/A,14962,14962.0,EGP,,ORNARTO,False,None,N/A,Amazon
+2025-10-20T11:04:53.255446,apple phone,1,30,B0CMX6JMT1,Geniusho,N/A,N/A,N/A,"1,39900",1.399,EGP,,Geniusho,False,None,N/A,Amazon
+2025-10-20T11:04:53.451342,apple phone,1,31,B0C6M25D9P,generic,N/A,N/A,N/A,6200,6200.0,EGP,,generic,False,None,N/A,Amazon
+2025-10-20T11:04:53.644765,apple phone,1,32,B0C6KMYVYS,TUMABER,N/A,N/A,N/A,16090,16090.0,EGP,,TUMABER,False,None,N/A,Amazon
+2025-10-20T11:04:53.852008,apple phone,1,33,B09FRW527J,"Premium Apple Silicone iPhone Cases - Luxury Phone Case - Classy Cover Iphone - Elevate Your iPhone with Comfortable Timeless Elegance and Protection (iPhone 11/XR, Red)",11,N/A,red,20484,20484.0,EGP,N/A,Only 2 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:04:54.037365,apple phone,1,34,B0D322C4QD,"Premium Apple Leather iPhone Cases - Luxury Phone Case - Elevate Your iPhone with Timeless Elegance and Protection(Brown,iPhone 15 Pro)",15 Pro,N/A,N/A,80000,80000.0,EGP,,Only 3 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:04:54.231267,apple phone,1,35,B0937FC1F1,KING KONG,N/A,N/A,N/A,9000,9000.0,EGP,,KING KONG,False,None,N/A,Amazon
+2025-10-20T11:04:54.451569,apple phone,1,36,B0CY2SMYPT,Protective Shock Absorption Bumper soft Transparent Armor Case For Apple iPhone (14 Pro Max),N/A,N/A,N/A,4500,4500.0,EGP,,N/A,False,Best Seller,N/A,Amazon
+2025-10-20T11:04:54.679269,apple phone,1,37,B0B9RRQ3PH,ANNGELAS,N/A,N/A,N/A,8899,8899.0,EGP,,ANNGELAS,False,None,N/A,Amazon
+2025-10-20T11:04:54.883186,apple phone,1,38,B088ZQNNX5,Xukinroy,N/A,N/A,N/A,N/A,,EGP,,Xukinroy,False,None,N/A,Amazon
+2025-10-20T11:04:55.969685,apple phone,1,39,B08YXXBWL2,Generic,N/A,N/A,N/A,7500,7500.0,EGP,,Generic,False,None,N/A,Amazon
+2025-10-20T11:04:56.194590,apple phone,1,40,B0CBRW995T,Mkeke,N/A,N/A,N/A,17300,17300.0,EGP,,Mkeke,False,None,N/A,Amazon
+2025-10-20T11:04:56.686525,apple phone,1,41,B0D848C9YP,Silicon TPU Case Camera Protection with 3D Anime Prints For Apple iPhone 15 Pro 6.1 Inch (Naruto),15 Pro,N/A,N/A,7500,7500.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:04:56.931810,apple phone,1,42,B0CJ57TYCR,WELLNEC,N/A,N/A,N/A,37000,37000.0,EGP,,WELLNEC,False,None,N/A,Amazon
+2025-10-20T11:04:57.158056,apple phone,1,43,B09FSKTYZG,"Premium Apple Silicone iPhone Cases - Luxury Phone Case - Classy Cover Iphone - Elevate Your iPhone with Comfortable Timeless Elegance and Protection (iPhone 11 Pro Max, Black)",11 Pro,N/A,black,22100,22100.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:04:57.368579,apple phone,1,44,B09FRZJL97,"Premium Apple Leather iPhone Canvas Cases - Luxury Phone Case - Elevate Your iPhone with Timeless Elegance and Protection (iPhone 12 Pro Max, Dark Grey)",12 Pro,N/A,N/A,20200,20200.0,EGP,,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:04:57.619636,apple phone,1,45,B081TXGXNP,KING KONG,N/A,N/A,N/A,4788,4788.0,EGP,,KING KONG,False,None,N/A,Amazon
+2025-10-20T11:04:57.901851,apple phone,1,46,B0BTKTXZ52,INFOSUN,N/A,N/A,N/A,19900,19900.0,EGP,,INFOSUN,False,None,N/A,Amazon
+2025-10-20T11:04:58.142724,apple phone,1,47,B0BKFRYF3H,"Pack of 2 - Magnetic Wallet Compatible with MagSafe for iPhone 16 15 14 13 12 Pro Max Plus Model, None-Cutout Mag 3 Safe Card Holder Stick on for Apple Cell Phone, Black Purple",16 15,N/A,black,N/A,,EGP,,No featured offers available,False,None,N/A,Amazon
+2025-10-20T11:04:58.373560,apple phone,1,48,B0BTKT1KY6,INFOSUN,N/A,N/A,N/A,19900,19900.0,EGP,,INFOSUN,False,None,N/A,Amazon
+2025-10-20T11:05:01.480363,apple phone,2,1,B0BS5MH35Q,INFOSUN,N/A,N/A,N/A,19900,19900.0,EGP,,INFOSUN,False,None,N/A,Amazon
+2025-10-20T11:05:01.722900,apple phone,2,2,B0BTMWDW2Z,ESR,N/A,N/A,N/A,79900,79900.0,EGP,,ESR,False,None,N/A,Amazon
+2025-10-20T11:05:01.977479,apple phone,2,3,B091BKRY1V,Easy One Touch 3 Car Mount Universal Phone Holder for Apple iPhone 8 Plus and Samsung Galaxy S7 Edge Note 8 Huawei - Silver,8 Plus,N/A,silver,15000,15000.0,EGP,,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:02.232878,apple phone,2,4,B07MNXCXDW,kwmobile,N/A,N/A,N/A,22000,22000.0,EGP,,kwmobile,False,None,N/A,Amazon
+2025-10-20T11:05:02.456280,apple phone,2,5,B0CK7411T9,Eligo,N/A,N/A,N/A,13000,13000.0,EGP,,Eligo,False,None,N/A,Amazon
+2025-10-20T11:05:02.709007,apple phone,2,6,B0CB5JS9NG,OTOFLY,N/A,N/A,N/A,13900,13900.0,EGP,,OTOFLY,False,Save 13%,N/A,Amazon
+2025-10-20T11:05:02.901756,apple phone,2,7,B0FJ5NK566,Yoedge,N/A,N/A,N/A,19900,19900.0,EGP,,Yoedge,False,Save 33%,N/A,Amazon
+2025-10-20T11:05:03.083691,apple phone,2,8,B07QJB1NXP,kwmobile,N/A,N/A,N/A,15000,15000.0,EGP,,kwmobile,False,None,N/A,Amazon
+2025-10-20T11:05:03.256538,apple phone,2,9,B0DKNNN8NW,kwmobile,N/A,N/A,N/A,12500,12500.0,EGP,,kwmobile,False,None,N/A,Amazon
+2025-10-20T11:05:03.436551,apple phone,2,10,B0BNKNLRRN,Ringke,N/A,N/A,N/A,35000,35000.0,EGP,,Ringke,False,None,N/A,Amazon
+2025-10-20T11:05:03.609093,apple phone,2,11,B0FV55J98V,MOBILE MAGIC,N/A,N/A,N/A,40000,40000.0,EGP,N/A,MOBILE MAGIC,False,None,N/A,Amazon
+2025-10-20T11:05:03.786895,apple phone,2,12,B0DFHPJSJN,Amkun,N/A,N/A,N/A,11975,11975.0,EGP,,Amkun,False,None,N/A,Amazon
+2025-10-20T11:05:04.004776,apple phone,2,13,B0DQ214M2L,Eligo,N/A,N/A,N/A,7524,7524.0,EGP,,Eligo,False,None,N/A,Amazon
+2025-10-20T11:05:04.225497,apple phone,2,14,B0D3Z8JK4H,"iPhone Wallet Leather Magnetic Card Holder ID Card Holder Compatible with Apple iPhone 12 13 14-15 Series, Mini - Plus - Pro - Pro Max (Pink)",12 13,N/A,N/A,25000,25000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:04.404239,apple phone,2,15,B091CHM4WS,Magnetic Car Air Vent Phone Holder Mount Dash For Apple iPhone GPS Samsung HTC,N/A,N/A,N/A,6500,6500.0,EGP,,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:04.568817,apple phone,2,16,B0FNC6MSTH,Stylish Armor Case Compatible with Your Phone Apple iPhone 15 Pro Max Slim Strong and Elegant Protection Compatible with Apple iPhone 15 Pro Max,15 Pro,N/A,N/A,12500,12500.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:04.737908,apple phone,2,17,B07VWGD833,kwmobile,N/A,N/A,N/A,23000,23000.0,EGP,,kwmobile,False,None,N/A,Amazon
+2025-10-20T11:05:04.894619,apple phone,2,18,B09HSWBKJ8,Silicone & Microfiber Phone Case for Apple iPhone 13 Pro Max -6.7in (White),13 Pro,N/A,white,N/A,,EGP,,No featured offers available,False,None,N/A,Amazon
+2025-10-20T11:05:05.068424,apple phone,2,19,B0CC1VRTP6,"3 in 1 Aluminum Charging Station for Apple BOCLOUD Fast Wireless Charger for Phone 15/14/13/12Pro/Pro Max/Plus, Apple iWatch/8/SE/7/6/5/4/3/2, AirPods3/2/Pro/Pro2",N/A,N/A,N/A,"2,79900",2.799,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:05.218825,apple phone,2,20,B09QJXV3RW,Back Cover Silicon Case For Apple iPhone 11 - White,11 ,N/A,white,N/A,,EGP,,No featured offers available,False,None,N/A,Amazon
+2025-10-20T11:05:05.378375,apple phone,2,21,B0FKDDQNFD,C.F.S,N/A,N/A,N/A,11000,11000.0,EGP,N/A,C.F.S,False,None,N/A,Amazon
+2025-10-20T11:05:05.548743,apple phone,2,22,B0FPBMG556,"Phantom Shield Silicone Case with Anti-Scratch Soft Microfiber Lining, High Resilience Rubber Full Body Shockproof Cover Compatible with Apple iPhone 14 Pro Max (Light Blue)",14 Pro,N/A,blue,19999,19999.0,EGP,,Only 3 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:05.694193,apple phone,2,23,B0FH2Y5WXX,Elhoot Creative Silicone Protictive Case Phone For Apple iphone 16 Pro Max - Black,N/A,N/A,black,N/A,,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:05.890355,apple phone,2,24,B0CB3X5JW8,ESR,N/A,N/A,N/A,"4,10000",4.1,EGP,,ESR,False,None,N/A,Amazon
+2025-10-20T11:05:06.048546,apple phone,2,25,B0FJ6HTPJF,MOBILE MAGIC,N/A,N/A,N/A,14000,14000.0,EGP,N/A,MOBILE MAGIC,False,None,N/A,Amazon
+2025-10-20T11:05:06.218902,apple phone,2,26,B0D9M2M1FX,CooToly,N/A,N/A,N/A,12000,12000.0,EGP,,CooToly,False,None,N/A,Amazon
+2025-10-20T11:05:06.388441,apple phone,2,27,B0CK74N1S7,Eligo,N/A,N/A,N/A,16000,16000.0,EGP,,Eligo,False,None,N/A,Amazon
+2025-10-20T11:05:06.556611,apple phone,2,28,B0DYPK2VK3,Dl3 Mobilak,N/A,N/A,N/A,17500,17500.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:05:06.726792,apple phone,2,29,B0DB6CMGZP,Oprimio,N/A,N/A,N/A,15000,15000.0,EGP,,Oprimio,False,None,N/A,Amazon
+2025-10-20T11:05:06.902296,apple phone,2,30,B0F4ZQ256Z,Portable Folding STENTS for Apple iPad Pro 12.9 (2018) Multi Angle Adjustable Mobile Cell Phone Desktop Holder/Stand Cell Phone Stand Holde (Black),N/A,N/A,black,13000,13000.0,EGP,,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:07.079503,apple phone,2,31,B0BTKR9N74,INFOSUN,N/A,N/A,N/A,21101,21101.0,EGP,,INFOSUN,False,None,N/A,Amazon
+2025-10-20T11:05:07.261101,apple phone,2,32,B0DFZL68TV,Lexar,N/A,N/A,N/A,"7,99900",7.999,EGP,,Lexar,False,None,N/A,Amazon
+2025-10-20T11:05:07.468979,apple phone,2,33,B0DV4TNY8K,"Cover for iPhone 16 Pro Max Magnetic Case, Compatible with MagSafe,【Shockproof Military-Grade Protection】Transparent Matte Back, Slim Phone Cover with Strong Magnet for Apple 16 Pro Max (2024)(Black)",16 Pro,N/A,black,20000,20000.0,EGP,N/A,More Buying Choices,False,None,N/A,Amazon
+2025-10-20T11:05:07.675950,apple phone,2,34,B091BST8WK,Easy One Touch 3 Car Mount Universal Phone Holder for Apple iPhoneX iPhone 8 Plus and Samsung Galaxy S9+ Note 8 Huawei - Silver,8 Plus,N/A,silver,14000,14000.0,EGP,N/A,Only 2 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:07.869686,apple phone,2,35,B0F9TLKRX2,TypeC Mobile Phone Card Reader Applicable to Apple Laptop Adapter TF OTG Memory Card Adapter,N/A,N/A,N/A,33500,33500.0,EGP,N/A,Only 2 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:08.088411,apple phone,2,36,B0DKTH14WF,EAZY CASE,N/A,N/A,N/A,14000,14000.0,EGP,,EAZY CASE,False,None,N/A,Amazon
+2025-10-20T11:05:08.273818,apple phone,2,37,B0CHX6SCWC,FELONY CASE,N/A,N/A,N/A,23000,23000.0,EGP,,FELONY CASE,False,None,N/A,Amazon
+2025-10-20T11:05:08.461466,apple phone,2,38,B09C1CN2SN,"3Pack 3ft Apple Charger Cable, [Apple MFi Certified] Apple Lightning to USB Cable 3 Feet, Fast Apple Phone Charging Cord 3 Foot for Apple iPhone 12/11 Pro/11/XS MAX/XR/8/7/6s/6/5S/SE iPad Mini",12,N/A,N/A,39900,39900.0,EGP,,"(
+EGP44.33/meter)",False,None,N/A,Amazon
+2025-10-20T11:05:08.677334,apple phone,2,39,B0CPD4282V,"(DV UK) iPhone Ultra Slim Thin Case Soft TPU Material Bumper Shockproof Protection Anti-Scratch Anti-Drop Shockproof Case Cell Phone Cover Compatible with Apple iPhone 12 Pro Max 6.7""",12 Pro,N/A,N/A,12000,12000.0,EGP,,Only 4 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:08.862490,apple phone,2,40,B0F27MMSRV,rsilou,N/A,N/A,N/A,63400,63400.0,EGP,,rsilou,False,None,N/A,Amazon
+2025-10-20T11:05:09.061758,apple phone,2,41,B0D8175LYG,"Tazweeq Wireless Bluetooth Mouse, Rechargeable LED Dual Mode Mouse(Bluetooth 5.0 + USB), Silent, Slim, for Apple Laptop/Ipad Tablet/Mac/PC/Phone, Black",N/A,N/A,black,25000,25000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:09.239258,apple phone,2,42,B0D48J4L8G,SOOPII,N/A,N/A,N/A,15000,15000.0,EGP,N/A,SOOPII,False,None,N/A,Amazon
+2025-10-20T11:05:09.437782,apple phone,2,43,B0CFYWJ8NS,Harvortez,N/A,N/A,N/A,17000,17000.0,EGP,,Harvortez,False,None,N/A,Amazon
+2025-10-20T11:05:09.612955,apple phone,2,44,B0D9MTSTFK,ANKHGIFTSHOP PREMIUM iPhone 12/12 Pro Case Silicone Casing With Microfiber Lining For Apple iPhone protect your phone with our cases.,12,N/A,N/A,17500,17500.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:09.801907,apple phone,2,45,B0DKC2K5RB,Next store,N/A,N/A,N/A,44688,44688.0,EGP,,Next store,False,None,N/A,Amazon
+2025-10-20T11:05:09.974048,apple phone,2,46,B0F5X5QRD9,"Magnetic Slim Vegan Leather Wallet Compatible with MagSafe – Card Holder with RFID Protection, Stylish and Durable Design for iPhone 15/14/13/12 (White)",15,N/A,white,22500,22500.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:10.137496,apple phone,2,47,B0FKD529VR,C.F.S,N/A,N/A,N/A,25000,25000.0,EGP,N/A,C.F.S,False,None,N/A,Amazon
+2025-10-20T11:05:10.314491,apple phone,2,48,B0DNVDBWZF,ANKHGIFTSHOP Clear Cover Ultra Thin Silicone Shockproof Hard Back Cases Transparent Protective Slim Phone Case for Apple iPhone Xs Max 6.5 inch - Black,N/A,N/A,black,18000,18000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:10.495439,apple phone,2,49,B0F5BT1KPK,"Weave Magnetic Wallet Compatible with MagSafe for iPhone 16 15 14 13 12 Pro Max Plus Model, None-Cutout Mag 3 Safe Card Holder Stick on for Apple Cell Phone (Multicolor (B))",16 15,N/A,N/A,16000,16000.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:12.986924,apple phone,3,1,B0F934G93Y,High-quality Printed Silicone Case Anti-Shockproof With Camera Protection Compatible with Iphone 13 Pro Max (Design 1),N/A,N/A,N/A,10000,10000.0,EGP,N/A,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:13.176349,apple phone,3,2,B091BKRY1V,Easy One Touch 3 Car Mount Universal Phone Holder for Apple iPhone 8 Plus and Samsung Galaxy S7 Edge Note 8 Huawei - Silver,8 Plus,N/A,silver,15000,15000.0,EGP,,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:13.354292,apple phone,3,3,B0DFHPJSJN,Amkun,N/A,N/A,N/A,11975,11975.0,EGP,,Amkun,False,None,N/A,Amazon
+2025-10-20T11:05:13.537225,apple phone,3,4,B0BTKR9N74,INFOSUN,N/A,N/A,N/A,21101,21101.0,EGP,,INFOSUN,False,None,N/A,Amazon
+2025-10-20T11:05:13.707865,apple phone,3,5,B0CXX96C9G,DUX DUCIS,N/A,N/A,N/A,79000,79000.0,EGP,N/A,DUX DUCIS,False,None,N/A,Amazon
+2025-10-20T11:05:13.896120,apple phone,3,6,B0DYPK2VK3,Dl3 Mobilak,N/A,N/A,N/A,17500,17500.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:05:14.070424,apple phone,3,7,B0BNKNLRRN,Ringke,N/A,N/A,N/A,35000,35000.0,EGP,,Ringke,False,None,N/A,Amazon
+2025-10-20T11:05:14.293103,apple phone,3,8,B0FH2Y5WXX,Elhoot Creative Silicone Protictive Case Phone For Apple iphone 16 Pro Max - Black,N/A,N/A,black,N/A,,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:14.546234,apple phone,3,9,B0CKPY91ZB,(iPhone 13 14) Clear Anti-Scratch TPU Back Case with Shockproof Corner Protection for Apple iPhone 13_ iPhone 14,13 14,N/A,N/A,7500,7500.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:14.785106,apple phone,3,10,B082RBL1ZJ,MT,N/A,N/A,N/A,4000,4000.0,EGP,,MT,False,None,N/A,Amazon
+2025-10-20T11:05:15.052421,apple phone,3,11,B0DB6B5NH3,Oprimio,N/A,N/A,N/A,15000,15000.0,EGP,,Oprimio,False,None,N/A,Amazon
+2025-10-20T11:05:15.285646,apple phone,3,12,B09N3GHMW9,kwmobile,N/A,N/A,N/A,23000,23000.0,EGP,,kwmobile,False,None,N/A,Amazon
+2025-10-20T11:05:15.522475,apple phone,3,13,B09C1CN2SN,"3Pack 3ft Apple Charger Cable, [Apple MFi Certified] Apple Lightning to USB Cable 3 Feet, Fast Apple Phone Charging Cord 3 Foot for Apple iPhone 12/11 Pro/11/XS MAX/XR/8/7/6s/6/5S/SE iPad Mini",12,N/A,N/A,39900,39900.0,EGP,,"(
+EGP44.33/meter)",False,None,N/A,Amazon
+2025-10-20T11:05:15.767495,apple phone,3,14,B0DQ1YYL6R,Eligo,N/A,N/A,N/A,14000,14000.0,EGP,,Eligo,False,None,N/A,Amazon
+2025-10-20T11:05:15.998526,apple phone,3,15,B0DGSMTHSW,YATWIN,N/A,N/A,N/A,27301,27301.0,EGP,,YATWIN,False,None,N/A,Amazon
+2025-10-20T11:05:16.222422,apple phone,3,16,B09HSWBKJ8,Silicone & Microfiber Phone Case for Apple iPhone 13 Pro Max -6.7in (White),13 Pro,N/A,white,N/A,,EGP,,No featured offers available,False,None,N/A,Amazon
+2025-10-20T11:05:16.506960,apple phone,3,17,B0DP67SWHK,Harvortez,N/A,N/A,N/A,9000,9000.0,EGP,,Harvortez,False,None,N/A,Amazon
+2025-10-20T11:05:16.851857,apple phone,3,18,B0CPD4282V,"(DV UK) iPhone Ultra Slim Thin Case Soft TPU Material Bumper Shockproof Protection Anti-Scratch Anti-Drop Shockproof Case Cell Phone Cover Compatible with Apple iPhone 12 Pro Max 6.7""",12 Pro,N/A,N/A,12000,12000.0,EGP,,Only 4 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:17.085883,apple phone,3,19,B091G37B1F,Nutella Design Smooth Plastic Phone Case for Apple iPhone 5c,5c,N/A,N/A,7500,7500.0,EGP,N/A,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:17.353906,apple phone,3,20,B0F5X5QRD9,"Magnetic Slim Vegan Leather Wallet Compatible with MagSafe – Card Holder with RFID Protection, Stylish and Durable Design for iPhone 15/14/13/12 (White)",15,N/A,white,22500,22500.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:17.616090,apple phone,3,21,B0FKDDQNFD,C.F.S,N/A,N/A,N/A,11000,11000.0,EGP,N/A,C.F.S,False,None,N/A,Amazon
+2025-10-20T11:05:17.872447,apple phone,3,22,B0DV4TNY8K,"Cover for iPhone 16 Pro Max Magnetic Case, Compatible with MagSafe,【Shockproof Military-Grade Protection】Transparent Matte Back, Slim Phone Cover with Strong Magnet for Apple 16 Pro Max (2024)(Black)",16 Pro,N/A,black,20000,20000.0,EGP,N/A,More Buying Choices,False,None,N/A,Amazon
+2025-10-20T11:05:18.119866,apple phone,3,23,B0D9MTSTFK,ANKHGIFTSHOP PREMIUM iPhone 12/12 Pro Case Silicone Casing With Microfiber Lining For Apple iPhone protect your phone with our cases.,12,N/A,N/A,17500,17500.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:18.368332,apple phone,3,24,B0F4ZQ256Z,Portable Folding STENTS for Apple iPad Pro 12.9 (2018) Multi Angle Adjustable Mobile Cell Phone Desktop Holder/Stand Cell Phone Stand Holde (Black),N/A,N/A,black,13000,13000.0,EGP,,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:18.614851,apple phone,3,25,B0DQF2GYTM,JULAK,N/A,N/A,N/A,86783,86783.0,EGP,N/A,JULAK,False,None,N/A,Amazon
+2025-10-20T11:05:18.824943,apple phone,3,26,B0CK74N1S7,Eligo,N/A,N/A,N/A,16000,16000.0,EGP,,Eligo,False,None,N/A,Amazon
+2025-10-20T11:05:19.086545,apple phone,3,27,B091BST8WK,Easy One Touch 3 Car Mount Universal Phone Holder for Apple iPhoneX iPhone 8 Plus and Samsung Galaxy S9+ Note 8 Huawei - Silver,8 Plus,N/A,silver,14000,14000.0,EGP,N/A,Only 2 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:19.315259,apple phone,3,28,B0DQ5DL48M,Back protection cover made of plastic for Apple iPhone XR with a frame inside to protect the phone - Blue,N/A,N/A,blue,18500,18500.0,EGP,N/A,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:19.629775,apple phone,3,29,B0DKTH14WF,EAZY CASE,N/A,N/A,N/A,14000,14000.0,EGP,,EAZY CASE,False,None,N/A,Amazon
+2025-10-20T11:05:19.939720,apple phone,3,30,B0D8175LYG,"Tazweeq Wireless Bluetooth Mouse, Rechargeable LED Dual Mode Mouse(Bluetooth 5.0 + USB), Silent, Slim, for Apple Laptop/Ipad Tablet/Mac/PC/Phone, Black",N/A,N/A,black,25000,25000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:20.214397,apple phone,3,31,B0FMK62C75,2PCS Silicone Case for Apple Pencil Pro & 2nd Gen Cover Protective Sleeve,N/A,N/A,N/A,49900,49900.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:20.450399,apple phone,3,32,B0C8FMTN6Q,Luxury 3D Electroplated Stripe Phone Case for Apple iPhone 13 (6.1) Simple Stereo Bright Surface shockproof Bumper Protector Cases (Black),13 ,N/A,black,N/A,,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:20.672833,apple phone,3,33,B0DKC2K5RB,Next store,N/A,N/A,N/A,44688,44688.0,EGP,,Next store,False,None,N/A,Amazon
+2025-10-20T11:05:20.918265,apple phone,3,34,B0F27MMSRV,rsilou,N/A,N/A,N/A,63400,63400.0,EGP,,rsilou,False,None,N/A,Amazon
+2025-10-20T11:05:21.161898,apple phone,3,35,B0CFYWJ8NS,Harvortez,N/A,N/A,N/A,17000,17000.0,EGP,,Harvortez,False,None,N/A,Amazon
+2025-10-20T11:05:21.367945,apple phone,3,36,B0CVTZX8JD,Flip Leather Wallet Phone Case With Cards Slot For Apple iPhone X - Stoned Havan,N/A,N/A,N/A,19900,19900.0,EGP,N/A,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:21.553812,apple phone,3,37,B0B4NH83RC,Mcdodo CH-2060 Apple Watch Compatible Smart Watch Wireless Charger,N/A,N/A,N/A,89900,89900.0,EGP,,Only 2 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:21.754750,apple phone,3,38,B0FKD529VR,C.F.S,N/A,N/A,N/A,25000,25000.0,EGP,N/A,C.F.S,False,None,N/A,Amazon
+2025-10-20T11:05:21.921458,apple phone,3,39,B0C6K4YZDR,DJBull,N/A,N/A,N/A,N/A,,EGP,,DJBull,False,None,N/A,Amazon
+2025-10-20T11:05:22.105109,apple phone,3,40,B0D48J4L8G,SOOPII,N/A,N/A,N/A,15000,15000.0,EGP,N/A,SOOPII,False,None,N/A,Amazon
+2025-10-20T11:05:22.305424,apple phone,3,41,B0DNVDBWZF,ANKHGIFTSHOP Clear Cover Ultra Thin Silicone Shockproof Hard Back Cases Transparent Protective Slim Phone Case for Apple iPhone Xs Max 6.5 inch - Black,N/A,N/A,black,18000,18000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:22.541983,apple phone,3,42,B0F2K31SCL,C.F.S,N/A,N/A,N/A,N/A,,EGP,,C.F.S,False,None,N/A,Amazon
+2025-10-20T11:05:22.705761,apple phone,3,43,B0F2JYXBYH,Hard Silicone Back Phone Protection Cover For Apple iPhone X/Apple iPhone XS - Black- CFSBAT4-328,N/A,N/A,black,N/A,,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:22.903768,apple phone,3,44,B0FJDTKGHH,Petocase,N/A,N/A,N/A,17500,17500.0,EGP,,Petocase,False,None,N/A,Amazon
+2025-10-20T11:05:23.090886,apple phone,3,45,B0FRB5B3N6,for iPhone 17 Pro Case Clear [Not-Yellowing] [Military-Grade Drop Protection] Shockproof Protective Phone Bumper for Apple 6.3 inch 2025,17 Pro,N/A,N/A,22000,22000.0,EGP,N/A,Only 3 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:23.282231,apple phone,3,46,B0D5VJCTLK,فكرة,N/A,N/A,N/A,6900,6900.0,EGP,,فكرة,False,None,N/A,Amazon
+2025-10-20T11:05:23.438763,apple phone,3,47,B0F5BT1KPK,"Weave Magnetic Wallet Compatible with MagSafe for iPhone 16 15 14 13 12 Pro Max Plus Model, None-Cutout Mag 3 Safe Card Holder Stick on for Apple Cell Phone (Multicolor (B))",16 15,N/A,N/A,16000,16000.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:23.618193,apple phone,3,48,B0F5BL2X6D,"Fashion Woven Fabric Weave Magnetic Wallet Compatible with MagSafe for iPhone 16 15 14 13 12 Pro Max Plus Model, None-Cutout Mag 3 Safe Card Holder Stick on for Apple Cell Phone (Gray)",16 15,N/A,N/A,16600,16600.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:23.782355,apple phone,3,49,B0FFGTWSW8,TypeC Mobile Phone Card Reader Applicable to Apple Laptop Adapter TF OTG Memory Card Adapter,N/A,N/A,N/A,30000,30000.0,EGP,N/A,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:23.926932,apple phone,3,50,B07N5ZVZ4B,"Watch Band Compatible with Apple smart watches 42 / 44mm Black,Soft Silicone with Protective Bumper for SE Series 6 / Series5 / Series 4 (44/42mm,Pink)",N/A,N/A,black,N/A,,EGP,N/A,No featured offers available,False,None,N/A,Amazon
+2025-10-20T11:05:26.411972,apple phone,4,1,B0D6LTHVT4,Back Soft Edges Hard Back and Camera Protection Girly Style Case for iPhone 12 - Pink,12 ,N/A,N/A,9700,9700.0,EGP,N/A,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:26.620523,apple phone,4,2,B0FKDFHJ9Z,C.F.S,N/A,N/A,N/A,20000,20000.0,EGP,N/A,C.F.S,False,None,N/A,Amazon
+2025-10-20T11:05:26.824770,apple phone,4,3,B0DK3HXY6S,Next store,N/A,N/A,N/A,28000,28000.0,EGP,,Next store,False,None,N/A,Amazon
+2025-10-20T11:05:27.029728,apple phone,4,4,B0F934G93Y,High-quality Printed Silicone Case Anti-Shockproof With Camera Protection Compatible with Iphone 13 Pro Max (Design 1),N/A,N/A,N/A,10000,10000.0,EGP,N/A,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:27.248221,apple phone,4,5,B094KC259K,"Apple Pencil Tips 1st/2nd Gen & Logitech Crayon - Soft & Hard, Double Layered, 3-Year Use - 6 Pack",N/A,N/A,red,50000,50000.0,EGP,,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:27.433063,apple phone,4,6,B0F1M3K9JF,rsilou,N/A,N/A,N/A,47400,47400.0,EGP,,rsilou,False,None,N/A,Amazon
+2025-10-20T11:05:27.627876,apple phone,4,7,B082RBL1ZJ,MT,N/A,N/A,N/A,4000,4000.0,EGP,,MT,False,None,N/A,Amazon
+2025-10-20T11:05:27.813322,apple phone,4,8,B0CK7427DP,Eligo,N/A,N/A,N/A,20000,20000.0,EGP,,Eligo,False,None,N/A,Amazon
+2025-10-20T11:05:27.997984,apple phone,4,9,B0D9MTSTFK,ANKHGIFTSHOP PREMIUM iPhone 12/12 Pro Case Silicone Casing With Microfiber Lining For Apple iPhone protect your phone with our cases.,12,N/A,N/A,17500,17500.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:28.186774,apple phone,4,10,B091BST8WK,Easy One Touch 3 Car Mount Universal Phone Holder for Apple iPhoneX iPhone 8 Plus and Samsung Galaxy S9+ Note 8 Huawei - Silver,8 Plus,N/A,silver,14000,14000.0,EGP,N/A,Only 2 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:28.385801,apple phone,4,11,B0DNVDBWZF,ANKHGIFTSHOP Clear Cover Ultra Thin Silicone Shockproof Hard Back Cases Transparent Protective Slim Phone Case for Apple iPhone Xs Max 6.5 inch - Black,N/A,N/A,black,18000,18000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:28.572095,apple phone,4,12,B09C1CN2SN,"3Pack 3ft Apple Charger Cable, [Apple MFi Certified] Apple Lightning to USB Cable 3 Feet, Fast Apple Phone Charging Cord 3 Foot for Apple iPhone 12/11 Pro/11/XS MAX/XR/8/7/6s/6/5S/SE iPad Mini",12,N/A,N/A,39900,39900.0,EGP,,"(
+EGP44.33/meter)",False,None,N/A,Amazon
+2025-10-20T11:05:28.747408,apple phone,4,13,B0CP2VLGQT,"for Apple Watch Screen Protector 45mm, [2 - Pack] Series 7 Screen Protector, Anti-Scratch Resistant Full Coverage Scratch-Proof Screen Film Compatible Apple iWatch Series 7 45mm",N/A,N/A,N/A,11163,11163.0,EGP,,Only 2 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:28.967908,apple phone,4,14,B0F5X5QRD9,"Magnetic Slim Vegan Leather Wallet Compatible with MagSafe – Card Holder with RFID Protection, Stylish and Durable Design for iPhone 15/14/13/12 (White)",15,N/A,white,22500,22500.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:29.195035,apple phone,4,15,B0DFZL68TV,Lexar,N/A,N/A,N/A,"7,99900",7.999,EGP,,Lexar,False,None,N/A,Amazon
+2025-10-20T11:05:29.377100,apple phone,4,16,B0FMK62C75,2PCS Silicone Case for Apple Pencil Pro & 2nd Gen Cover Protective Sleeve,N/A,N/A,N/A,49900,49900.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:29.561611,apple phone,4,17,B0CNWP7JTV,"ذCase Compatible with Apple Watch Series 9 Series 8 Series 7 41mm with Built-in Tempered Glass Screen Protector, Cover Hard PC Protective Case for iWatch, Black",N/A,N/A,black,12375,12375.0,EGP,,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:29.708518,apple phone,4,18,B0F2K31SCL,C.F.S,N/A,N/A,N/A,N/A,,EGP,,C.F.S,False,None,N/A,Amazon
+2025-10-20T11:05:29.891266,apple phone,4,19,B0BZWX4SNG,"Ultra Thin Case Compatible for Apple Pencil 2nd Generation,Silicone Skin Cover Sleeve for Apple Pencil 2 Case with Protective Nib Covers Compatible for iPad Pro (Black)",N/A,N/A,black,36700,36700.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:30.055092,apple phone,4,20,B0C6K4YZDR,DJBull,N/A,N/A,N/A,N/A,,EGP,,DJBull,False,None,N/A,Amazon
+2025-10-20T11:05:30.244422,apple phone,4,21,B0FKDDQNFD,C.F.S,N/A,N/A,N/A,11000,11000.0,EGP,N/A,C.F.S,False,None,N/A,Amazon
+2025-10-20T11:05:30.448681,apple phone,4,22,B0D8175LYG,"Tazweeq Wireless Bluetooth Mouse, Rechargeable LED Dual Mode Mouse(Bluetooth 5.0 + USB), Silent, Slim, for Apple Laptop/Ipad Tablet/Mac/PC/Phone, Black",N/A,N/A,black,25000,25000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:30.612942,apple phone,4,23,B0CFYWJ8NS,Harvortez,N/A,N/A,N/A,17000,17000.0,EGP,,Harvortez,False,None,N/A,Amazon
+2025-10-20T11:05:30.776795,apple phone,4,24,B0F2JYXBYH,Hard Silicone Back Phone Protection Cover For Apple iPhone X/Apple iPhone XS - Black- CFSBAT4-328,N/A,N/A,black,N/A,,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:30.951534,apple phone,4,25,B0FRB5B3N6,for iPhone 17 Pro Case Clear [Not-Yellowing] [Military-Grade Drop Protection] Shockproof Protective Phone Bumper for Apple 6.3 inch 2025,17 Pro,N/A,N/A,22000,22000.0,EGP,N/A,Only 3 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:31.124838,apple phone,4,26,B0F27MMSRV,rsilou,N/A,N/A,N/A,63400,63400.0,EGP,,rsilou,False,None,N/A,Amazon
+2025-10-20T11:05:31.292177,apple phone,4,27,B0F5BT1KPK,"Weave Magnetic Wallet Compatible with MagSafe for iPhone 16 15 14 13 12 Pro Max Plus Model, None-Cutout Mag 3 Safe Card Holder Stick on for Apple Cell Phone (Multicolor (B))",16 15,N/A,N/A,16000,16000.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:31.466910,apple phone,4,28,B0FJDTKGHH,Petocase,N/A,N/A,N/A,17500,17500.0,EGP,,Petocase,False,None,N/A,Amazon
+2025-10-20T11:05:31.627510,apple phone,4,29,B0F5BL2X6D,"Fashion Woven Fabric Weave Magnetic Wallet Compatible with MagSafe for iPhone 16 15 14 13 12 Pro Max Plus Model, None-Cutout Mag 3 Safe Card Holder Stick on for Apple Cell Phone (Gray)",16 15,N/A,N/A,16600,16600.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:31.795184,apple phone,4,30,B0D5VJCTLK,فكرة,N/A,N/A,N/A,6900,6900.0,EGP,,فكرة,False,None,N/A,Amazon
+2025-10-20T11:05:31.933886,apple phone,4,31,B09N9FSQSK,"Apple Pencil Tip Silicon Cover Compatible with Apple Pencil, Silicone Nib Cap for Apple Pencil 1st and 2nd Generation Two covers (one Purple - one Light Purple)",N/A,N/A,purple,N/A,,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:32.104826,apple phone,4,32,B0DKC2K5RB,Next store,N/A,N/A,N/A,44688,44688.0,EGP,,Next store,False,None,N/A,Amazon
+2025-10-20T11:05:32.266588,apple phone,4,33,B09N3ZHRRD,"Apple Pencil Tip Silicon Cover Compatible with Apple Pencil, Silicone Nib Cap for Apple Pencil 1st and 2nd Generation Two covers (Red)",N/A,N/A,red,14000,14000.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:32.435592,apple phone,4,34,B0DP67SWHK,Harvortez,N/A,N/A,N/A,9000,9000.0,EGP,,Harvortez,False,None,N/A,Amazon
+2025-10-20T11:05:32.610366,apple phone,4,35,B0B4NH83RC,Mcdodo CH-2060 Apple Watch Compatible Smart Watch Wireless Charger,N/A,N/A,N/A,89900,89900.0,EGP,,Only 2 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:32.768429,apple phone,4,36,B0FKD529VR,C.F.S,N/A,N/A,N/A,25000,25000.0,EGP,N/A,C.F.S,False,None,N/A,Amazon
+2025-10-20T11:05:32.913398,apple phone,4,37,B0F2JR59YS,C.F.S,N/A,N/A,N/A,N/A,,EGP,N/A,C.F.S,False,None,N/A,Amazon
+2025-10-20T11:05:33.102111,apple phone,4,38,B09N25DX7P,"Replacement Tips for Apple pencil first and second generation models High Sensitivity, tilt and pressure sensitivity (One Nib)",N/A,N/A,N/A,18500,18500.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:33.286507,apple phone,4,39,B0F1Z3JZ59,"Sport Band Compatible with Apple Watch Band 42mm 44mm 45mm 46mm 49mm for Women Men, Recycled Plastic Soft Silicone Strap for iWatch Series 10 9 8 7 6 5 4 3 2 1 Ultra SE",N/A,N/A,N/A,20000,20000.0,EGP,,Only 2 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:33.459621,apple phone,4,40,B0FT9GNJCL,"JH J02 2-in-1 Detachable Wallet Case, Retro Faux Leather Trifold with RFID Blocking, Pocket, Shockproof, Compatible with Apple iPhone 15 Pro Max (Red)",15 Pro,N/A,red,19999,19999.0,EGP,N/A,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:33.616009,apple phone,4,41,B0FKDDQ61J,C.F.S,N/A,N/A,N/A,25000,25000.0,EGP,N/A,C.F.S,False,None,N/A,Amazon
+2025-10-20T11:05:33.767639,apple phone,4,42,B0CPB3DT81,ELMO3EZZ,N/A,N/A,N/A,15413,15413.0,EGP,,ELMO3EZZ,False,None,N/A,Amazon
+2025-10-20T11:05:33.923938,apple phone,4,43,B0FKCQVHQF,C.F.S,N/A,N/A,N/A,22000,22000.0,EGP,N/A,C.F.S,False,None,N/A,Amazon
+2025-10-20T11:05:34.092197,apple phone,4,44,B0F2JMWP7J,C.F.S,N/A,N/A,N/A,13000,13000.0,EGP,N/A,C.F.S,False,None,N/A,Amazon
+2025-10-20T11:05:34.266585,apple phone,4,45,B0FFGTWSW8,TypeC Mobile Phone Card Reader Applicable to Apple Laptop Adapter TF OTG Memory Card Adapter,N/A,N/A,N/A,30000,30000.0,EGP,N/A,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:34.419168,apple phone,4,46,B08FZNZ4MZ,XiaoMuTongABC,N/A,N/A,N/A,"3,20000",3.2,EGP,,XiaoMuTongABC,False,None,N/A,Amazon
+2025-10-20T11:05:34.596048,apple phone,4,47,B071KC4RHL,Libra Gemini,N/A,N/A,N/A,34900,34900.0,EGP,,Libra Gemini,False,None,N/A,Amazon
+2025-10-20T11:05:34.751930,apple phone,4,48,B0FKHCFM94,Next store,N/A,N/A,N/A,37027,37027.0,EGP,,Next store,False,None,N/A,Amazon
+2025-10-20T11:05:34.879738,apple phone,4,49,B07N5ZVZ4B,"Watch Band Compatible with Apple smart watches 42 / 44mm Black,Soft Silicone with Protective Bumper for SE Series 6 / Series5 / Series 4 (44/42mm,Pink)",N/A,N/A,black,N/A,,EGP,N/A,No featured offers available,False,None,N/A,Amazon
+2025-10-20T11:05:40.792198,Samsung phone,1,1,B0D8T5WYPH,SAMSUNG,N/A,N/A,N/A,"75,75000",75.75,EGP,,SAMSUNG,False,None,N/A,Amazon
+2025-10-20T11:05:41.028492,Samsung phone,1,2,B0DZHNGR82,Samsung,N/A,N/A,N/A,"13,52500",13.525,EGP,,Samsung,False,None,N/A,Amazon
+2025-10-20T11:05:41.220481,Samsung phone,1,3,B0FND1GG2X,Samsung,N/A,N/A,N/A,"8,19000",8.19,EGP,,Samsung,False,None,N/A,Amazon
+2025-10-20T11:05:41.413935,Samsung phone,1,4,B0CX95PRMC,Samsung,N/A,N/A,N/A,"16,19900",16.199,EGP,,Samsung,False,None,N/A,Amazon
+2025-10-20T11:05:41.597967,Samsung phone,1,5,B0DZHMTBR2,Samsung,N/A,N/A,N/A,"11,69900",11.699,EGP,,Samsung,False,None,N/A,Amazon
+2025-10-20T11:05:41.773585,Samsung phone,1,6,B0DZHMVV91,Samsung,N/A,N/A,N/A,"24,47998",24.47998,EGP,,Samsung,False,None,N/A,Amazon
+2025-10-20T11:05:41.944838,Samsung phone,1,7,B0FR9BJ5KZ,Samsung,N/A,N/A,N/A,"5,66000",5.66,EGP,,Samsung,False,None,N/A,Amazon
+2025-10-20T11:05:42.120025,Samsung phone,1,8,B0FNCYB5N1,Samsung,N/A,N/A,N/A,"7,39000",7.39,EGP,N/A,Samsung,False,None,N/A,Amazon
+2025-10-20T11:05:42.311179,Samsung phone,1,9,B0DZHPR6CS,Samsung,N/A,N/A,N/A,"11,49900",11.499,EGP,,Samsung,False,None,N/A,Amazon
+2025-10-20T11:05:42.497300,Samsung phone,1,10,B0FNCYRVZ4,Samsung,N/A,N/A,N/A,"10,99900",10.999,EGP,,Samsung,False,None,N/A,Amazon
+2025-10-20T11:05:42.683518,Samsung phone,1,11,B0CX96X456,Samsung,N/A,N/A,N/A,"22,88300",22.883,EGP,,Samsung,False,None,N/A,Amazon
+2025-10-20T11:05:42.862433,Samsung phone,1,12,B0FR9D6F1S,Samsung,N/A,N/A,N/A,"6,29900",6.299,EGP,,Samsung,False,None,N/A,Amazon
+2025-10-20T11:05:43.038756,Samsung phone,1,13,B0DZHLSJ3T,Samsung,N/A,N/A,N/A,"24,41993",24.41993,EGP,,Samsung,False,None,N/A,Amazon
+2025-10-20T11:05:43.219470,Samsung phone,1,14,B0DZHNZ1L2,SAMSUNG,N/A,N/A,N/A,"21,77700",21.777,EGP,,SAMSUNG,False,None,N/A,Amazon
+2025-10-20T11:05:43.381450,Samsung phone,1,15,B0DZHL1LWX,Samsung,N/A,N/A,N/A,"15,66000",15.66,EGP,,Samsung,False,None,N/A,Amazon
+2025-10-20T11:05:43.551578,Samsung phone,1,16,B0DHHC77F2,SAMSUNG,N/A,N/A,N/A,N/A,,EGP,,SAMSUNG,False,None,N/A,Amazon
+2025-10-20T11:05:43.718079,Samsung phone,1,17,B0DSLSCCM8,SAMSUNG,N/A,N/A,N/A,"71,50000",71.5,EGP,,SAMSUNG,False,None,N/A,Amazon
+2025-10-20T11:05:43.861934,Samsung phone,1,18,B0DNMMMJ1V,Samsung,N/A,N/A,N/A,N/A,,EGP,,Samsung,False,None,N/A,Amazon
+2025-10-20T11:05:44.005390,Samsung phone,1,19,B0DMF3ZYBQ,SAMSUNG,N/A,N/A,N/A,N/A,,EGP,,SAMSUNG,False,None,N/A,Amazon
+2025-10-20T11:05:44.168525,Samsung phone,1,20,B0DM1S54MZ,SAMSUNG,N/A,N/A,N/A,N/A,,EGP,,SAMSUNG,False,None,N/A,Amazon
+2025-10-20T11:05:44.353332,Samsung phone,1,21,B0CP67N7NZ,Samsung,N/A,N/A,N/A,"10,79900",10.799,EGP,,Samsung,False,None,N/A,Amazon
+2025-10-20T11:05:44.546673,Samsung phone,1,22,B0DLTCZZ41,Motorola,N/A,N/A,N/A,"7,29900",7.299,EGP,,Motorola,False,None,N/A,Amazon
+2025-10-20T11:05:44.717552,Samsung phone,1,23,B09WDHGYPF,Samsung,N/A,N/A,N/A,N/A,,EGP,,Samsung,False,None,N/A,Amazon
+2025-10-20T11:05:44.915209,Samsung phone,1,24,B0FGQNT2N2,Samsung,N/A,N/A,N/A,"83,95000",83.95,EGP,,Samsung,False,None,N/A,Amazon
+2025-10-20T11:05:45.111720,Samsung phone,1,25,B0DKT2ZPYX,Tecno,N/A,N/A,N/A,"3,65000",3.65,EGP,,Tecno,False,None,N/A,Amazon
+2025-10-20T11:05:45.294092,Samsung phone,1,26,B0CC9X8B6K,SAMSUNG,N/A,N/A,N/A,N/A,,EGP,,SAMSUNG,False,None,N/A,Amazon
+2025-10-20T11:05:45.505975,Samsung phone,1,27,B0CC9YVZPJ,Samsung,N/A,N/A,N/A,"51,00000",51.0,EGP,,Samsung,False,None,N/A,Amazon
+2025-10-20T11:05:45.687620,Samsung phone,1,28,B0924QD22S,"Waterproof Phone Pouch, Universal Waterproof Case,Floating Cellphone Dry Bag compatible with iPhone Xs Max, X, Max, 8 Plus, 7 Plus, 6s Plus, Samsung Galaxy s7, s8, s9, Note 7 up to 7.0 inch",N/A,N/A,N/A,4290,4290.0,EGP,,List:,False,None,N/A,Amazon
+2025-10-20T11:05:45.880290,Samsung phone,1,29,B0D4743RBN,Samsung,N/A,N/A,N/A,"3,20300",3.203,EGP,,Samsung,False,None,N/A,Amazon
+2025-10-20T11:05:46.065533,Samsung phone,1,30,B0D7C74SXR,Nillkin,N/A,N/A,N/A,"2,35000",2.35,EGP,,Nillkin,False,None,N/A,Amazon
+2025-10-20T11:05:46.239561,Samsung phone,1,31,B09YT8RKP8,YWXTW,N/A,N/A,N/A,18000,18000.0,EGP,,YWXTW,False,None,N/A,Amazon
+2025-10-20T11:05:46.431805,Samsung phone,1,32,B09TW5W2JP,AGPTEK,N/A,N/A,N/A,"1,42400",1.424,EGP,,AGPTEK,False,None,N/A,Amazon
+2025-10-20T11:05:46.608114,Samsung phone,1,33,B0F59M34H5,Yoedge,N/A,N/A,N/A,15000,15000.0,EGP,,Yoedge,False,None,N/A,Amazon
+2025-10-20T11:05:46.790175,Samsung phone,1,34,B0FGJ6SMP4,SineOrdo,N/A,N/A,N/A,14998,14998.0,EGP,,SineOrdo,False,None,N/A,Amazon
+2025-10-20T11:05:46.972925,Samsung phone,1,35,B09VLFL8L8,DN-Technology,N/A,N/A,N/A,6673,6673.0,EGP,,DN-Technology,False,None,N/A,Amazon
+2025-10-20T11:05:47.159273,Samsung phone,1,36,B0BX4NZCXM,Zubitech,N/A,N/A,N/A,7400,7400.0,EGP,,Zubitech,False,None,N/A,Amazon
+2025-10-20T11:05:47.343208,Samsung phone,1,37,B0BWF4P4KH,T Tersely,N/A,N/A,N/A,9178,9178.0,EGP,,T Tersely,False,None,N/A,Amazon
+2025-10-20T11:05:47.538114,Samsung phone,1,38,B0D3VF2JT3,(Samsung Galaxy A50 / A50s / A30s) Shockproof Liquid Silicone Back Case Cover Fur-Lined Interior and Full Camera Cover Compatible with Samsung Galaxy A50 / A50s / A30s (Rose),A50,N/A,N/A,10500,10500.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:47.716646,Samsung phone,1,39,B08Y8YXZFB,Jek-secer,N/A,N/A,N/A,12500,12500.0,EGP,,Jek-secer,False,None,N/A,Amazon
+2025-10-20T11:05:47.891084,Samsung phone,1,40,B0DYPG575G,Dl3 Mobilak,N/A,N/A,N/A,17500,17500.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:05:48.046721,Samsung phone,1,41,B0CW9Y3LCK,"Clear Case Compatible with Samsung Galaxy M10S/A20/A30, Full Body Protection Shockproof TPU Protective Phone Cover [Anti-Yellowing] - Clear",M10S,N/A,N/A,5900,5900.0,EGP,,Only 3 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:48.236952,Samsung phone,1,42,B0DK3VJNQ7,فكرة,N/A,N/A,N/A,21900,21900.0,EGP,,فكرة,False,None,N/A,Amazon
+2025-10-20T11:05:48.428627,Samsung phone,1,43,B0CQJJJQ3T,jaminben,N/A,N/A,N/A,14500,14500.0,EGP,,jaminben,False,None,N/A,Amazon
+2025-10-20T11:05:48.621744,Samsung phone,1,44,B0DRFYH489,Onestyle,N/A,N/A,N/A,10000,10000.0,EGP,,Onestyle,False,Save 20%,N/A,Amazon
+2025-10-20T11:05:48.796878,Samsung phone,1,45,B0DHCD59XH,Coqinen,N/A,N/A,N/A,7900,7900.0,EGP,,Coqinen,False,None,N/A,Amazon
+2025-10-20T11:05:48.981251,Samsung phone,1,46,B0FH6PT62L,Case Cover Shock Resistant UNBLACK Protect Camera TPU + PC Compatible with Samsung Galaxy A36/A56 (Black),A36,N/A,black,22000,22000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:49.177162,Samsung phone,1,47,B0CJPSPLMG,HULLIN,N/A,N/A,N/A,15000,15000.0,EGP,,HULLIN,False,None,N/A,Amazon
+2025-10-20T11:05:49.373436,Samsung phone,1,48,B08YXZDCRN,Samsung Galaxy Note9 mobile phone case acrylic anti-crash TPU and PC case,Note9,N/A,N/A,8500,8500.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:49.568104,Samsung phone,1,49,B0CQJNMZVC,Topme,N/A,N/A,N/A,9900,9900.0,EGP,,Topme,False,None,N/A,Amazon
+2025-10-20T11:05:49.740934,Samsung phone,1,50,B0FPD5DF92,Premium Matte Carbon Fiber Texture Magnetic Phone Case for Samsung Galaxy S24 FE Wireless Charging Shockproof Back Cover (Black),S24,N/A,black,45500,45500.0,EGP,N/A,Only 2 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:52.226013,Samsung phone,2,1,B0FKD1LSMM,C.F.S,N/A,N/A,N/A,14000,14000.0,EGP,N/A,C.F.S,False,None,N/A,Amazon
+2025-10-20T11:05:52.408399,Samsung phone,2,2,B0D8T5WYPH,SAMSUNG,N/A,N/A,N/A,"75,75000",75.75,EGP,,SAMSUNG,False,None,N/A,Amazon
+2025-10-20T11:05:52.590594,Samsung phone,2,3,B0CP67N7NZ,Samsung,N/A,N/A,N/A,"10,79900",10.799,EGP,,Samsung,False,None,N/A,Amazon
+2025-10-20T11:05:52.748540,Samsung phone,2,4,B0DPF6T8L8,CUZMIGO,N/A,N/A,N/A,24500,24500.0,EGP,,CUZMIGO,False,None,N/A,Amazon
+2025-10-20T11:05:52.923276,Samsung phone,2,5,B0DV2GDBGJ,Dl3 Mobilak,N/A,N/A,N/A,17500,17500.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:05:53.106745,Samsung phone,2,6,B0F3JNKYFK,Silicon TPU Case Camera Protection with 3D Cheerful Prints For Samsung Galaxy S23 Ultra 5G (Forgotten Cat),S23,N/A,N/A,11000,11000.0,EGP,,Was:,False,None,N/A,Amazon
+2025-10-20T11:05:53.297082,Samsung phone,2,7,B0976WW5SF,kwmobile,N/A,N/A,N/A,25000,25000.0,EGP,,kwmobile,False,None,N/A,Amazon
+2025-10-20T11:05:53.485157,Samsung phone,2,8,B0FVHMLS7R,Dl3 Mobilak,N/A,N/A,N/A,20000,20000.0,EGP,N/A,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:05:53.687753,Samsung phone,2,9,B0DJYCL1SZ,Lumobrilla,N/A,N/A,N/A,6785,6785.0,EGP,,Lumobrilla,False,None,N/A,Amazon
+2025-10-20T11:05:53.921730,Samsung phone,2,10,B0D324HZZL,Phone Case Compatible with Samsung Galaxy A15 Luxury PU Leather Flip Cover Card Slot Holder Cover Compatible with Samsung Galaxy A15 (Green),A15,N/A,N/A,35000,35000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:54.090946,Samsung phone,2,11,B0D3SL554P,Back Cover Case Compatible with Samsung Galaxy A71 Soft Silicone Gel Rubber Shockproof Matte Finish Inner Cloth Lining with Camera Protection (Black),A71,N/A,black,11000,11000.0,EGP,,Only 2 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:54.272829,Samsung phone,2,12,B0D4B5GRMX,Dl3 Mobilak,N/A,N/A,N/A,9000,9000.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:05:54.464011,Samsung phone,2,13,B0F8Z1FLJB,Dl3 Mobilak,N/A,N/A,N/A,15000,15000.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:05:54.637960,Samsung phone,2,14,B0DXQ8BTWW,"Compatible with Samsung Galaxy S25 Ultra Case with Hand Strap, Anti-Scratch Shockproof PC Wristband Cover Thin Protective Phone Case Cover for Samsung Galaxy S25 Ultra 6.8 inch (Black)",S25,N/A,black,42000,42000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:54.800255,Samsung phone,2,15,B0DDF3W7N7,Phone Case Compatible with Samsung Galaxy Note 10 Plus Luxury PU Leather Back Cover Cover Compatible with Samsung Galaxy Note 10 Plus (Black),Note,N/A,black,25000,25000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:54.977308,Samsung phone,2,16,B091JZ37VS,"Gorilla Samsung Galaxy Note 8 Phone Case with Built-in Screen Protector, Clear, Silicone, Back Cover",Note,N/A,N/A,10010,10010.0,EGP,,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:55.154763,Samsung phone,2,17,B0DP5DZJD9,HAFFAN,N/A,N/A,N/A,12500,12500.0,EGP,,HAFFAN,False,None,N/A,Amazon
+2025-10-20T11:05:55.338778,Samsung phone,2,18,B0F84JW7H3,"Fekra For Samsung Galaxy A55 A54 A14 A15 A35 A53 A24 A25 5G S22 S24 S23 Ultra Case Creative Design Flower Pattern Slim Soft Silicone Protective for Galaxy Cover (White, Samsung Galaxy S23 FE)",A55,N/A,white,13500,13500.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:55.512630,Samsung phone,2,19,B0CXY78CZ1,TENOC,N/A,N/A,N/A,9000,9000.0,EGP,,TENOC,False,None,N/A,Amazon
+2025-10-20T11:05:55.672926,Samsung phone,2,20,B0FD528LR1,FASCINATION,N/A,N/A,N/A,20000,20000.0,EGP,,FASCINATION,False,None,N/A,Amazon
+2025-10-20T11:05:55.833394,Samsung phone,2,21,B0CK65QSCH,"Phone Case Compatible with Samsung Galaxy A54 Case, Premium PU Leather Flip Case Cover with Card Holder Slot Compatible with Samsung Galaxy A54 (Green)",A54,N/A,N/A,30000,30000.0,EGP,,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:55.989081,Samsung phone,2,22,B0DD34XF61,phone case compatible with Samsung galaxy A34 Classic shockproof silicone soft tpu leather hard pc mobile phone Magnetic Shockproof PC + TPU Phone Case for Samsung galaxy A34 (Green),N/A,N/A,N/A,20000,20000.0,EGP,N/A,Only 4 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:56.150569,Samsung phone,2,23,B0D2M5TQSY,GRABIST,N/A,N/A,N/A,8000,8000.0,EGP,N/A,GRABIST,False,None,N/A,Amazon
+2025-10-20T11:05:56.320941,Samsung phone,2,24,B0CJPS1P32,HULLIN,N/A,N/A,N/A,13000,13000.0,EGP,,HULLIN,False,None,N/A,Amazon
+2025-10-20T11:05:56.488005,Samsung phone,2,25,B0DP7TTSK4,ELMO3EZZ,N/A,N/A,N/A,9000,9000.0,EGP,N/A,ELMO3EZZ,False,None,N/A,Amazon
+2025-10-20T11:05:56.654862,Samsung phone,2,26,B0CZ57QQDZ,compatible with Samsung Galaxy A55 Shock-resistant silicone protective case with camera protection compatible with Samsung Galaxy A55 (light blue),A55,N/A,blue,10000,10000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:56.883353,Samsung phone,2,27,B0FKZ4SRGY,Next store,N/A,N/A,N/A,17875,17875.0,EGP,,Next store,False,None,N/A,Amazon
+2025-10-20T11:05:57.067933,Samsung phone,2,28,B0FKLTBQ9B,Dl3 Mobilak,N/A,N/A,N/A,17500,17500.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:05:57.264133,Samsung phone,2,29,B0DLGXN6D1,"Samsung Galaxy A51 Case, Clear, TPU, Card Slot, Shock-Absorbent, Wallet Type",A51,N/A,N/A,7900,7900.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:57.457053,Samsung phone,2,30,B0FNC1P831,Dl3 Mobilak,N/A,N/A,N/A,17500,17500.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:05:57.624890,Samsung phone,2,31,B0D1K1V3WS,EAZY CASE,N/A,N/A,N/A,9800,9800.0,EGP,,EAZY CASE,False,None,N/A,Amazon
+2025-10-20T11:05:57.779858,Samsung phone,2,32,B0FLY4QWPV,Fashionable Design Back cover with Chain Compatible with Phone Samsung Galaxy A26,A26,N/A,N/A,15000,15000.0,EGP,N/A,Only 3 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:57.944862,Samsung phone,2,33,B0DPTLZPP3,For Samsung Galaxy A04 4G / M13 5G Shockproof Clear Case Cover (MKP Clear 1) by Mamelji for Samsung Galaxy A04 4G / M13 5G - Four Edges Perfect Fit Clear,A04,N/A,N/A,7500,7500.0,EGP,N/A,Only 2 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:58.122247,Samsung phone,2,34,B0FDKPFXBQ,V Volt,N/A,N/A,N/A,17500,17500.0,EGP,,V Volt,False,None,N/A,Amazon
+2025-10-20T11:05:58.288067,Samsung phone,2,35,B0FTTJ8DY6,New Design Back Case with Stand Compatible with Phone Samsung Galaxy A06 - Multicolor - 195,A06,N/A,N/A,13600,13600.0,EGP,N/A,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:58.456804,Samsung phone,2,36,B091JHG9YS,Samsung Galaxy S8 Plus case cover clear view flip stand smart mirror phone case/cover-Blue,S8,N/A,blue,35000,35000.0,EGP,N/A,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:58.647705,Samsung phone,2,37,B0F5L89NDF,Dl3 Mobilak,N/A,N/A,N/A,13500,13500.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:05:58.795021,Samsung phone,2,38,B0F8G3L1GM,"Compatible with Samsung Galaxy S23+ Plus Case Transparent, Military-Grade Shockproof Anti-Yellowing, Slim Protective Phone Case Full Bumper Cover With Camera Lens Protective - Black",S23,N/A,black,15000,15000.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:05:58.991680,Samsung phone,2,39,B0FLPS87RT,Shockproof Transparent TPU Phone Case with Card Holder – Camera & Corner Protection – Slim and Stylish Design – Compatible with Samsung Galaxy A20s,A20s,N/A,N/A,7400,7400.0,EGP,N/A,Only 4 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:59.141878,Samsung phone,2,40,B0D95PYMV9,FASCINATION,N/A,N/A,N/A,12000,12000.0,EGP,N/A,FASCINATION,False,None,N/A,Amazon
+2025-10-20T11:05:59.299165,Samsung phone,2,41,B0C8NHMNHN,Plastic Clear Screen Protector Anti Shock Compatible With Samsung Galaxy A32 5G- Do not cover the black frame of the phone screen,A32,N/A,black,10000,10000.0,EGP,,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:05:59.466595,Samsung phone,2,42,B0D9LWD7G8,CooToly,N/A,N/A,N/A,10000,10000.0,EGP,,CooToly,False,None,N/A,Amazon
+2025-10-20T11:05:59.627324,Samsung phone,2,43,B0DBN6CRFY,Generic,N/A,N/A,N/A,13200,13200.0,EGP,,Generic,False,None,N/A,Amazon
+2025-10-20T11:05:59.812987,Samsung phone,2,44,B0DFXJWG7R,"ANKHGIFTSHOP Premium TPU Bumper Case with Corner Protection for Samsung, Clear (SAMSUNG A04)",N/A,N/A,N/A,9900,9900.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:00.015892,Samsung phone,2,45,B099KPQFCH,Case Box,N/A,N/A,N/A,13200,13200.0,EGP,,Case Box,False,None,N/A,Amazon
+2025-10-20T11:06:00.199847,Samsung phone,2,46,B0FPXCRJNB,"Transparent 3D Cartoon Printed Phone Case for Samsung Galaxy A16 Cover, TPU Soft Silicon Bumper, Camera Protection, Anti-shock Cover (Transparent Clear)",A16,N/A,N/A,9400,9400.0,EGP,N/A,Only 4 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:00.381510,Samsung phone,2,47,B0F6KS65CP,Silicone Case for Samsung Galaxy A55 Case Silicone Case Green Soft Shockproof Mobile Phone Case Galaxy A55 Protective Case with Camera Protection Thin Premium Protection (light blue),A55,N/A,blue,10000,10000.0,EGP,,List:,False,None,N/A,Amazon
+2025-10-20T11:06:00.545847,Samsung phone,2,48,B0DQZFWZMM,(For Samsung A05) Back Cover Soft Silicon Bumper TPU Case with Camera Protection For Samsung Galaxy A05 cover (Transparent blue),A05,N/A,blue,3900,3900.0,EGP,,Only 3 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:00.696061,Samsung phone,2,49,B0FLY622MM,Fashionable Design Back cover with Chain Compatible with Phone Samsung Galaxy A16,A16,N/A,N/A,15000,15000.0,EGP,N/A,Only 3 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:00.883213,Samsung phone,2,50,B0C1HV3DMM,LI-ion Borda Silicone Printed mobile case compatible with Samsung M31,N/A,N/A,N/A,13200,13200.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:01.086728,Samsung phone,2,51,B0FD4R1JBN,Pack of 2 pic Battery For all Samsung Buttons Phones Replacement Battery AB463446BU 800 mah Compatible with Samsung Galaxy E250,E250,N/A,N/A,18700,18700.0,EGP,,Was:,False,Limited time deal,N/A,Amazon
+2025-10-20T11:06:03.528687,Samsung phone,3,1,B0D8T5WYPH,SAMSUNG,N/A,N/A,N/A,"75,75000",75.75,EGP,,SAMSUNG,False,None,N/A,Amazon
+2025-10-20T11:06:03.721632,Samsung phone,3,2,B0CP67N7NZ,Samsung,N/A,N/A,N/A,"10,79900",10.799,EGP,,Samsung,False,None,N/A,Amazon
+2025-10-20T11:06:03.934279,Samsung phone,3,3,B0DYPDZ67S,Dl3 Mobilak,N/A,N/A,N/A,16000,16000.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:06:04.142506,Samsung phone,3,4,B0DR3KY67D,GRABIST,N/A,N/A,N/A,16000,16000.0,EGP,,GRABIST,False,None,N/A,Amazon
+2025-10-20T11:06:04.351948,Samsung phone,3,5,B0CZ57QQDZ,compatible with Samsung Galaxy A55 Shock-resistant silicone protective case with camera protection compatible with Samsung Galaxy A55 (light blue),A55,N/A,blue,10000,10000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:04.571972,Samsung phone,3,6,B0DZNRQD56,Amzfield,N/A,N/A,N/A,18370,18370.0,EGP,,Amzfield,False,Save 13%,N/A,Amazon
+2025-10-20T11:06:04.736692,Samsung phone,3,7,B0D2M5TQSY,GRABIST,N/A,N/A,N/A,8000,8000.0,EGP,N/A,GRABIST,False,None,N/A,Amazon
+2025-10-20T11:06:04.905189,Samsung phone,3,8,B0DRLJZJVW,UNBLACK,N/A,N/A,black,13000,13000.0,EGP,,UNBLACK,False,None,N/A,Amazon
+2025-10-20T11:06:05.089239,Samsung phone,3,9,B0CQJM382F,EASSGU,N/A,N/A,N/A,15000,15000.0,EGP,,EASSGU,False,None,N/A,Amazon
+2025-10-20T11:06:05.283947,Samsung phone,3,10,B0CPGC7RYK,ELMO3EZZ,N/A,N/A,N/A,18000,18000.0,EGP,,ELMO3EZZ,False,None,N/A,Amazon
+2025-10-20T11:06:05.484592,Samsung phone,3,11,B0FGV67ZR2,GRABIST,N/A,N/A,N/A,15000,15000.0,EGP,,GRABIST,False,None,N/A,Amazon
+2025-10-20T11:06:05.676385,Samsung phone,3,12,B0FDKPFXBQ,V Volt,N/A,N/A,N/A,17500,17500.0,EGP,,V Volt,False,None,N/A,Amazon
+2025-10-20T11:06:05.856688,Samsung phone,3,13,B0F9QKZWJB,Dl3 Mobilak,N/A,N/A,N/A,15000,15000.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:06:06.036274,Samsung phone,3,14,B0DD34XF61,phone case compatible with Samsung galaxy A34 Classic shockproof silicone soft tpu leather hard pc mobile phone Magnetic Shockproof PC + TPU Phone Case for Samsung galaxy A34 (Green),N/A,N/A,N/A,20000,20000.0,EGP,N/A,Only 4 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:06.240128,Samsung phone,3,15,B0FNC1P831,Dl3 Mobilak,N/A,N/A,N/A,17500,17500.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:06:06.468998,Samsung phone,3,16,B0DDF28LRF,Phone Case Compatible with Samsung Galaxy A15 Luxury PU Leather Back Cover Cover Compatible with Samsung Galaxy A15 (Pink),A15,N/A,N/A,20000,20000.0,EGP,,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:06.624325,Samsung phone,3,17,B099KPQFCH,Case Box,N/A,N/A,N/A,13200,13200.0,EGP,,Case Box,False,None,N/A,Amazon
+2025-10-20T11:06:06.784156,Samsung phone,3,18,B0F113GZJY,Bump Silicon TPU Shild Case Microfiber Lining with Camera Protection For Samsung Galaxy A36 5G (Navy),A36,N/A,N/A,14000,14000.0,EGP,,List:,False,None,N/A,Amazon
+2025-10-20T11:06:06.948167,Samsung phone,3,19,B08WJLGD4D,Dragon,N/A,N/A,N/A,4200,4200.0,EGP,,Dragon,False,None,N/A,Amazon
+2025-10-20T11:06:07.123883,Samsung phone,3,20,B0FD528LR1,FASCINATION,N/A,N/A,N/A,20000,20000.0,EGP,,FASCINATION,False,None,N/A,Amazon
+2025-10-20T11:06:07.293165,Samsung phone,3,21,B0FJMDZHPK,Phone Case Cover TPU+PC With stand in Back shock resistant compatible with Samsung Galaxy Note 9 (Black),Note,N/A,black,18000,18000.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:07.463788,Samsung phone,3,22,B0F8G3L1GM,"Compatible with Samsung Galaxy S23+ Plus Case Transparent, Military-Grade Shockproof Anti-Yellowing, Slim Protective Phone Case Full Bumper Cover With Camera Lens Protective - Black",S23,N/A,black,15000,15000.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:07.650134,Samsung phone,3,23,B0DX7DYM59,Phone Case cover Luxury PU Leather Back Cover Cover Magnetic Wireless Charging Compatible with Samsung Galaxy S25 Ultra (brown),S25,N/A,N/A,35000,35000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:07.849062,Samsung phone,3,24,B0DBN6CRFY,Generic,N/A,N/A,N/A,13200,13200.0,EGP,,Generic,False,None,N/A,Amazon
+2025-10-20T11:06:08.034124,Samsung phone,3,25,B07QYKRR3B,Apexel,N/A,N/A,N/A,"2,79900",2.799,EGP,,Apexel,False,None,N/A,Amazon
+2025-10-20T11:06:08.202507,Samsung phone,3,26,B09KQY1FZD,marble pink silicone printed mobile back cover for samsung galaxy note 10 lite,N/A,N/A,N/A,13200,13200.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:08.364117,Samsung phone,3,27,B0FLPS87RT,Shockproof Transparent TPU Phone Case with Card Holder – Camera & Corner Protection – Slim and Stylish Design – Compatible with Samsung Galaxy A20s,A20s,N/A,N/A,7400,7400.0,EGP,N/A,Only 4 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:08.536289,Samsung phone,3,28,B0FJ2WVZNM,MOBILE MAGIC,N/A,N/A,N/A,12000,12000.0,EGP,N/A,MOBILE MAGIC,False,None,N/A,Amazon
+2025-10-20T11:06:08.691621,Samsung phone,3,29,B0D95PYMV9,FASCINATION,N/A,N/A,N/A,12000,12000.0,EGP,N/A,FASCINATION,False,None,N/A,Amazon
+2025-10-20T11:06:08.866786,Samsung phone,3,30,B0FKLTBQ9B,Dl3 Mobilak,N/A,N/A,N/A,17500,17500.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:06:09.035179,Samsung phone,3,31,B0DFXJWG7R,"ANKHGIFTSHOP Premium TPU Bumper Case with Corner Protection for Samsung, Clear (SAMSUNG A04)",N/A,N/A,N/A,9900,9900.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:09.214408,Samsung phone,3,32,B0F6KS65CP,Silicone Case for Samsung Galaxy A55 Case Silicone Case Green Soft Shockproof Mobile Phone Case Galaxy A55 Protective Case with Camera Protection Thin Premium Protection (light blue),A55,N/A,blue,10000,10000.0,EGP,,List:,False,None,N/A,Amazon
+2025-10-20T11:06:09.393092,Samsung phone,3,33,B0F5L89NDF,Dl3 Mobilak,N/A,N/A,N/A,13500,13500.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:06:09.579534,Samsung phone,3,34,B0DYPFBT48,Dl3 Mobilak,N/A,N/A,N/A,14000,14000.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:06:09.736781,Samsung phone,3,35,B0FPXCRJNB,"Transparent 3D Cartoon Printed Phone Case for Samsung Galaxy A16 Cover, TPU Soft Silicon Bumper, Camera Protection, Anti-shock Cover (Transparent Clear)",A16,N/A,N/A,9400,9400.0,EGP,N/A,Only 4 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:09.895416,Samsung phone,3,36,B0DPTLZPP3,For Samsung Galaxy A04 4G / M13 5G Shockproof Clear Case Cover (MKP Clear 1) by Mamelji for Samsung Galaxy A04 4G / M13 5G - Four Edges Perfect Fit Clear,A04,N/A,N/A,7500,7500.0,EGP,N/A,Only 2 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:10.055115,Samsung phone,3,37,B0C1HV3DMM,LI-ion Borda Silicone Printed mobile case compatible with Samsung M31,N/A,N/A,N/A,13200,13200.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:10.247038,Samsung phone,3,38,B0FD4R1JBN,Pack of 2 pic Battery For all Samsung Buttons Phones Replacement Battery AB463446BU 800 mah Compatible with Samsung Galaxy E250,E250,N/A,N/A,18700,18700.0,EGP,,Was:,False,Limited time deal,N/A,Amazon
+2025-10-20T11:06:10.439742,Samsung phone,3,39,B0C8NHMNHN,Plastic Clear Screen Protector Anti Shock Compatible With Samsung Galaxy A32 5G- Do not cover the black frame of the phone screen,A32,N/A,black,10000,10000.0,EGP,,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:10.606723,Samsung phone,3,40,B0FKDBP22V,C.F.S,N/A,N/A,N/A,14000,14000.0,EGP,N/A,C.F.S,False,None,N/A,Amazon
+2025-10-20T11:06:10.784204,Samsung phone,3,41,B0D9LWD7G8,CooToly,N/A,N/A,N/A,10000,10000.0,EGP,,CooToly,False,None,N/A,Amazon
+2025-10-20T11:06:10.949419,Samsung phone,3,42,B0FLY622MM,Fashionable Design Back cover with Chain Compatible with Phone Samsung Galaxy A16,A16,N/A,N/A,15000,15000.0,EGP,N/A,Only 3 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:11.120150,Samsung phone,3,43,B0FTGM8DQB,"Case for Samsung Galaxy A17 5G, [Built-in Air Cushion] Anti-Yellowing Soft TPU Bumper Case Cover for Samsung A17 5G, Transparent",A17,N/A,N/A,17000,17000.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:11.297258,Samsung phone,3,44,B0DLGXN6D1,"Samsung Galaxy A51 Case, Clear, TPU, Card Slot, Shock-Absorbent, Wallet Type",A51,N/A,N/A,7900,7900.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:11.476745,Samsung phone,3,45,B0C6RK1KYP,Case Zone CBF Silicone Printed mobile case compatible with Samsung A24 (4G),N/A,N/A,N/A,13200,13200.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:11.650872,Samsung phone,3,46,B09LTB3B3J,Case Zone CBD Silicone Printed mobile case compatible with Samsung NOTE 20,N/A,N/A,N/A,13200,13200.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:11.843885,Samsung phone,3,47,B0DQZFWZMM,(For Samsung A05) Back Cover Soft Silicon Bumper TPU Case with Camera Protection For Samsung Galaxy A05 cover (Transparent blue),A05,N/A,blue,3900,3900.0,EGP,,Only 3 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:12.042114,Samsung phone,3,48,B0D9R8TKQ1,Watercolor Girl Vector Snap Silicone Printed mobile case compatible with Samsung A32 5G,N/A,N/A,N/A,13200,13200.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:12.259604,Samsung phone,3,49,B0D849GJVY,Silicon TPU Case Camera Protection with 3D Anime Prints For Samsung Galaxy A54 5G (Sasuke and Itachi),A54,N/A,N/A,5500,5500.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:12.472031,Samsung phone,3,50,B0DCV3M1SB,Abstract Seamless Pattern Silicone Printed mobile case compatible withSamsung M33 (5G),N/A,N/A,N/A,13200,13200.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:14.970109,Samsung phone,4,1,B0D8T5WYPH,SAMSUNG,N/A,N/A,N/A,"75,75000",75.75,EGP,,SAMSUNG,False,None,N/A,Amazon
+2025-10-20T11:06:15.150759,Samsung phone,4,2,B0CP67N7NZ,Samsung,N/A,N/A,N/A,"10,79900",10.799,EGP,,Samsung,False,None,N/A,Amazon
+2025-10-20T11:06:15.320204,Samsung phone,4,3,B0FKD1LSMM,C.F.S,N/A,N/A,N/A,14000,14000.0,EGP,N/A,C.F.S,False,None,N/A,Amazon
+2025-10-20T11:06:15.511186,Samsung phone,4,4,B0DTZZ51KT,Dl3 Mobilak,N/A,N/A,N/A,13500,13500.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:06:15.673682,Samsung phone,4,5,B0FKLTBQ9B,Dl3 Mobilak,N/A,N/A,N/A,17500,17500.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:06:15.848059,Samsung phone,4,6,B0F5L89NDF,Dl3 Mobilak,N/A,N/A,N/A,13500,13500.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:06:16.029597,Samsung phone,4,7,B0DVT9523G,For Samsung Galaxy A56 Liquid Silicone Case with Camera Protection Microfiber Lining (Light Purple),A56,N/A,purple,12000,12000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:16.200617,Samsung phone,4,8,B0DX7DYM59,Phone Case cover Luxury PU Leather Back Cover Cover Magnetic Wireless Charging Compatible with Samsung Galaxy S25 Ultra (brown),S25,N/A,N/A,35000,35000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:16.380443,Samsung phone,4,9,B0FH92V5HJ,"Case Compatibility With Samsung Galaxy A56 5G,Shockproof Bumper Protective Phone Cover, Anti-Scratch oft Flexible TPU Anti-Shock Slim Transparent Back Cover For Samsung Galaxy A56 5G Clear",A56,N/A,N/A,15000,15000.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:16.570911,Samsung phone,4,10,B0FLPS87RT,Shockproof Transparent TPU Phone Case with Card Holder – Camera & Corner Protection – Slim and Stylish Design – Compatible with Samsung Galaxy A20s,A20s,N/A,N/A,7400,7400.0,EGP,N/A,Only 4 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:16.733960,Samsung phone,4,11,B0DFH924B7,GOLDEN MASK,N/A,N/A,gold,25000,25000.0,EGP,N/A,GOLDEN MASK,False,None,N/A,Amazon
+2025-10-20T11:06:16.919563,Samsung phone,4,12,B0CPGC7RYK,ELMO3EZZ,N/A,N/A,N/A,18000,18000.0,EGP,,ELMO3EZZ,False,None,N/A,Amazon
+2025-10-20T11:06:17.100475,Samsung phone,4,13,B0FLY484DR,Fashionable Design Back cover with Chain Compatible with Phone Samsung Galaxy A16,A16,N/A,N/A,15000,15000.0,EGP,N/A,Only 4 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:17.294028,Samsung phone,4,14,B0F113GZJY,Bump Silicon TPU Shild Case Microfiber Lining with Camera Protection For Samsung Galaxy A36 5G (Navy),A36,N/A,N/A,14000,14000.0,EGP,,List:,False,None,N/A,Amazon
+2025-10-20T11:06:17.489607,Samsung phone,4,15,B0CSB57J11,Phone Case Compatible with Samsung Galaxy A70 Luxury PU Leather Flip Cover Magnetic Card Slot Functional Stand Cover Compatible with Samsung Galaxy A70 (Black),A70,N/A,black,30000,30000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:17.666565,Samsung phone,4,16,B0F8G3L1GM,"Compatible with Samsung Galaxy S23+ Plus Case Transparent, Military-Grade Shockproof Anti-Yellowing, Slim Protective Phone Case Full Bumper Cover With Camera Lens Protective - Black",S23,N/A,black,15000,15000.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:17.885257,Samsung phone,4,17,B0FKZF5G1H,"Designed for Magnetic Samsung Galaxy A35 Case,[Compatible with MagSafe] [Military Grade Drop Protection] Slim Translucent Matte Shockproof with Anti-Fingerprint Phone Case (Pink)",A35,N/A,N/A,25000,25000.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:18.057755,Samsung phone,4,18,B0D9LWD7G8,CooToly,N/A,N/A,N/A,10000,10000.0,EGP,,CooToly,False,None,N/A,Amazon
+2025-10-20T11:06:18.234481,Samsung phone,4,19,B0DPW25L7R,For samsung a16 case CamShield Case with Slide Camera Cover Shockproof Full Protection Metal Ring Multifunction Case for samsung a16 (blue),N/A,N/A,blue,19900,19900.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:18.401903,Samsung phone,4,20,B0FPXCRJNB,"Transparent 3D Cartoon Printed Phone Case for Samsung Galaxy A16 Cover, TPU Soft Silicon Bumper, Camera Protection, Anti-shock Cover (Transparent Clear)",A16,N/A,N/A,9400,9400.0,EGP,N/A,Only 4 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:18.585356,Samsung phone,4,21,B0DLGXN6D1,"Samsung Galaxy A51 Case, Clear, TPU, Card Slot, Shock-Absorbent, Wallet Type",A51,N/A,N/A,7900,7900.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:18.737562,Samsung phone,4,22,B0DPTLZPP3,For Samsung Galaxy A04 4G / M13 5G Shockproof Clear Case Cover (MKP Clear 1) by Mamelji for Samsung Galaxy A04 4G / M13 5G - Four Edges Perfect Fit Clear,A04,N/A,N/A,7500,7500.0,EGP,N/A,Only 2 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:18.905154,Samsung phone,4,23,B0DBN6CRFY,Generic,N/A,N/A,N/A,13200,13200.0,EGP,,Generic,False,None,N/A,Amazon
+2025-10-20T11:06:19.069146,Samsung phone,4,24,B0FLY622MM,Fashionable Design Back cover with Chain Compatible with Phone Samsung Galaxy A16,A16,N/A,N/A,15000,15000.0,EGP,N/A,Only 3 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:19.242395,Samsung phone,4,25,B0DFH8HQPR,GOLDEN MASK,N/A,N/A,gold,25000,25000.0,EGP,,GOLDEN MASK,False,None,N/A,Amazon
+2025-10-20T11:06:19.425952,Samsung phone,4,26,B0F6KS65CP,Silicone Case for Samsung Galaxy A55 Case Silicone Case Green Soft Shockproof Mobile Phone Case Galaxy A55 Protective Case with Camera Protection Thin Premium Protection (light blue),A55,N/A,blue,10000,10000.0,EGP,,List:,False,None,N/A,Amazon
+2025-10-20T11:06:19.596185,Samsung phone,4,27,B0F79VKMKN,Dl3 Mobilak,N/A,N/A,N/A,15000,15000.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:06:19.790908,Samsung phone,4,28,B0C8NHMNHN,Plastic Clear Screen Protector Anti Shock Compatible With Samsung Galaxy A32 5G- Do not cover the black frame of the phone screen,A32,N/A,black,10000,10000.0,EGP,,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:20.003790,Samsung phone,4,29,B08WJLGD4D,Dragon,N/A,N/A,N/A,4200,4200.0,EGP,,Dragon,False,None,N/A,Amazon
+2025-10-20T11:06:20.202862,Samsung phone,4,30,B0DYQHBHYF,Dl3 Mobilak,N/A,N/A,N/A,15000,15000.0,EGP,N/A,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:06:20.402590,Samsung phone,4,31,B0F88454CL,V Volt,N/A,N/A,N/A,12900,12900.0,EGP,N/A,V Volt,False,None,N/A,Amazon
+2025-10-20T11:06:20.603101,Samsung phone,4,32,B0FL187L7G,Sweet Pink Ribbon Love Silicone Printed mobile case compatible with Samsung Galaxy M31 Prime,M31,N/A,N/A,13200,13200.0,EGP,,N/A,True,None,N/A,Amazon
+2025-10-20T11:06:20.772478,Samsung phone,4,33,B099KPQFCH,Case Box,N/A,N/A,N/A,13200,13200.0,EGP,,Case Box,False,None,N/A,Amazon
+2025-10-20T11:06:20.964724,Samsung phone,4,34,B09KQY1FZD,marble pink silicone printed mobile back cover for samsung galaxy note 10 lite,N/A,N/A,N/A,13200,13200.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:21.156254,Samsung phone,4,35,B0F63K7W9L,"Bumper Silicone Back Phone Protection Cover For Samsung Galaxy A15 - Ligh Purple, 37328227",A15,N/A,purple,10000,10000.0,EGP,N/A,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:21.327268,Samsung phone,4,36,B0FKDBP22V,C.F.S,N/A,N/A,N/A,14000,14000.0,EGP,N/A,C.F.S,False,None,N/A,Amazon
+2025-10-20T11:06:21.478445,Samsung phone,4,37,B0C1HV3DMM,LI-ion Borda Silicone Printed mobile case compatible with Samsung M31,N/A,N/A,N/A,13200,13200.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:21.642164,Samsung phone,4,38,B0DFXJWG7R,"ANKHGIFTSHOP Premium TPU Bumper Case with Corner Protection for Samsung, Clear (SAMSUNG A04)",N/A,N/A,N/A,9900,9900.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:21.834038,Samsung phone,4,39,B0DQZFWZMM,(For Samsung A05) Back Cover Soft Silicon Bumper TPU Case with Camera Protection For Samsung Galaxy A05 cover (Transparent blue),A05,N/A,blue,3900,3900.0,EGP,,Only 3 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:22.028732,Samsung phone,4,40,B0D3RXSSNR,Back Cover Case Compatible with Samsung Galaxy A51 Soft Silicone Gel Rubber Shockproof Matte Finish Inner Cloth Lining with Camera Protection (Purple),A51,N/A,purple,11000,11000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:22.256663,Samsung phone,4,41,B0FTGM8DQB,"Case for Samsung Galaxy A17 5G, [Built-in Air Cushion] Anti-Yellowing Soft TPU Bumper Case Cover for Samsung A17 5G, Transparent",A17,N/A,N/A,17000,17000.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:22.487254,Samsung phone,4,42,B0FD4R1JBN,Pack of 2 pic Battery For all Samsung Buttons Phones Replacement Battery AB463446BU 800 mah Compatible with Samsung Galaxy E250,E250,N/A,N/A,18700,18700.0,EGP,,Was:,False,Limited time deal,N/A,Amazon
+2025-10-20T11:06:22.664348,Samsung phone,4,43,B0C6RK1KYP,Case Zone CBF Silicone Printed mobile case compatible with Samsung A24 (4G),N/A,N/A,N/A,13200,13200.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:22.898332,Samsung phone,4,44,B07QYKRR3B,Apexel,N/A,N/A,N/A,"2,79900",2.799,EGP,,Apexel,False,None,N/A,Amazon
+2025-10-20T11:06:23.076576,Samsung phone,4,45,B0C6RHZFX7,Case Zone CCX Silicone Printed mobile case compatible with Samsung A03s,N/A,N/A,N/A,13200,13200.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:23.299728,Samsung phone,4,46,B0D849GJVY,Silicon TPU Case Camera Protection with 3D Anime Prints For Samsung Galaxy A54 5G (Sasuke and Itachi),A54,N/A,N/A,5500,5500.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:23.475989,Samsung phone,4,47,B0C1HSTPDY,Stitch Silicone Printed mobile case compatible with Samsung A33 5G,N/A,N/A,N/A,13200,13200.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:23.695271,Samsung phone,4,48,B09LTB3B3J,Case Zone CBD Silicone Printed mobile case compatible with Samsung NOTE 20,N/A,N/A,N/A,13200,13200.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:23.862670,Samsung phone,4,49,B0D9R8TKQ1,Watercolor Girl Vector Snap Silicone Printed mobile case compatible with Samsung A32 5G,N/A,N/A,N/A,13200,13200.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:24.094960,Samsung phone,4,50,B0DCV3M1SB,Abstract Seamless Pattern Silicone Printed mobile case compatible withSamsung M33 (5G),N/A,N/A,N/A,13200,13200.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:24.242987,Samsung phone,4,51,B0DXGCWTLS,AZ Silicone Printed mobile case compatible with Samsung A06,N/A,N/A,N/A,13200,13200.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:26.717599,Samsung phone,5,1,B0D8T5WYPH,SAMSUNG,N/A,N/A,N/A,"75,75000",75.75,EGP,,SAMSUNG,False,None,N/A,Amazon
+2025-10-20T11:06:26.956363,Samsung phone,5,2,B0CP67N7NZ,Samsung,N/A,N/A,N/A,"10,79900",10.799,EGP,,Samsung,False,None,N/A,Amazon
+2025-10-20T11:06:27.118656,Samsung phone,5,3,B0FKD1LSMM,C.F.S,N/A,N/A,N/A,14000,14000.0,EGP,N/A,C.F.S,False,None,N/A,Amazon
+2025-10-20T11:06:27.287106,Samsung phone,5,4,B0FLY484DR,Fashionable Design Back cover with Chain Compatible with Phone Samsung Galaxy A16,A16,N/A,N/A,15000,15000.0,EGP,N/A,Only 4 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:27.465874,Samsung phone,5,5,B0DLGXN6D1,"Samsung Galaxy A51 Case, Clear, TPU, Card Slot, Shock-Absorbent, Wallet Type",A51,N/A,N/A,7900,7900.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:27.633870,Samsung phone,5,6,B0DPW25L7R,For samsung a16 case CamShield Case with Slide Camera Cover Shockproof Full Protection Metal Ring Multifunction Case for samsung a16 (blue),N/A,N/A,blue,19900,19900.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:27.821112,Samsung phone,5,7,B0DFH8HQPR,GOLDEN MASK,N/A,N/A,gold,25000,25000.0,EGP,,GOLDEN MASK,False,None,N/A,Amazon
+2025-10-20T11:06:28.015821,Samsung phone,5,8,B0FLY622MM,Fashionable Design Back cover with Chain Compatible with Phone Samsung Galaxy A16,A16,N/A,N/A,15000,15000.0,EGP,N/A,Only 3 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:28.184328,Samsung phone,5,9,B0FKZ7FBVJ,Next store,N/A,N/A,N/A,17875,17875.0,EGP,,Next store,False,None,N/A,Amazon
+2025-10-20T11:06:28.368591,Samsung phone,5,10,B0DYGBHWPD,Dl3 Mobilak,N/A,N/A,N/A,15000,15000.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:06:28.551238,Samsung phone,5,11,B0FPXCRJNB,"Transparent 3D Cartoon Printed Phone Case for Samsung Galaxy A16 Cover, TPU Soft Silicon Bumper, Camera Protection, Anti-shock Cover (Transparent Clear)",A16,N/A,N/A,9400,9400.0,EGP,N/A,Only 4 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:28.696766,Samsung phone,5,12,B0DPTLZPP3,For Samsung Galaxy A04 4G / M13 5G Shockproof Clear Case Cover (MKP Clear 1) by Mamelji for Samsung Galaxy A04 4G / M13 5G - Four Edges Perfect Fit Clear,A04,N/A,N/A,7500,7500.0,EGP,N/A,Only 2 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:28.857565,Samsung phone,5,13,B0FNBG5S9M,Dl3 Mobilak,N/A,N/A,N/A,17500,17500.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:06:29.034473,Samsung phone,5,14,B0DBN6CRFY,Generic,N/A,N/A,N/A,13200,13200.0,EGP,,Generic,False,None,N/A,Amazon
+2025-10-20T11:06:29.211247,Samsung phone,5,15,B0FNBX7VHD,Dl3 Mobilak,N/A,N/A,N/A,17500,17500.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:06:29.401221,Samsung phone,5,16,B0CW9ZBPP4,Case Compatible with Samsung Galaxy A04 / A04E Transparent Four Corners Full Body Protection TPU Anti-Yellowing Phone Case - Clear,A04,N/A,N/A,5900,5900.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:29.627881,Samsung phone,5,17,B0FKZHF2ZJ,"Designed for Magnetic Samsung Galaxy A26 Case,[Compatible with MagSafe] [Military Grade Drop Protection] Slim Translucent Matte Shockproof with Anti-Fingerprint Phone Case (Light purple)",A26,N/A,purple,25000,25000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:29.834083,Samsung phone,5,18,B0C8NHMNHN,Plastic Clear Screen Protector Anti Shock Compatible With Samsung Galaxy A32 5G- Do not cover the black frame of the phone screen,A32,N/A,black,10000,10000.0,EGP,,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:30.034108,Samsung phone,5,19,B0F6KS65CP,Silicone Case for Samsung Galaxy A55 Case Silicone Case Green Soft Shockproof Mobile Phone Case Galaxy A55 Protective Case with Camera Protection Thin Premium Protection (light blue),A55,N/A,blue,10000,10000.0,EGP,,List:,False,None,N/A,Amazon
+2025-10-20T11:06:30.224190,Samsung phone,5,20,B0F88454CL,V Volt,N/A,N/A,N/A,12900,12900.0,EGP,N/A,V Volt,False,None,N/A,Amazon
+2025-10-20T11:06:30.425899,Samsung phone,5,21,B0CRDSFKS2,Akoron,N/A,N/A,N/A,25000,25000.0,EGP,,Akoron,False,None,N/A,Amazon
+2025-10-20T11:06:30.584701,Samsung phone,5,22,B0DYQHBHYF,Dl3 Mobilak,N/A,N/A,N/A,15000,15000.0,EGP,N/A,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:06:30.757685,Samsung phone,5,23,B0F63K7W9L,"Bumper Silicone Back Phone Protection Cover For Samsung Galaxy A15 - Ligh Purple, 37328227",A15,N/A,purple,10000,10000.0,EGP,N/A,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:30.934629,Samsung phone,5,24,B0FKDBP22V,C.F.S,N/A,N/A,N/A,14000,14000.0,EGP,N/A,C.F.S,False,None,N/A,Amazon
+2025-10-20T11:06:31.126693,Samsung phone,5,25,B08WJLGD4D,Dragon,N/A,N/A,N/A,4200,4200.0,EGP,,Dragon,False,None,N/A,Amazon
+2025-10-20T11:06:31.325221,Samsung phone,5,26,B0FL187L7G,Sweet Pink Ribbon Love Silicone Printed mobile case compatible with Samsung Galaxy M31 Prime,M31,N/A,N/A,13200,13200.0,EGP,,N/A,True,None,N/A,Amazon
+2025-10-20T11:06:31.499683,Samsung phone,5,27,B0CGKJCZDQ,Generic,N/A,N/A,N/A,6000,6000.0,EGP,,Generic,False,None,N/A,Amazon
+2025-10-20T11:06:31.667431,Samsung phone,5,28,B0FMP8SFR4,"CASE Compatible with Samsung Galaxy A52 Case, Clear Glitter Bling Sparkly, Soft TPU Frame Bumper, Hard-Back Cover for Women & Girls, Transparent Protective Phone Case (02)",A52,N/A,N/A,14000,14000.0,EGP,N/A,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:31.862363,Samsung phone,5,29,B0D3RXSSNR,Back Cover Case Compatible with Samsung Galaxy A51 Soft Silicone Gel Rubber Shockproof Matte Finish Inner Cloth Lining with Camera Protection (Purple),A51,N/A,purple,11000,11000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:32.056099,Samsung phone,5,30,B09KQY1FZD,marble pink silicone printed mobile back cover for samsung galaxy note 10 lite,N/A,N/A,N/A,13200,13200.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:32.245494,Samsung phone,5,31,B099KPQFCH,Case Box,N/A,N/A,N/A,13200,13200.0,EGP,,Case Box,False,None,N/A,Amazon
+2025-10-20T11:06:32.428743,Samsung phone,5,32,B0C1HV3DMM,LI-ion Borda Silicone Printed mobile case compatible with Samsung M31,N/A,N/A,N/A,13200,13200.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:32.627043,Samsung phone,5,33,B0DZWS3CMY,DEVASO,N/A,N/A,N/A,18799,18799.0,EGP,,DEVASO,False,None,N/A,Amazon
+2025-10-20T11:06:32.833105,Samsung phone,5,34,B0DQZFWZMM,(For Samsung A05) Back Cover Soft Silicon Bumper TPU Case with Camera Protection For Samsung Galaxy A05 cover (Transparent blue),A05,N/A,blue,3900,3900.0,EGP,,Only 3 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:33.004182,Samsung phone,5,35,B0DFXJWG7R,"ANKHGIFTSHOP Premium TPU Bumper Case with Corner Protection for Samsung, Clear (SAMSUNG A04)",N/A,N/A,N/A,9900,9900.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:33.168312,Samsung phone,5,36,B0D9R7XHT2,Generic,N/A,N/A,N/A,13200,13200.0,EGP,N/A,Generic,False,None,N/A,Amazon
+2025-10-20T11:06:33.337498,Samsung phone,5,37,B0FD4R1JBN,Pack of 2 pic Battery For all Samsung Buttons Phones Replacement Battery AB463446BU 800 mah Compatible with Samsung Galaxy E250,E250,N/A,N/A,18700,18700.0,EGP,,Was:,False,Limited time deal,N/A,Amazon
+2025-10-20T11:06:33.517542,Samsung phone,5,38,B0C6RK1KYP,Case Zone CBF Silicone Printed mobile case compatible with Samsung A24 (4G),N/A,N/A,N/A,13200,13200.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:33.679529,Samsung phone,5,39,B0FTGM8DQB,"Case for Samsung Galaxy A17 5G, [Built-in Air Cushion] Anti-Yellowing Soft TPU Bumper Case Cover for Samsung A17 5G, Transparent",A17,N/A,N/A,17000,17000.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:33.871423,Samsung phone,5,40,B0D849GJVY,Silicon TPU Case Camera Protection with 3D Anime Prints For Samsung Galaxy A54 5G (Sasuke and Itachi),A54,N/A,N/A,5500,5500.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:34.048994,Samsung phone,5,41,B0DP3PLDGX,CHH Silicone Printed mobile case compatible with Samsung galaxy A32 (5G),N/A,N/A,N/A,13200,13200.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:34.207869,Samsung phone,5,42,B0DR3B65WG,Design 312 Silicone Printed mobile case compatible with Samsung Galaxy A22 4G,A22,N/A,N/A,13200,13200.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:34.371085,Samsung phone,5,43,B0C6RHZFX7,Case Zone CCX Silicone Printed mobile case compatible with Samsung A03s,N/A,N/A,N/A,13200,13200.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:34.555300,Samsung phone,5,44,B07QYKRR3B,Apexel,N/A,N/A,N/A,"2,79900",2.799,EGP,,Apexel,False,None,N/A,Amazon
+2025-10-20T11:06:34.727037,Samsung phone,5,45,B0D9R8HH5H,You Are Who Choose To Be Snap Silicone Printed mobile case compatible with Samsung A32 5G,N/A,N/A,N/A,13200,13200.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:34.885338,Samsung phone,5,46,B0D9R8TKQ1,Watercolor Girl Vector Snap Silicone Printed mobile case compatible with Samsung A32 5G,N/A,N/A,N/A,13200,13200.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:35.081149,Samsung phone,5,47,B09LTB3B3J,Case Zone CBD Silicone Printed mobile case compatible with Samsung NOTE 20,N/A,N/A,N/A,13200,13200.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:35.276613,Samsung phone,5,48,B0DCV3M1SB,Abstract Seamless Pattern Silicone Printed mobile case compatible withSamsung M33 (5G),N/A,N/A,N/A,13200,13200.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:35.470967,Samsung phone,5,49,B0C1HSTPDY,Stitch Silicone Printed mobile case compatible with Samsung A33 5G,N/A,N/A,N/A,13200,13200.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:35.642001,Samsung phone,5,50,B0DXGCWTLS,AZ Silicone Printed mobile case compatible with Samsung A06,N/A,N/A,N/A,13200,13200.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:35.822241,Samsung phone,5,51,B09M15T24L,Case Zone CBB Silicone Printed mobile case compatible with Samsung A51,N/A,N/A,N/A,13200,13200.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:38.279501,Samsung phone,6,1,B0D8T5WYPH,SAMSUNG,N/A,N/A,N/A,"75,75000",75.75,EGP,,SAMSUNG,False,None,N/A,Amazon
+2025-10-20T11:06:38.468941,Samsung phone,6,2,B0CP67N7NZ,Samsung,N/A,N/A,N/A,"10,79900",10.799,EGP,,Samsung,False,None,N/A,Amazon
+2025-10-20T11:06:38.678482,Samsung phone,6,3,B0DR39T2KJ,Design 266 Silicone Printed mobile case compatible with Samsung Galaxy A22 4G,A22,N/A,N/A,13200,13200.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:38.857093,Samsung phone,6,4,B0DDV34N7N,ELMO3EZZ,N/A,N/A,N/A,21375,21375.0,EGP,N/A,ELMO3EZZ,False,None,N/A,Amazon
+2025-10-20T11:06:39.022520,Samsung phone,6,5,B0D9R8HH5H,You Are Who Choose To Be Snap Silicone Printed mobile case compatible with Samsung A32 5G,N/A,N/A,N/A,13200,13200.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:39.199185,Samsung phone,6,6,B0D9R8TKQ1,Watercolor Girl Vector Snap Silicone Printed mobile case compatible with Samsung A32 5G,N/A,N/A,N/A,13200,13200.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:39.405356,Samsung phone,6,7,B07QYKRR3B,Apexel,N/A,N/A,N/A,"2,79900",2.799,EGP,,Apexel,False,None,N/A,Amazon
+2025-10-20T11:06:39.591934,Samsung phone,6,8,B09LTB3B3J,Case Zone CBD Silicone Printed mobile case compatible with Samsung NOTE 20,N/A,N/A,N/A,13200,13200.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:39.795964,Samsung phone,6,9,B0DCV3M1SB,Abstract Seamless Pattern Silicone Printed mobile case compatible withSamsung M33 (5G),N/A,N/A,N/A,13200,13200.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:40.030042,Samsung phone,6,10,B0C1HSTPDY,Stitch Silicone Printed mobile case compatible with Samsung A33 5G,N/A,N/A,N/A,13200,13200.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:40.224594,Samsung phone,6,11,B0977XBM8V,Covery Cases,N/A,N/A,N/A,13200,13200.0,EGP,N/A,Covery Cases,False,None,N/A,Amazon
+2025-10-20T11:06:40.415410,Samsung phone,6,12,B0DXGCWTLS,AZ Silicone Printed mobile case compatible with Samsung A06,N/A,N/A,N/A,13200,13200.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:40.596144,Samsung phone,6,13,B0DYPCW54V,Dl3 Mobilak,N/A,N/A,N/A,15000,15000.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:06:40.772078,Samsung phone,6,14,B0C6RHZFX7,Case Zone CCX Silicone Printed mobile case compatible with Samsung A03s,N/A,N/A,N/A,13200,13200.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:40.952114,Samsung phone,6,15,B0FRCLC2W8,"Silicone Wallet Phone Case for Samsung S21 Plus with Credit Card Holder Pocket, Slim Fit Rugged Protective Cover with 1 Ring Holder (Clear, For Samsung S21 Plus)",N/A,N/A,red,15000,15000.0,EGP,N/A,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:41.143701,Samsung phone,6,16,B0CVRY92X9,Dl3 Mobilak,N/A,N/A,N/A,15000,15000.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:06:41.333273,Samsung phone,6,17,B0FHWJKX1P,phone case cover Magic Shield TPU + Silicone UNBLACK Shockproof Phone Case compatible with Samsung Galaxy S22 Ultra (Dark Blue),S22,N/A,black,13000,13000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:41.495517,Samsung phone,6,18,B0FMP8SFR4,"CASE Compatible with Samsung Galaxy A52 Case, Clear Glitter Bling Sparkly, Soft TPU Frame Bumper, Hard-Back Cover for Women & Girls, Transparent Protective Phone Case (02)",A52,N/A,N/A,14000,14000.0,EGP,N/A,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:41.686479,Samsung phone,6,19,B0CW9ZBPP4,Case Compatible with Samsung Galaxy A04 / A04E Transparent Four Corners Full Body Protection TPU Anti-Yellowing Phone Case - Clear,A04,N/A,N/A,5900,5900.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:41.912973,Samsung phone,6,20,B0FPDLLFML,Compatible with Samsung Galaxy A36 Case Soft Silicone Cover with Card Holder Phone Case Soft Fashion Design Wallet Case (Maroon Red),A36,N/A,red,12000,12000.0,EGP,N/A,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:42.079244,Samsung phone,6,21,B0DG9Y3GKR,Phone case compatible with Samsung galaxy A15 Skin Feel Magnetic premium pu Leather and slim soft protective Back Phone For Samsung galaxy A15 (Gray),N/A,N/A,N/A,22000,22000.0,EGP,,Only 3 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:42.268884,Samsung phone,6,22,B0DQJKMK7Q,Silicone Case Compatible with Samsung Galaxy A26 Soft Silicone Gel Rubber Shockproof Cover Matte Finish with Cloth Inner Lining (Lavender),A26,N/A,N/A,11000,11000.0,EGP,,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:42.448966,Samsung phone,6,23,B0D9R7XHT2,Generic,N/A,N/A,N/A,13200,13200.0,EGP,N/A,Generic,False,None,N/A,Amazon
+2025-10-20T11:06:42.619104,Samsung phone,6,24,B0CNBBVB1G,zZjoOoj,N/A,N/A,N/A,15000,15000.0,EGP,,zZjoOoj,False,None,N/A,Amazon
+2025-10-20T11:06:42.802780,Samsung phone,6,25,B0FPDRDFB3,MOBILE MAGIC,N/A,N/A,N/A,14000,14000.0,EGP,N/A,MOBILE MAGIC,False,None,N/A,Amazon
+2025-10-20T11:06:42.970055,Samsung phone,6,26,B0C5LK8Y6S,GiiYoon,N/A,N/A,N/A,14000,14000.0,EGP,,GiiYoon,False,None,N/A,Amazon
+2025-10-20T11:06:43.127175,Samsung phone,6,27,B0DPT6BJ76,Compatible with Samsung Galaxy A16 Flip Wallet Leather Case Cover (Black),A16,N/A,black,12000,12000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:43.305609,Samsung phone,6,28,B0F3CRLJPD,Phone Case Cover UNBLACK Luxury PU Leather Flip Cover 023 Card Slot Holder Cover Compatible with Samsung Galaxy A56 (purple),A56,N/A,black,38000,38000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:43.500650,Samsung phone,6,29,B0F3C2HB64,Phone Case Cover UNBLACK Luxury PU Leather Design 013 Flip Cover Card Slot Holder Cover Compatible with Samsung Galaxy A26 (coffe),A26,N/A,black,38000,38000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:43.661443,Samsung phone,6,30,B0D6VWV85V,GRABIST,N/A,N/A,N/A,15000,15000.0,EGP,,GRABIST,False,None,N/A,Amazon
+2025-10-20T11:06:43.861040,Samsung phone,6,31,B0F1Y5S3PD,GRABIST,N/A,N/A,N/A,18000,18000.0,EGP,,GRABIST,False,None,N/A,Amazon
+2025-10-20T11:06:44.035909,Samsung phone,6,32,B0FKZHF2ZJ,"Designed for Magnetic Samsung Galaxy A26 Case,[Compatible with MagSafe] [Military Grade Drop Protection] Slim Translucent Matte Shockproof with Anti-Fingerprint Phone Case (Light purple)",A26,N/A,purple,25000,25000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:44.226900,Samsung phone,6,33,B0D94VBBQJ,Dl3 Mobilak,N/A,N/A,N/A,22000,22000.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:06:44.419777,Samsung phone,6,34,B09M15T24L,Case Zone CBB Silicone Printed mobile case compatible with Samsung A51,N/A,N/A,N/A,13200,13200.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:44.598438,Samsung phone,6,35,B0DYPF8MSQ,Dl3 Mobilak,N/A,N/A,N/A,17500,17500.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:06:44.787483,Samsung phone,6,36,B0DR3B65WG,Design 312 Silicone Printed mobile case compatible with Samsung Galaxy A22 4G,A22,N/A,N/A,13200,13200.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:44.993739,Samsung phone,6,37,B09WGX6W8W,YBPowercable,N/A,N/A,N/A,19900,19900.0,EGP,,YBPowercable,False,None,N/A,Amazon
+2025-10-20T11:06:45.184769,Samsung phone,6,38,B0DY5KJWW9,GRABIST,N/A,N/A,N/A,18000,18000.0,EGP,,GRABIST,False,None,N/A,Amazon
+2025-10-20T11:06:45.366171,Samsung phone,6,39,B0F8YRJT8X,Dl3 Mobilak,N/A,N/A,N/A,17500,17500.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:06:45.554625,Samsung phone,6,40,B0DVCX54XY,"Clear Silicone Case for Samsung Galaxy A36 5G with Shockproof Protective Corners, Thin Soft Transparent Protective Flexible TPU Transparent Mobile Phone Case Scratch-Resistant Case Cover",A36,N/A,N/A,11000,11000.0,EGP,,Only 4 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:45.804055,Samsung phone,6,41,B0FRWT5Z83,Dl3 Mobilak,N/A,N/A,N/A,17500,17500.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:06:45.981217,Samsung phone,6,42,B0F7ZG8J89,"Case Compatible with Samsung A55, Soft Silicone Protective Kickstand Holder Phone Case with Card Holder Foldable Base, Full Body Protection with Wrist Strap for Samsung A55",N/A,N/A,N/A,20000,20000.0,EGP,,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:46.185808,Samsung phone,6,43,B0CZLNB23V,Boquaw,N/A,N/A,N/A,"5,20000",5.2,EGP,,Boquaw,False,None,N/A,Amazon
+2025-10-20T11:06:46.353935,Samsung phone,6,44,B094WD6Y61,MaiJin,N/A,N/A,N/A,13000,13000.0,EGP,,MaiJin,False,None,N/A,Amazon
+2025-10-20T11:06:46.543294,Samsung phone,6,45,B0DDY572MB,FASCINATION,N/A,N/A,N/A,12000,12000.0,EGP,,FASCINATION,False,None,N/A,Amazon
+2025-10-20T11:06:46.735068,Samsung phone,6,46,B0FKZQ17WQ,"Designed for Magnetic Samsung Galaxy A55 Case,[Compatible with MagSafe] [Military Grade Drop Protection] Slim Translucent Matte Shockproof with Anti-Fingerprint Phone Case (Light Purple)",A55,N/A,purple,26000,26000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:46.936357,Samsung phone,6,47,B0DR39BNDV,Design 54 Silicone Printed mobile case compatible with Samsung Galaxy A22 4G,A22,N/A,N/A,13200,13200.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:47.117216,Samsung phone,6,48,B088W6148Z,"Megadream Android Gamepad Controller, Wireless Key Mapping Gamepad Joystick Perfect for Call of Duty & PUBG Mobile & More, Compatible for Samsung Galaxy HTC LG Other Phone, Not for iOS",HTC,N/A,N/A,"1,25000",1.25,EGP,,Only 2 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:47.317753,Samsung phone,6,49,B0FNBS3642,Dl3 Mobilak,N/A,N/A,N/A,17500,17500.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:06:47.520111,Samsung phone,6,50,B0DYPDN9H2,Dl3 Mobilak,N/A,N/A,N/A,17500,17500.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:06:49.969072,Samsung phone,7,1,B0D8T5WYPH,SAMSUNG,N/A,N/A,N/A,"75,75000",75.75,EGP,,SAMSUNG,False,None,N/A,Amazon
+2025-10-20T11:06:50.154818,Samsung phone,7,2,B0CP67N7NZ,Samsung,N/A,N/A,N/A,"10,79900",10.799,EGP,,Samsung,False,None,N/A,Amazon
+2025-10-20T11:06:50.332174,Samsung phone,7,3,B0FKD1LSMM,C.F.S,N/A,N/A,N/A,14000,14000.0,EGP,N/A,C.F.S,False,None,N/A,Amazon
+2025-10-20T11:06:50.512487,Samsung phone,7,4,B0DPT6BJ76,Compatible with Samsung Galaxy A16 Flip Wallet Leather Case Cover (Black),A16,N/A,black,12000,12000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:50.703521,Samsung phone,7,5,B0F3CRLJPD,Phone Case Cover UNBLACK Luxury PU Leather Flip Cover 023 Card Slot Holder Cover Compatible with Samsung Galaxy A56 (purple),A56,N/A,black,38000,38000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:50.887700,Samsung phone,7,6,B0F3C2HB64,Phone Case Cover UNBLACK Luxury PU Leather Design 013 Flip Cover Card Slot Holder Cover Compatible with Samsung Galaxy A26 (coffe),A26,N/A,black,38000,38000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:51.075014,Samsung phone,7,7,B0D6VWV85V,GRABIST,N/A,N/A,N/A,15000,15000.0,EGP,,GRABIST,False,None,N/A,Amazon
+2025-10-20T11:06:51.259685,Samsung phone,7,8,B0F1Y5S3PD,GRABIST,N/A,N/A,N/A,18000,18000.0,EGP,,GRABIST,False,None,N/A,Amazon
+2025-10-20T11:06:51.449631,Samsung phone,7,9,B0FKZHF2ZJ,"Designed for Magnetic Samsung Galaxy A26 Case,[Compatible with MagSafe] [Military Grade Drop Protection] Slim Translucent Matte Shockproof with Anti-Fingerprint Phone Case (Light purple)",A26,N/A,purple,25000,25000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:51.621916,Samsung phone,7,10,B0D94VBBQJ,Dl3 Mobilak,N/A,N/A,N/A,22000,22000.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:06:51.775254,Samsung phone,7,11,B09M15T24L,Case Zone CBB Silicone Printed mobile case compatible with Samsung A51,N/A,N/A,N/A,13200,13200.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:51.941146,Samsung phone,7,12,B0DYPF8MSQ,Dl3 Mobilak,N/A,N/A,N/A,17500,17500.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:06:52.103949,Samsung phone,7,13,B0DR3B65WG,Design 312 Silicone Printed mobile case compatible with Samsung Galaxy A22 4G,A22,N/A,N/A,13200,13200.0,EGP,N/A,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:52.284800,Samsung phone,7,14,B09WGX6W8W,YBPowercable,N/A,N/A,N/A,19900,19900.0,EGP,,YBPowercable,False,None,N/A,Amazon
+2025-10-20T11:06:52.460354,Samsung phone,7,15,B0DY5KJWW9,GRABIST,N/A,N/A,N/A,18000,18000.0,EGP,,GRABIST,False,None,N/A,Amazon
+2025-10-20T11:06:52.615212,Samsung phone,7,16,B0FHWK2S93,phone case cover Magic Shield TPU + Silicone UNBLACK Shockproof Phone Case compatible with Samsung Galaxy A54 (Black),A54,N/A,black,13000,13000.0,EGP,,N/A,False,None,N/A,Amazon
+2025-10-20T11:06:52.769897,Samsung phone,7,17,B0F8YRJT8X,Dl3 Mobilak,N/A,N/A,N/A,17500,17500.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:06:52.923575,Samsung phone,7,18,B0DVCX54XY,"Clear Silicone Case for Samsung Galaxy A36 5G with Shockproof Protective Corners, Thin Soft Transparent Protective Flexible TPU Transparent Mobile Phone Case Scratch-Resistant Case Cover",A36,N/A,N/A,11000,11000.0,EGP,,Only 4 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:53.084643,Samsung phone,7,19,B0FRWT5Z83,Dl3 Mobilak,N/A,N/A,N/A,17500,17500.0,EGP,,Dl3 Mobilak,False,None,N/A,Amazon
+2025-10-20T11:06:53.261021,Samsung phone,7,20,B0F7ZG8J89,"Case Compatible with Samsung A55, Soft Silicone Protective Kickstand Holder Phone Case with Card Holder Foldable Base, Full Body Protection with Wrist Strap for Samsung A55",N/A,N/A,N/A,20000,20000.0,EGP,,Only 1 left in stock - order soon.,False,None,N/A,Amazon
+2025-10-20T11:06:53.440090,Samsung phone,7,21,B094WD6Y61,MaiJin,N/A,N/A,N/A,13000,13000.0,EGP,,MaiJin,False,None,N/A,Amazon

@@ -1,0 +1,12 @@
+{
+  "total_rows": 176,
+  "by_source": {
+    "dubizzle": 176
+  },
+  "price": {
+    "count": 0,
+    "min": null,
+    "median": null,
+    "max": null
+  }
+}

@@ -1,0 +1,976 @@
+title,price_raw,meta_raw,listing_url,source,scraped_date
+Vehicles,,,https://www.dubizzle.com.eg/en/vehicles/,dubizzle,2025-10-29T11:13:52.374159
+Cars for Sale,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/,dubizzle,2025-10-29T11:13:52.374159
+Mercedes-Benz,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/mercedes-benz/,dubizzle,2025-10-29T11:13:52.374159
+Fiat,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/fiat/,dubizzle,2025-10-29T11:13:52.374159
+Hyundai,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/hyundai/,dubizzle,2025-10-29T11:13:52.374159
+Daewoo,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/daewoo/,dubizzle,2025-10-29T11:13:52.374159
+Chevrolet,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/chevrolet/,dubizzle,2025-10-29T11:13:52.374159
+Renault,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/renault/,dubizzle,2025-10-29T11:13:52.374159
+BMW,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/bmw/,dubizzle,2025-10-29T11:13:52.374159
+Kia,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/kia/,dubizzle,2025-10-29T11:13:52.374159
+Skoda,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/skoda/,dubizzle,2025-10-29T11:13:52.374159
+Peugeot,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/peugeot/,dubizzle,2025-10-29T11:13:52.374159
+Opel,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/opel/,dubizzle,2025-10-29T11:13:52.374159
+Volkswagen,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/volkswagen/,dubizzle,2025-10-29T11:13:52.374159
+Speranza,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/speranza/,dubizzle,2025-10-29T11:13:52.374159
+Toyota,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/toyota/,dubizzle,2025-10-29T11:13:52.374159
+Suzuki,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/suzuki/,dubizzle,2025-10-29T11:13:52.374159
+Nissan,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/nissan/,dubizzle,2025-10-29T11:13:52.374159
+Mitsubishi,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/mitsubishi/,dubizzle,2025-10-29T11:13:52.374159
+Lada,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/lada/,dubizzle,2025-10-29T11:13:52.374159
+Seat,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/seat/,dubizzle,2025-10-29T11:13:52.374159
+Jeep,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/jeep/,dubizzle,2025-10-29T11:13:52.374159
+Cars for Rent,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-rent/,dubizzle,2025-10-29T11:13:52.374159
+"Tyres, Batteries, Oils, & Accessories",,,https://www.dubizzle.com.eg/en/vehicles/tyres-batteries-oil-car-accessories/,dubizzle,2025-10-29T11:13:52.374159
+Car Spare Parts,,,https://www.dubizzle.com.eg/en/vehicles/car-spare-parts/,dubizzle,2025-10-29T11:13:52.374159
+Motorcycles & Accessories,,,https://www.dubizzle.com.eg/en/vehicles/motorcycles-accessories/,dubizzle,2025-10-29T11:13:52.374159
+Boats - Watercraft,,,https://www.dubizzle.com.eg/en/vehicles/boats-watercraft/,dubizzle,2025-10-29T11:13:52.374159
+"Heavy Trucks, Buses & Other Vehicles",,,https://www.dubizzle.com.eg/en/vehicles/trucks-buses-other-vehicles/,dubizzle,2025-10-29T11:13:52.374159
+Cairo(9259),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/cairo/,dubizzle,2025-10-29T11:13:52.374159
+Giza(3048),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/giza/,dubizzle,2025-10-29T11:13:52.374159
+Alexandria(1551),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/alexandria/,dubizzle,2025-10-29T11:13:52.374159
+Gharbia(386),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/gharbia/,dubizzle,2025-10-29T11:13:52.374159
+Sharqia(368),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/sharqia/,dubizzle,2025-10-29T11:13:52.374159
+Dakahlia(306),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/dakahlia/,dubizzle,2025-10-29T11:13:52.374159
+Qalyubia(289),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/qalyubia/,dubizzle,2025-10-29T11:13:52.374159
+Damietta(199),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/damietta/,dubizzle,2025-10-29T11:13:52.374159
+Monufia(188),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/monufia/,dubizzle,2025-10-29T11:13:52.374159
+Ismailia(184),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/ismailia/,dubizzle,2025-10-29T11:13:52.374159
+Suez(140),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/suez/,dubizzle,2025-10-29T11:13:52.374159
+Beheira(121),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/beheira/,dubizzle,2025-10-29T11:13:52.374159
+Red Sea(99),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/red-sea/,dubizzle,2025-10-29T11:13:52.374159
+Fayoum(84),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/fayoum/,dubizzle,2025-10-29T11:13:52.374159
+Beni Suef(82),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/beni-suef/,dubizzle,2025-10-29T11:13:52.374159
+Port Said(78),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/port-said/,dubizzle,2025-10-29T11:13:52.374159
+Asyut(78),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/asyut/,dubizzle,2025-10-29T11:13:52.374159
+Kafr al-Sheikh(76),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/kafr-al-sheikh/,dubizzle,2025-10-29T11:13:52.374159
+Minya(66),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/minya/,dubizzle,2025-10-29T11:13:52.374159
+Sohag(53),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/sohag/,dubizzle,2025-10-29T11:13:52.374159
+BYD,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/byd/,dubizzle,2025-10-29T11:13:52.374159
+MG,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/mg/,dubizzle,2025-10-29T11:13:52.374159
+Chery,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/chery/,dubizzle,2025-10-29T11:13:52.374159
+Audi,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/audi/,dubizzle,2025-10-29T11:13:52.374159
+Geely,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/geely/,dubizzle,2025-10-29T11:13:52.374159
+Land Rover,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/land-rover/,dubizzle,2025-10-29T11:13:52.374159
+Ford,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/ford/,dubizzle,2025-10-29T11:13:52.374159
+Citroen,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/citroen/,dubizzle,2025-10-29T11:13:52.374159
+Honda,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/honda/,dubizzle,2025-10-29T11:13:52.374159
+Porsche,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/porsche/,dubizzle,2025-10-29T11:13:52.374159
+Mazda,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/mazda/,dubizzle,2025-10-29T11:13:52.374159
+Proton,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/proton/,dubizzle,2025-10-29T11:13:52.374159
+Daihatsu,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/daihatsu/,dubizzle,2025-10-29T11:13:52.374159
+Brilliance,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/brilliance/,dubizzle,2025-10-29T11:13:52.374159
+Changan,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/changan/,dubizzle,2025-10-29T11:13:52.374159
+Cupra,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/cupra/,dubizzle,2025-10-29T11:13:52.374159
+MINI,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/mini/,dubizzle,2025-10-29T11:13:52.374159
+Jetour,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/jetour/,dubizzle,2025-10-29T11:13:52.374159
+Baic,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/baic/,dubizzle,2025-10-29T11:13:52.374159
+Subaru,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/subaru/,dubizzle,2025-10-29T11:13:52.374159
+Volvo,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/volvo/,dubizzle,2025-10-29T11:13:52.374159
+Avatr,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/avatr/,dubizzle,2025-10-29T11:13:52.374159
+Soueast,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/soueast/,dubizzle,2025-10-29T11:13:52.374159
+Zeekr,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/zeekr/,dubizzle,2025-10-29T11:13:52.374159
+Ssang Yong,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/ssang-yong/,dubizzle,2025-10-29T11:13:52.374159
+Jaguar,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/jaguar/,dubizzle,2025-10-29T11:13:52.374159
+Jac,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/jac/,dubizzle,2025-10-29T11:13:52.374159
+Tesla,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/tesla/,dubizzle,2025-10-29T11:13:52.374159
+GMC,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/gmc/,dubizzle,2025-10-29T11:13:52.374159
+Other make,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/other-make/,dubizzle,2025-10-29T11:13:52.374159
+Alfa Romeo,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/alfa-romeo/,dubizzle,2025-10-29T11:13:52.374159
+Chrysler,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/chrysler/,dubizzle,2025-10-29T11:13:52.374159
+Cadillac,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/cadillac/,dubizzle,2025-10-29T11:13:52.374159
+ROX,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/rox/,dubizzle,2025-10-29T11:13:52.374159
+Saipa,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/saipa/,dubizzle,2025-10-29T11:13:52.374159
+Haval,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/haval/,dubizzle,2025-10-29T11:13:52.374159
+Dodge,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/dodge/,dubizzle,2025-10-29T11:13:52.374159
+Changhe,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/changhe/,dubizzle,2025-10-29T11:13:52.374159
+DFSK,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/dfsk/,dubizzle,2025-10-29T11:13:52.374159
+Senova,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/senova/,dubizzle,2025-10-29T11:13:52.374159
+Chana,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/chana/,dubizzle,2025-10-29T11:13:52.374159
+Zotye,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/zotye/,dubizzle,2025-10-29T11:13:52.374159
+Xiaomi,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/xiaomi/,dubizzle,2025-10-29T11:13:52.374159
+Isuzu,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/isuzu/,dubizzle,2025-10-29T11:13:52.374159
+Great Wall,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/great-wall/,dubizzle,2025-10-29T11:13:52.374159
+Kaiyi,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/kaiyi/,dubizzle,2025-10-29T11:13:52.374159
+Maserati,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/maserati/,dubizzle,2025-10-29T11:13:52.374159
+Bentley,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/bentley/,dubizzle,2025-10-29T11:13:52.374159
+Faw,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/faw/,dubizzle,2025-10-29T11:13:52.374159
+Lotus,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/lotus/,dubizzle,2025-10-29T11:13:52.374159
+GAC,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/gac/,dubizzle,2025-10-29T11:13:52.374159
+Hummer,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/hummer/,dubizzle,2025-10-29T11:13:52.374159
+Infiniti,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/infiniti/,dubizzle,2025-10-29T11:13:52.374159
+Ds,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/ds/,dubizzle,2025-10-29T11:13:52.374159
+Aston Martin,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/aston-martin/,dubizzle,2025-10-29T11:13:52.374159
+Lamborghini,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/lamborghini/,dubizzle,2025-10-29T11:13:52.374159
+Rolls Royce,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/rolls-royce/,dubizzle,2025-10-29T11:13:52.374159
+KYC,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/kyc/,dubizzle,2025-10-29T11:13:52.374159
+Smart,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/smart/,dubizzle,2025-10-29T11:13:52.374159
+Dongfeng,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/dongfeng/,dubizzle,2025-10-29T11:13:52.374159
+Cash (10074),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=payment_option_eq_1,dubizzle,2025-10-29T11:13:52.374159
+Cash or Installment (3552),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=payment_option_eq_3,dubizzle,2025-10-29T11:13:52.374159
+Exchange (161),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=payment_option_eq_4,dubizzle,2025-10-29T11:13:52.374159
+Installments (110),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=payment_option_eq_2,dubizzle,2025-10-29T11:13:52.374159
+Benzine (15609),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=petrol_eq_3,dubizzle,2025-10-29T11:13:52.374159
+Electric (500),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=petrol_eq_2,dubizzle,2025-10-29T11:13:52.374159
+Diesel (240),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=petrol_eq_1,dubizzle,2025-10-29T11:13:52.374159
+Hybrid (231),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=petrol_eq_4,dubizzle,2025-10-29T11:13:52.374159
+Natural Gas (193),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=petrol_eq_5,dubizzle,2025-10-29T11:13:52.374159
+Automatic (11733),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=transmission_eq_2,dubizzle,2025-10-29T11:13:52.374159
+Manual (5040),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=transmission_eq_1,dubizzle,2025-10-29T11:13:52.374159
+Sedan (8481),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_1,dubizzle,2025-10-29T11:13:52.374159
+SUV (3189),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_5,dubizzle,2025-10-29T11:13:52.374159
+Hatchback (2285),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_2,dubizzle,2025-10-29T11:13:52.374159
+4X4 (655),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_9,dubizzle,2025-10-29T11:13:52.374159
+Estate (274),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_12,dubizzle,2025-10-29T11:13:52.374159
+Sports / Coupe (273),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_3,dubizzle,2025-10-29T11:13:52.374159
+Van / Bus (197),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_7,dubizzle,2025-10-29T11:13:52.374159
+Pickup (109),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_6,dubizzle,2025-10-29T11:13:52.374159
+Convertible (108),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_4,dubizzle,2025-10-29T11:13:52.374159
+Small city car (63),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_11,dubizzle,2025-10-29T11:13:52.374159
+MPV (59),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_10,dubizzle,2025-10-29T11:13:52.374159
+Other (56),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_8,dubizzle,2025-10-29T11:13:52.374159
+Power Windows (6079),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_20,dubizzle,2025-10-29T11:13:52.374159
+AM/FM Radio (5735),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_5,dubizzle,2025-10-29T11:13:52.374159
+ABS (5225),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_1,dubizzle,2025-10-29T11:13:52.374159
+Airbags (5174),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_3,dubizzle,2025-10-29T11:13:52.374159
+Bluetooth System (4977),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_7,dubizzle,2025-10-29T11:13:52.374159
+Power Mirrors (4862),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_17,dubizzle,2025-10-29T11:13:52.374159
+USB Charger (4700),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_26,dubizzle,2025-10-29T11:13:52.374159
+Premium Wheels/Rims (4245),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_21,dubizzle,2025-10-29T11:13:52.374159
+Aux Audio In (4205),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_6,dubizzle,2025-10-29T11:13:52.374159
+Touch Screen (4113),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_25,dubizzle,2025-10-29T11:13:52.374159
+Fog Lights (4091),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_10,dubizzle,2025-10-29T11:13:52.374159
+Power Locks (4077),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_16,dubizzle,2025-10-29T11:13:52.374159
+Power Steering (3923),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_19,dubizzle,2025-10-29T11:13:52.374159
+Alarm/Anti-Theft System (3850),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_4,dubizzle,2025-10-29T11:13:52.374159
+Front Speakers (3846),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_32,dubizzle,2025-10-29T11:13:52.374159
+EBD (3809),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_9,dubizzle,2025-10-29T11:13:52.374159
+Rear speakers (3716),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_38,dubizzle,2025-10-29T11:13:52.374159
+Cassette Player (3658),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_29,dubizzle,2025-10-29T11:13:52.374159
+Rear View Camera (3585),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_22,dubizzle,2025-10-29T11:13:52.374159
+Cruise Control (3394),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_8,dubizzle,2025-10-29T11:13:52.374159
+Parking Sensors (3334),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_15,dubizzle,2025-10-29T11:13:52.374159
+Steering Switches (3326),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_27,dubizzle,2025-10-29T11:13:52.374159
+ESP (3298),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_42,dubizzle,2025-10-29T11:13:52.374159
+Keyless Start (3281),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_11,dubizzle,2025-10-29T11:13:52.374159
+Keyless Entry (3280),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_36,dubizzle,2025-10-29T11:13:52.374159
+Daytime running lights (3073),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_40,dubizzle,2025-10-29T11:13:52.374159
+Xenon Headlights (3042),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_46,dubizzle,2025-10-29T11:13:52.374159
+CD Player (2914),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_28,dubizzle,2025-10-29T11:13:52.374159
+Power Seats (2902),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_18,dubizzle,2025-10-29T11:13:52.374159
+Navigation System (2813),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_13,dubizzle,2025-10-29T11:13:52.374159
+Immobilizer Key (2783),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_35,dubizzle,2025-10-29T11:13:52.374159
+Sunroof (2695),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_24,dubizzle,2025-10-29T11:13:52.374159
+Tyre pressure sensor (2617),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_45,dubizzle,2025-10-29T11:13:52.374159
+DVD Player (2362),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_31,dubizzle,2025-10-29T11:13:52.374159
+Start/Stop system (2277),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_44,dubizzle,2025-10-29T11:13:52.374159
+Heated seats (2229),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_34,dubizzle,2025-10-29T11:13:52.374159
+Front Camera (2158),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_33,dubizzle,2025-10-29T11:13:52.374159
+Isofix (2144),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_43,dubizzle,2025-10-29T11:13:52.374159
+Off-Road Tyres (1915),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_14,dubizzle,2025-10-29T11:13:52.374159
+Roof Rack (1838),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_23,dubizzle,2025-10-29T11:13:52.374159
+Rear Seat Entertainment (1780),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_37,dubizzle,2025-10-29T11:13:52.374159
+Cool Box (1698),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_30,dubizzle,2025-10-29T11:13:52.374159
+Equipped for disabled (1121),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_41,dubizzle,2025-10-29T11:13:52.374159
+New,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/new/,dubizzle,2025-10-29T11:13:52.374159
+Used,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/used/,dubizzle,2025-10-29T11:13:52.374159
+View all,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?product=elite,dubizzle,2025-10-29T11:13:52.374159
+View all,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?product=featured,dubizzle,2025-10-29T11:13:52.374159
+2,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?page=2,dubizzle,2025-10-29T11:13:52.374159
+3,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?page=3,dubizzle,2025-10-29T11:13:52.374159
+199,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?page=199,dubizzle,2025-10-29T11:13:52.374159
+فرنا للبيع,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D9%81%D8%B1%D9%86%D8%A7-%D9%84%D9%84%D8%A8%D9%8A%D8%B9/,dubizzle,2025-10-29T11:13:52.374159
+تيجو 2017,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%AA%D9%8A%D8%AC%D9%88-2017/,dubizzle,2025-10-29T11:13:52.374159
+جيتور t2,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%AC%D9%8A%D8%AA%D9%88%D8%B1-t2/,dubizzle,2025-10-29T11:13:52.374159
+تويوتا كورولا زيرو,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7-%D9%83%D9%88%D8%B1%D9%88%D9%84%D8%A7-%D8%B2%D9%8A%D8%B1%D9%88/,dubizzle,2025-10-29T11:13:52.374159
+c 200,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-c-200/,dubizzle,2025-10-29T11:13:52.374159
+gti,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-gti/,dubizzle,2025-10-29T11:13:52.374159
+لانسر 1300,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D9%84%D8%A7%D9%86%D8%B3%D8%B1-1300/,dubizzle,2025-10-29T11:13:52.374159
+كسر زيرو اوبترا,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D9%83%D8%B3%D8%B1-%D8%B2%D9%8A%D8%B1%D9%88-%D8%A7%D9%88%D8%A8%D8%AA%D8%B1%D8%A7/,dubizzle,2025-10-29T11:13:52.374159
+البقري موتورز,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%A7%D9%84%D8%A8%D9%82%D8%B1%D9%8A-%D9%85%D9%88%D8%AA%D9%88%D8%B1%D8%B2/,dubizzle,2025-10-29T11:13:52.374159
+ابترا,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%A7%D8%A8%D8%AA%D8%B1%D8%A7/,dubizzle,2025-10-29T11:13:52.374159
+النترا 2008,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%A7%D9%84%D9%86%D8%AA%D8%B1%D8%A7-2008/,dubizzle,2025-10-29T11:13:52.374159
+مرسيدس كوبيه,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D9%85%D8%B1%D8%B3%D9%8A%D8%AF%D8%B3-%D9%83%D9%88%D8%A8%D9%8A%D9%87/,dubizzle,2025-10-29T11:13:52.374159
+q3 2025,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-q3-2025/,dubizzle,2025-10-29T11:13:52.374159
+ايسوزو 2014,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%A7%D9%8A%D8%B3%D9%88%D8%B2%D9%88-2014/,dubizzle,2025-10-29T11:13:52.374159
+camera,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-camera/,dubizzle,2025-10-29T11:13:52.374159
+Vehicles,,,https://www.dubizzle.com.eg/en/vehicles/,dubizzle,2025-10-29T11:13:52.374159
+Cars for Sale,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/,dubizzle,2025-10-29T11:13:52.374159
+Mercedes-Benz,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/mercedes-benz/,dubizzle,2025-10-29T11:13:52.374159
+Fiat,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/fiat/,dubizzle,2025-10-29T11:13:52.374159
+Hyundai,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/hyundai/,dubizzle,2025-10-29T11:13:52.374159
+Daewoo,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/daewoo/,dubizzle,2025-10-29T11:13:52.374159
+Chevrolet,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/chevrolet/,dubizzle,2025-10-29T11:13:52.374159
+Renault,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/renault/,dubizzle,2025-10-29T11:13:52.374159
+BMW,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/bmw/,dubizzle,2025-10-29T11:13:52.374159
+Kia,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/kia/,dubizzle,2025-10-29T11:13:52.374159
+Skoda,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/skoda/,dubizzle,2025-10-29T11:13:52.374159
+Peugeot,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/peugeot/,dubizzle,2025-10-29T11:13:52.374159
+Opel,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/opel/,dubizzle,2025-10-29T11:13:52.374159
+Volkswagen,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/volkswagen/,dubizzle,2025-10-29T11:13:52.374159
+Speranza,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/speranza/,dubizzle,2025-10-29T11:13:52.374159
+Toyota,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/toyota/,dubizzle,2025-10-29T11:13:52.374159
+Suzuki,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/suzuki/,dubizzle,2025-10-29T11:13:52.374159
+Nissan,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/nissan/,dubizzle,2025-10-29T11:13:52.374159
+Mitsubishi,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/mitsubishi/,dubizzle,2025-10-29T11:13:52.374159
+Lada,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/lada/,dubizzle,2025-10-29T11:13:52.374159
+Seat,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/seat/,dubizzle,2025-10-29T11:13:52.374159
+Jeep,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/jeep/,dubizzle,2025-10-29T11:13:52.374159
+Cars for Rent,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-rent/,dubizzle,2025-10-29T11:13:52.374159
+"Tyres, Batteries, Oils, & Accessories",,,https://www.dubizzle.com.eg/en/vehicles/tyres-batteries-oil-car-accessories/,dubizzle,2025-10-29T11:13:52.374159
+Car Spare Parts,,,https://www.dubizzle.com.eg/en/vehicles/car-spare-parts/,dubizzle,2025-10-29T11:13:52.374159
+Motorcycles & Accessories,,,https://www.dubizzle.com.eg/en/vehicles/motorcycles-accessories/,dubizzle,2025-10-29T11:13:52.374159
+Boats - Watercraft,,,https://www.dubizzle.com.eg/en/vehicles/boats-watercraft/,dubizzle,2025-10-29T11:13:52.374159
+"Heavy Trucks, Buses & Other Vehicles",,,https://www.dubizzle.com.eg/en/vehicles/trucks-buses-other-vehicles/,dubizzle,2025-10-29T11:13:52.374159
+Cairo(9259),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/cairo/,dubizzle,2025-10-29T11:13:52.374159
+Giza(3048),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/giza/,dubizzle,2025-10-29T11:13:52.374159
+Alexandria(1551),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/alexandria/,dubizzle,2025-10-29T11:13:52.374159
+Gharbia(386),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/gharbia/,dubizzle,2025-10-29T11:13:52.374159
+Sharqia(368),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/sharqia/,dubizzle,2025-10-29T11:13:52.374159
+Dakahlia(306),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/dakahlia/,dubizzle,2025-10-29T11:13:52.374159
+Qalyubia(289),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/qalyubia/,dubizzle,2025-10-29T11:13:52.374159
+Damietta(199),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/damietta/,dubizzle,2025-10-29T11:13:52.374159
+Monufia(188),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/monufia/,dubizzle,2025-10-29T11:13:52.374159
+Ismailia(184),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/ismailia/,dubizzle,2025-10-29T11:13:52.374159
+Suez(140),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/suez/,dubizzle,2025-10-29T11:13:52.374159
+Beheira(121),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/beheira/,dubizzle,2025-10-29T11:13:52.374159
+Red Sea(99),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/red-sea/,dubizzle,2025-10-29T11:13:52.374159
+Fayoum(84),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/fayoum/,dubizzle,2025-10-29T11:13:52.374159
+Beni Suef(82),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/beni-suef/,dubizzle,2025-10-29T11:13:52.374159
+Port Said(78),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/port-said/,dubizzle,2025-10-29T11:13:52.374159
+Asyut(78),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/asyut/,dubizzle,2025-10-29T11:13:52.374159
+Kafr al-Sheikh(76),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/kafr-al-sheikh/,dubizzle,2025-10-29T11:13:52.374159
+Minya(66),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/minya/,dubizzle,2025-10-29T11:13:52.374159
+Sohag(53),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/sohag/,dubizzle,2025-10-29T11:13:52.374159
+BYD,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/byd/,dubizzle,2025-10-29T11:13:52.374159
+MG,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/mg/,dubizzle,2025-10-29T11:13:52.374159
+Chery,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/chery/,dubizzle,2025-10-29T11:13:52.374159
+Audi,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/audi/,dubizzle,2025-10-29T11:13:52.374159
+Geely,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/geely/,dubizzle,2025-10-29T11:13:52.374159
+Land Rover,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/land-rover/,dubizzle,2025-10-29T11:13:52.374159
+Ford,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/ford/,dubizzle,2025-10-29T11:13:52.374159
+Citroen,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/citroen/,dubizzle,2025-10-29T11:13:52.374159
+Honda,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/honda/,dubizzle,2025-10-29T11:13:52.374159
+Porsche,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/porsche/,dubizzle,2025-10-29T11:13:52.374159
+Mazda,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/mazda/,dubizzle,2025-10-29T11:13:52.374159
+Proton,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/proton/,dubizzle,2025-10-29T11:13:52.374159
+Daihatsu,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/daihatsu/,dubizzle,2025-10-29T11:13:52.374159
+Brilliance,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/brilliance/,dubizzle,2025-10-29T11:13:52.374159
+Changan,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/changan/,dubizzle,2025-10-29T11:13:52.374159
+Cupra,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/cupra/,dubizzle,2025-10-29T11:13:52.374159
+MINI,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/mini/,dubizzle,2025-10-29T11:13:52.374159
+Jetour,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/jetour/,dubizzle,2025-10-29T11:13:52.374159
+Baic,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/baic/,dubizzle,2025-10-29T11:13:52.374159
+Subaru,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/subaru/,dubizzle,2025-10-29T11:13:52.374159
+Volvo,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/volvo/,dubizzle,2025-10-29T11:13:52.374159
+Avatr,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/avatr/,dubizzle,2025-10-29T11:13:52.374159
+Soueast,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/soueast/,dubizzle,2025-10-29T11:13:52.374159
+Zeekr,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/zeekr/,dubizzle,2025-10-29T11:13:52.374159
+Ssang Yong,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/ssang-yong/,dubizzle,2025-10-29T11:13:52.374159
+Jaguar,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/jaguar/,dubizzle,2025-10-29T11:13:52.374159
+Jac,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/jac/,dubizzle,2025-10-29T11:13:52.374159
+Tesla,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/tesla/,dubizzle,2025-10-29T11:13:52.374159
+GMC,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/gmc/,dubizzle,2025-10-29T11:13:52.374159
+Other make,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/other-make/,dubizzle,2025-10-29T11:13:52.374159
+Alfa Romeo,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/alfa-romeo/,dubizzle,2025-10-29T11:13:52.374159
+Chrysler,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/chrysler/,dubizzle,2025-10-29T11:13:52.374159
+Cadillac,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/cadillac/,dubizzle,2025-10-29T11:13:52.374159
+ROX,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/rox/,dubizzle,2025-10-29T11:13:52.374159
+Saipa,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/saipa/,dubizzle,2025-10-29T11:13:52.374159
+Haval,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/haval/,dubizzle,2025-10-29T11:13:52.374159
+Dodge,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/dodge/,dubizzle,2025-10-29T11:13:52.374159
+Changhe,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/changhe/,dubizzle,2025-10-29T11:13:52.374159
+DFSK,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/dfsk/,dubizzle,2025-10-29T11:13:52.374159
+Senova,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/senova/,dubizzle,2025-10-29T11:13:52.374159
+Chana,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/chana/,dubizzle,2025-10-29T11:13:52.374159
+Zotye,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/zotye/,dubizzle,2025-10-29T11:13:52.374159
+Xiaomi,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/xiaomi/,dubizzle,2025-10-29T11:13:52.374159
+Isuzu,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/isuzu/,dubizzle,2025-10-29T11:13:52.374159
+Great Wall,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/great-wall/,dubizzle,2025-10-29T11:13:52.374159
+Kaiyi,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/kaiyi/,dubizzle,2025-10-29T11:13:52.374159
+Maserati,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/maserati/,dubizzle,2025-10-29T11:13:52.374159
+Bentley,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/bentley/,dubizzle,2025-10-29T11:13:52.374159
+Faw,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/faw/,dubizzle,2025-10-29T11:13:52.374159
+Lotus,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/lotus/,dubizzle,2025-10-29T11:13:52.374159
+GAC,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/gac/,dubizzle,2025-10-29T11:13:52.374159
+Hummer,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/hummer/,dubizzle,2025-10-29T11:13:52.374159
+Infiniti,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/infiniti/,dubizzle,2025-10-29T11:13:52.374159
+Ds,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/ds/,dubizzle,2025-10-29T11:13:52.374159
+Aston Martin,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/aston-martin/,dubizzle,2025-10-29T11:13:52.374159
+Lamborghini,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/lamborghini/,dubizzle,2025-10-29T11:13:52.374159
+Rolls Royce,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/rolls-royce/,dubizzle,2025-10-29T11:13:52.374159
+KYC,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/kyc/,dubizzle,2025-10-29T11:13:52.374159
+Smart,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/smart/,dubizzle,2025-10-29T11:13:52.374159
+Dongfeng,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/dongfeng/,dubizzle,2025-10-29T11:13:52.374159
+Cash (10074),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=payment_option_eq_1,dubizzle,2025-10-29T11:13:52.374159
+Cash or Installment (3552),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=payment_option_eq_3,dubizzle,2025-10-29T11:13:52.374159
+Exchange (161),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=payment_option_eq_4,dubizzle,2025-10-29T11:13:52.374159
+Installments (110),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=payment_option_eq_2,dubizzle,2025-10-29T11:13:52.374159
+Benzine (15609),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=petrol_eq_3,dubizzle,2025-10-29T11:13:52.374159
+Electric (500),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=petrol_eq_2,dubizzle,2025-10-29T11:13:52.374159
+Diesel (240),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=petrol_eq_1,dubizzle,2025-10-29T11:13:52.374159
+Hybrid (231),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=petrol_eq_4,dubizzle,2025-10-29T11:13:52.374159
+Natural Gas (193),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=petrol_eq_5,dubizzle,2025-10-29T11:13:52.374159
+Automatic (11733),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=transmission_eq_2,dubizzle,2025-10-29T11:13:52.374159
+Manual (5040),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=transmission_eq_1,dubizzle,2025-10-29T11:13:52.374159
+Sedan (8481),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_1,dubizzle,2025-10-29T11:13:52.374159
+SUV (3189),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_5,dubizzle,2025-10-29T11:13:52.374159
+Hatchback (2285),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_2,dubizzle,2025-10-29T11:13:52.374159
+4X4 (655),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_9,dubizzle,2025-10-29T11:13:52.374159
+Estate (274),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_12,dubizzle,2025-10-29T11:13:52.374159
+Sports / Coupe (273),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_3,dubizzle,2025-10-29T11:13:52.374159
+Van / Bus (197),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_7,dubizzle,2025-10-29T11:13:52.374159
+Pickup (109),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_6,dubizzle,2025-10-29T11:13:52.374159
+Convertible (108),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_4,dubizzle,2025-10-29T11:13:52.374159
+Small city car (63),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_11,dubizzle,2025-10-29T11:13:52.374159
+MPV (59),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_10,dubizzle,2025-10-29T11:13:52.374159
+Other (56),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_8,dubizzle,2025-10-29T11:13:52.374159
+Power Windows (6079),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_20,dubizzle,2025-10-29T11:13:52.374159
+AM/FM Radio (5735),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_5,dubizzle,2025-10-29T11:13:52.374159
+ABS (5225),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_1,dubizzle,2025-10-29T11:13:52.374159
+Airbags (5174),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_3,dubizzle,2025-10-29T11:13:52.374159
+Bluetooth System (4977),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_7,dubizzle,2025-10-29T11:13:52.374159
+Power Mirrors (4862),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_17,dubizzle,2025-10-29T11:13:52.374159
+USB Charger (4700),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_26,dubizzle,2025-10-29T11:13:52.374159
+Premium Wheels/Rims (4245),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_21,dubizzle,2025-10-29T11:13:52.374159
+Aux Audio In (4205),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_6,dubizzle,2025-10-29T11:13:52.374159
+Touch Screen (4113),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_25,dubizzle,2025-10-29T11:13:52.374159
+Fog Lights (4091),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_10,dubizzle,2025-10-29T11:13:52.374159
+Power Locks (4077),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_16,dubizzle,2025-10-29T11:13:52.374159
+Power Steering (3923),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_19,dubizzle,2025-10-29T11:13:52.374159
+Alarm/Anti-Theft System (3850),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_4,dubizzle,2025-10-29T11:13:52.374159
+Front Speakers (3846),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_32,dubizzle,2025-10-29T11:13:52.374159
+EBD (3809),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_9,dubizzle,2025-10-29T11:13:52.374159
+Rear speakers (3716),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_38,dubizzle,2025-10-29T11:13:52.374159
+Cassette Player (3658),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_29,dubizzle,2025-10-29T11:13:52.374159
+Rear View Camera (3585),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_22,dubizzle,2025-10-29T11:13:52.374159
+Cruise Control (3394),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_8,dubizzle,2025-10-29T11:13:52.374159
+Parking Sensors (3334),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_15,dubizzle,2025-10-29T11:13:52.374159
+Steering Switches (3326),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_27,dubizzle,2025-10-29T11:13:52.374159
+ESP (3298),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_42,dubizzle,2025-10-29T11:13:52.374159
+Keyless Start (3281),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_11,dubizzle,2025-10-29T11:13:52.374159
+Keyless Entry (3280),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_36,dubizzle,2025-10-29T11:13:52.374159
+Daytime running lights (3073),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_40,dubizzle,2025-10-29T11:13:52.374159
+Xenon Headlights (3042),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_46,dubizzle,2025-10-29T11:13:52.374159
+CD Player (2914),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_28,dubizzle,2025-10-29T11:13:52.374159
+Power Seats (2902),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_18,dubizzle,2025-10-29T11:13:52.374159
+Navigation System (2813),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_13,dubizzle,2025-10-29T11:13:52.374159
+Immobilizer Key (2783),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_35,dubizzle,2025-10-29T11:13:52.374159
+Sunroof (2695),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_24,dubizzle,2025-10-29T11:13:52.374159
+Tyre pressure sensor (2617),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_45,dubizzle,2025-10-29T11:13:52.374159
+DVD Player (2362),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_31,dubizzle,2025-10-29T11:13:52.374159
+Start/Stop system (2277),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_44,dubizzle,2025-10-29T11:13:52.374159
+Heated seats (2229),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_34,dubizzle,2025-10-29T11:13:52.374159
+Front Camera (2158),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_33,dubizzle,2025-10-29T11:13:52.374159
+Isofix (2144),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_43,dubizzle,2025-10-29T11:13:52.374159
+Off-Road Tyres (1915),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_14,dubizzle,2025-10-29T11:13:52.374159
+Roof Rack (1838),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_23,dubizzle,2025-10-29T11:13:52.374159
+Rear Seat Entertainment (1780),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_37,dubizzle,2025-10-29T11:13:52.374159
+Cool Box (1698),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_30,dubizzle,2025-10-29T11:13:52.374159
+Equipped for disabled (1121),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_41,dubizzle,2025-10-29T11:13:52.374159
+New,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/new/,dubizzle,2025-10-29T11:13:52.374159
+Used,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/used/,dubizzle,2025-10-29T11:13:52.374159
+View all,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?product=elite,dubizzle,2025-10-29T11:13:52.374159
+3,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?page=3,dubizzle,2025-10-29T11:13:52.374159
+199,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?page=199,dubizzle,2025-10-29T11:13:52.374159
+فرنا للبيع,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D9%81%D8%B1%D9%86%D8%A7-%D9%84%D9%84%D8%A8%D9%8A%D8%B9/,dubizzle,2025-10-29T11:13:52.374159
+تيجو 2017,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%AA%D9%8A%D8%AC%D9%88-2017/,dubizzle,2025-10-29T11:13:52.374159
+جيتور t2,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%AC%D9%8A%D8%AA%D9%88%D8%B1-t2/,dubizzle,2025-10-29T11:13:52.374159
+تويوتا كورولا زيرو,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7-%D9%83%D9%88%D8%B1%D9%88%D9%84%D8%A7-%D8%B2%D9%8A%D8%B1%D9%88/,dubizzle,2025-10-29T11:13:52.374159
+c 200,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-c-200/,dubizzle,2025-10-29T11:13:52.374159
+gti,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-gti/,dubizzle,2025-10-29T11:13:52.374159
+لانسر 1300,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D9%84%D8%A7%D9%86%D8%B3%D8%B1-1300/,dubizzle,2025-10-29T11:13:52.374159
+كسر زيرو اوبترا,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D9%83%D8%B3%D8%B1-%D8%B2%D9%8A%D8%B1%D9%88-%D8%A7%D9%88%D8%A8%D8%AA%D8%B1%D8%A7/,dubizzle,2025-10-29T11:13:52.374159
+البقري موتورز,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%A7%D9%84%D8%A8%D9%82%D8%B1%D9%8A-%D9%85%D9%88%D8%AA%D9%88%D8%B1%D8%B2/,dubizzle,2025-10-29T11:13:52.374159
+ابترا,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%A7%D8%A8%D8%AA%D8%B1%D8%A7/,dubizzle,2025-10-29T11:13:52.374159
+النترا 2008,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%A7%D9%84%D9%86%D8%AA%D8%B1%D8%A7-2008/,dubizzle,2025-10-29T11:13:52.374159
+مرسيدس كوبيه,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D9%85%D8%B1%D8%B3%D9%8A%D8%AF%D8%B3-%D9%83%D9%88%D8%A8%D9%8A%D9%87/,dubizzle,2025-10-29T11:13:52.374159
+q3 2025,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-q3-2025/,dubizzle,2025-10-29T11:13:52.374159
+ايسوزو 2014,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%A7%D9%8A%D8%B3%D9%88%D8%B2%D9%88-2014/,dubizzle,2025-10-29T11:13:52.374159
+camera,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-camera/,dubizzle,2025-10-29T11:13:52.374159
+Vehicles,,,https://www.dubizzle.com.eg/en/vehicles/,dubizzle,2025-10-29T11:13:52.374159
+Cars for Sale,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/,dubizzle,2025-10-29T11:13:52.374159
+Mercedes-Benz,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/mercedes-benz/,dubizzle,2025-10-29T11:13:52.374159
+Fiat,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/fiat/,dubizzle,2025-10-29T11:13:52.374159
+Hyundai,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/hyundai/,dubizzle,2025-10-29T11:13:52.374159
+Daewoo,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/daewoo/,dubizzle,2025-10-29T11:13:52.374159
+Chevrolet,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/chevrolet/,dubizzle,2025-10-29T11:13:52.374159
+Renault,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/renault/,dubizzle,2025-10-29T11:13:52.374159
+BMW,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/bmw/,dubizzle,2025-10-29T11:13:52.374159
+Kia,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/kia/,dubizzle,2025-10-29T11:13:52.374159
+Skoda,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/skoda/,dubizzle,2025-10-29T11:13:52.374159
+Peugeot,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/peugeot/,dubizzle,2025-10-29T11:13:52.374159
+Opel,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/opel/,dubizzle,2025-10-29T11:13:52.374159
+Volkswagen,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/volkswagen/,dubizzle,2025-10-29T11:13:52.374159
+Speranza,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/speranza/,dubizzle,2025-10-29T11:13:52.374159
+Toyota,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/toyota/,dubizzle,2025-10-29T11:13:52.374159
+Suzuki,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/suzuki/,dubizzle,2025-10-29T11:13:52.374159
+Nissan,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/nissan/,dubizzle,2025-10-29T11:13:52.374159
+Mitsubishi,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/mitsubishi/,dubizzle,2025-10-29T11:13:52.374159
+Lada,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/lada/,dubizzle,2025-10-29T11:13:52.374159
+Seat,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/seat/,dubizzle,2025-10-29T11:13:52.374159
+Jeep,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/jeep/,dubizzle,2025-10-29T11:13:52.374159
+Cars for Rent,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-rent/,dubizzle,2025-10-29T11:13:52.374159
+"Tyres, Batteries, Oils, & Accessories",,,https://www.dubizzle.com.eg/en/vehicles/tyres-batteries-oil-car-accessories/,dubizzle,2025-10-29T11:13:52.374159
+Car Spare Parts,,,https://www.dubizzle.com.eg/en/vehicles/car-spare-parts/,dubizzle,2025-10-29T11:13:52.374159
+Motorcycles & Accessories,,,https://www.dubizzle.com.eg/en/vehicles/motorcycles-accessories/,dubizzle,2025-10-29T11:13:52.374159
+Boats - Watercraft,,,https://www.dubizzle.com.eg/en/vehicles/boats-watercraft/,dubizzle,2025-10-29T11:13:52.374159
+"Heavy Trucks, Buses & Other Vehicles",,,https://www.dubizzle.com.eg/en/vehicles/trucks-buses-other-vehicles/,dubizzle,2025-10-29T11:13:52.374159
+Cairo(9259),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/cairo/,dubizzle,2025-10-29T11:13:52.374159
+Giza(3048),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/giza/,dubizzle,2025-10-29T11:13:52.374159
+Alexandria(1551),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/alexandria/,dubizzle,2025-10-29T11:13:52.374159
+Gharbia(386),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/gharbia/,dubizzle,2025-10-29T11:13:52.374159
+Sharqia(368),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/sharqia/,dubizzle,2025-10-29T11:13:52.374159
+Dakahlia(306),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/dakahlia/,dubizzle,2025-10-29T11:13:52.374159
+Qalyubia(289),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/qalyubia/,dubizzle,2025-10-29T11:13:52.374159
+Damietta(199),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/damietta/,dubizzle,2025-10-29T11:13:52.374159
+Monufia(188),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/monufia/,dubizzle,2025-10-29T11:13:52.374159
+Ismailia(184),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/ismailia/,dubizzle,2025-10-29T11:13:52.374159
+Suez(140),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/suez/,dubizzle,2025-10-29T11:13:52.374159
+Beheira(121),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/beheira/,dubizzle,2025-10-29T11:13:52.374159
+Red Sea(99),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/red-sea/,dubizzle,2025-10-29T11:13:52.374159
+Fayoum(84),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/fayoum/,dubizzle,2025-10-29T11:13:52.374159
+Beni Suef(82),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/beni-suef/,dubizzle,2025-10-29T11:13:52.374159
+Port Said(78),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/port-said/,dubizzle,2025-10-29T11:13:52.374159
+Asyut(78),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/asyut/,dubizzle,2025-10-29T11:13:52.374159
+Kafr al-Sheikh(76),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/kafr-al-sheikh/,dubizzle,2025-10-29T11:13:52.374159
+Minya(66),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/minya/,dubizzle,2025-10-29T11:13:52.374159
+Sohag(53),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/sohag/,dubizzle,2025-10-29T11:13:52.374159
+BYD,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/byd/,dubizzle,2025-10-29T11:13:52.374159
+MG,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/mg/,dubizzle,2025-10-29T11:13:52.374159
+Chery,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/chery/,dubizzle,2025-10-29T11:13:52.374159
+Audi,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/audi/,dubizzle,2025-10-29T11:13:52.374159
+Geely,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/geely/,dubizzle,2025-10-29T11:13:52.374159
+Land Rover,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/land-rover/,dubizzle,2025-10-29T11:13:52.374159
+Ford,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/ford/,dubizzle,2025-10-29T11:13:52.374159
+Citroen,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/citroen/,dubizzle,2025-10-29T11:13:52.374159
+Honda,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/honda/,dubizzle,2025-10-29T11:13:52.374159
+Porsche,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/porsche/,dubizzle,2025-10-29T11:13:52.374159
+Mazda,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/mazda/,dubizzle,2025-10-29T11:13:52.374159
+Proton,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/proton/,dubizzle,2025-10-29T11:13:52.374159
+Daihatsu,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/daihatsu/,dubizzle,2025-10-29T11:13:52.374159
+Brilliance,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/brilliance/,dubizzle,2025-10-29T11:13:52.374159
+Changan,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/changan/,dubizzle,2025-10-29T11:13:52.374159
+Cupra,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/cupra/,dubizzle,2025-10-29T11:13:52.374159
+MINI,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/mini/,dubizzle,2025-10-29T11:13:52.374159
+Jetour,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/jetour/,dubizzle,2025-10-29T11:13:52.374159
+Baic,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/baic/,dubizzle,2025-10-29T11:13:52.374159
+Subaru,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/subaru/,dubizzle,2025-10-29T11:13:52.374159
+Volvo,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/volvo/,dubizzle,2025-10-29T11:13:52.374159
+Avatr,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/avatr/,dubizzle,2025-10-29T11:13:52.374159
+Soueast,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/soueast/,dubizzle,2025-10-29T11:13:52.374159
+Zeekr,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/zeekr/,dubizzle,2025-10-29T11:13:52.374159
+Ssang Yong,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/ssang-yong/,dubizzle,2025-10-29T11:13:52.374159
+Jaguar,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/jaguar/,dubizzle,2025-10-29T11:13:52.374159
+Jac,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/jac/,dubizzle,2025-10-29T11:13:52.374159
+Tesla,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/tesla/,dubizzle,2025-10-29T11:13:52.374159
+GMC,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/gmc/,dubizzle,2025-10-29T11:13:52.374159
+Other make,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/other-make/,dubizzle,2025-10-29T11:13:52.374159
+Alfa Romeo,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/alfa-romeo/,dubizzle,2025-10-29T11:13:52.374159
+Chrysler,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/chrysler/,dubizzle,2025-10-29T11:13:52.374159
+Cadillac,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/cadillac/,dubizzle,2025-10-29T11:13:52.374159
+ROX,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/rox/,dubizzle,2025-10-29T11:13:52.374159
+Saipa,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/saipa/,dubizzle,2025-10-29T11:13:52.374159
+Haval,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/haval/,dubizzle,2025-10-29T11:13:52.374159
+Dodge,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/dodge/,dubizzle,2025-10-29T11:13:52.374159
+Changhe,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/changhe/,dubizzle,2025-10-29T11:13:52.374159
+DFSK,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/dfsk/,dubizzle,2025-10-29T11:13:52.374159
+Senova,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/senova/,dubizzle,2025-10-29T11:13:52.374159
+Chana,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/chana/,dubizzle,2025-10-29T11:13:52.374159
+Zotye,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/zotye/,dubizzle,2025-10-29T11:13:52.374159
+Xiaomi,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/xiaomi/,dubizzle,2025-10-29T11:13:52.374159
+Isuzu,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/isuzu/,dubizzle,2025-10-29T11:13:52.374159
+Great Wall,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/great-wall/,dubizzle,2025-10-29T11:13:52.374159
+Kaiyi,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/kaiyi/,dubizzle,2025-10-29T11:13:52.374159
+Maserati,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/maserati/,dubizzle,2025-10-29T11:13:52.374159
+Bentley,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/bentley/,dubizzle,2025-10-29T11:13:52.374159
+Faw,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/faw/,dubizzle,2025-10-29T11:13:52.374159
+Lotus,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/lotus/,dubizzle,2025-10-29T11:13:52.374159
+GAC,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/gac/,dubizzle,2025-10-29T11:13:52.374159
+Hummer,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/hummer/,dubizzle,2025-10-29T11:13:52.374159
+Infiniti,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/infiniti/,dubizzle,2025-10-29T11:13:52.374159
+Ds,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/ds/,dubizzle,2025-10-29T11:13:52.374159
+Aston Martin,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/aston-martin/,dubizzle,2025-10-29T11:13:52.374159
+Lamborghini,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/lamborghini/,dubizzle,2025-10-29T11:13:52.374159
+Rolls Royce,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/rolls-royce/,dubizzle,2025-10-29T11:13:52.374159
+KYC,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/kyc/,dubizzle,2025-10-29T11:13:52.374159
+Smart,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/smart/,dubizzle,2025-10-29T11:13:52.374159
+Dongfeng,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/dongfeng/,dubizzle,2025-10-29T11:13:52.374159
+Cash (10074),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=payment_option_eq_1,dubizzle,2025-10-29T11:13:52.374159
+Cash or Installment (3552),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=payment_option_eq_3,dubizzle,2025-10-29T11:13:52.374159
+Exchange (161),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=payment_option_eq_4,dubizzle,2025-10-29T11:13:52.374159
+Installments (110),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=payment_option_eq_2,dubizzle,2025-10-29T11:13:52.374159
+Benzine (15609),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=petrol_eq_3,dubizzle,2025-10-29T11:13:52.374159
+Electric (500),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=petrol_eq_2,dubizzle,2025-10-29T11:13:52.374159
+Diesel (240),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=petrol_eq_1,dubizzle,2025-10-29T11:13:52.374159
+Hybrid (231),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=petrol_eq_4,dubizzle,2025-10-29T11:13:52.374159
+Natural Gas (193),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=petrol_eq_5,dubizzle,2025-10-29T11:13:52.374159
+Automatic (11733),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=transmission_eq_2,dubizzle,2025-10-29T11:13:52.374159
+Manual (5040),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=transmission_eq_1,dubizzle,2025-10-29T11:13:52.374159
+Sedan (8481),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_1,dubizzle,2025-10-29T11:13:52.374159
+SUV (3189),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_5,dubizzle,2025-10-29T11:13:52.374159
+Hatchback (2285),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_2,dubizzle,2025-10-29T11:13:52.374159
+4X4 (655),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_9,dubizzle,2025-10-29T11:13:52.374159
+Estate (274),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_12,dubizzle,2025-10-29T11:13:52.374159
+Sports / Coupe (273),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_3,dubizzle,2025-10-29T11:13:52.374159
+Van / Bus (197),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_7,dubizzle,2025-10-29T11:13:52.374159
+Pickup (109),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_6,dubizzle,2025-10-29T11:13:52.374159
+Convertible (108),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_4,dubizzle,2025-10-29T11:13:52.374159
+Small city car (63),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_11,dubizzle,2025-10-29T11:13:52.374159
+MPV (59),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_10,dubizzle,2025-10-29T11:13:52.374159
+Other (56),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_8,dubizzle,2025-10-29T11:13:52.374159
+Power Windows (6079),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_20,dubizzle,2025-10-29T11:13:52.374159
+AM/FM Radio (5735),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_5,dubizzle,2025-10-29T11:13:52.374159
+ABS (5225),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_1,dubizzle,2025-10-29T11:13:52.374159
+Airbags (5174),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_3,dubizzle,2025-10-29T11:13:52.374159
+Bluetooth System (4977),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_7,dubizzle,2025-10-29T11:13:52.374159
+Power Mirrors (4862),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_17,dubizzle,2025-10-29T11:13:52.374159
+USB Charger (4700),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_26,dubizzle,2025-10-29T11:13:52.374159
+Premium Wheels/Rims (4245),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_21,dubizzle,2025-10-29T11:13:52.374159
+Aux Audio In (4205),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_6,dubizzle,2025-10-29T11:13:52.374159
+Touch Screen (4113),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_25,dubizzle,2025-10-29T11:13:52.374159
+Fog Lights (4091),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_10,dubizzle,2025-10-29T11:13:52.374159
+Power Locks (4077),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_16,dubizzle,2025-10-29T11:13:52.374159
+Power Steering (3923),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_19,dubizzle,2025-10-29T11:13:52.374159
+Alarm/Anti-Theft System (3850),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_4,dubizzle,2025-10-29T11:13:52.374159
+Front Speakers (3846),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_32,dubizzle,2025-10-29T11:13:52.374159
+EBD (3809),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_9,dubizzle,2025-10-29T11:13:52.374159
+Rear speakers (3716),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_38,dubizzle,2025-10-29T11:13:52.374159
+Cassette Player (3658),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_29,dubizzle,2025-10-29T11:13:52.374159
+Rear View Camera (3585),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_22,dubizzle,2025-10-29T11:13:52.374159
+Cruise Control (3394),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_8,dubizzle,2025-10-29T11:13:52.374159
+Parking Sensors (3334),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_15,dubizzle,2025-10-29T11:13:52.374159
+Steering Switches (3326),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_27,dubizzle,2025-10-29T11:13:52.374159
+ESP (3298),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_42,dubizzle,2025-10-29T11:13:52.374159
+Keyless Start (3281),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_11,dubizzle,2025-10-29T11:13:52.374159
+Keyless Entry (3280),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_36,dubizzle,2025-10-29T11:13:52.374159
+Daytime running lights (3073),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_40,dubizzle,2025-10-29T11:13:52.374159
+Xenon Headlights (3042),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_46,dubizzle,2025-10-29T11:13:52.374159
+CD Player (2914),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_28,dubizzle,2025-10-29T11:13:52.374159
+Power Seats (2902),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_18,dubizzle,2025-10-29T11:13:52.374159
+Navigation System (2813),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_13,dubizzle,2025-10-29T11:13:52.374159
+Immobilizer Key (2783),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_35,dubizzle,2025-10-29T11:13:52.374159
+Sunroof (2695),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_24,dubizzle,2025-10-29T11:13:52.374159
+Tyre pressure sensor (2617),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_45,dubizzle,2025-10-29T11:13:52.374159
+DVD Player (2362),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_31,dubizzle,2025-10-29T11:13:52.374159
+Start/Stop system (2277),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_44,dubizzle,2025-10-29T11:13:52.374159
+Heated seats (2229),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_34,dubizzle,2025-10-29T11:13:52.374159
+Front Camera (2158),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_33,dubizzle,2025-10-29T11:13:52.374159
+Isofix (2144),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_43,dubizzle,2025-10-29T11:13:52.374159
+Off-Road Tyres (1915),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_14,dubizzle,2025-10-29T11:13:52.374159
+Roof Rack (1838),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_23,dubizzle,2025-10-29T11:13:52.374159
+Rear Seat Entertainment (1780),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_37,dubizzle,2025-10-29T11:13:52.374159
+Cool Box (1698),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_30,dubizzle,2025-10-29T11:13:52.374159
+Equipped for disabled (1121),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_41,dubizzle,2025-10-29T11:13:52.374159
+New,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/new/,dubizzle,2025-10-29T11:13:52.374159
+Used,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/used/,dubizzle,2025-10-29T11:13:52.374159
+View all,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?product=elite,dubizzle,2025-10-29T11:13:52.374159
+,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?page=2,dubizzle,2025-10-29T11:13:52.374159
+199,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?page=199,dubizzle,2025-10-29T11:13:52.374159
+,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?page=4,dubizzle,2025-10-29T11:13:52.374159
+فرنا للبيع,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D9%81%D8%B1%D9%86%D8%A7-%D9%84%D9%84%D8%A8%D9%8A%D8%B9/,dubizzle,2025-10-29T11:13:52.374159
+تيجو 2017,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%AA%D9%8A%D8%AC%D9%88-2017/,dubizzle,2025-10-29T11:13:52.374159
+جيتور t2,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%AC%D9%8A%D8%AA%D9%88%D8%B1-t2/,dubizzle,2025-10-29T11:13:52.374159
+تويوتا كورولا زيرو,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7-%D9%83%D9%88%D8%B1%D9%88%D9%84%D8%A7-%D8%B2%D9%8A%D8%B1%D9%88/,dubizzle,2025-10-29T11:13:52.374159
+c 200,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-c-200/,dubizzle,2025-10-29T11:13:52.374159
+gti,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-gti/,dubizzle,2025-10-29T11:13:52.374159
+لانسر 1300,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D9%84%D8%A7%D9%86%D8%B3%D8%B1-1300/,dubizzle,2025-10-29T11:13:52.374159
+كسر زيرو اوبترا,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D9%83%D8%B3%D8%B1-%D8%B2%D9%8A%D8%B1%D9%88-%D8%A7%D9%88%D8%A8%D8%AA%D8%B1%D8%A7/,dubizzle,2025-10-29T11:13:52.374159
+البقري موتورز,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%A7%D9%84%D8%A8%D9%82%D8%B1%D9%8A-%D9%85%D9%88%D8%AA%D9%88%D8%B1%D8%B2/,dubizzle,2025-10-29T11:13:52.374159
+ابترا,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%A7%D8%A8%D8%AA%D8%B1%D8%A7/,dubizzle,2025-10-29T11:13:52.374159
+النترا 2008,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%A7%D9%84%D9%86%D8%AA%D8%B1%D8%A7-2008/,dubizzle,2025-10-29T11:13:52.374159
+مرسيدس كوبيه,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D9%85%D8%B1%D8%B3%D9%8A%D8%AF%D8%B3-%D9%83%D9%88%D8%A8%D9%8A%D9%87/,dubizzle,2025-10-29T11:13:52.374159
+q3 2025,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-q3-2025/,dubizzle,2025-10-29T11:13:52.374159
+ايسوزو 2014,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%A7%D9%8A%D8%B3%D9%88%D8%B2%D9%88-2014/,dubizzle,2025-10-29T11:13:52.374159
+camera,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-camera/,dubizzle,2025-10-29T11:13:52.374159
+Vehicles,,,https://www.dubizzle.com.eg/en/vehicles/,dubizzle,2025-10-29T11:13:52.374159
+Cars for Sale,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/,dubizzle,2025-10-29T11:13:52.374159
+Mercedes-Benz,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/mercedes-benz/,dubizzle,2025-10-29T11:13:52.374159
+Fiat,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/fiat/,dubizzle,2025-10-29T11:13:52.374159
+Hyundai,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/hyundai/,dubizzle,2025-10-29T11:13:52.374159
+Daewoo,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/daewoo/,dubizzle,2025-10-29T11:13:52.374159
+Chevrolet,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/chevrolet/,dubizzle,2025-10-29T11:13:52.374159
+Renault,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/renault/,dubizzle,2025-10-29T11:13:52.374159
+BMW,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/bmw/,dubizzle,2025-10-29T11:13:52.374159
+Kia,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/kia/,dubizzle,2025-10-29T11:13:52.374159
+Skoda,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/skoda/,dubizzle,2025-10-29T11:13:52.374159
+Peugeot,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/peugeot/,dubizzle,2025-10-29T11:13:52.374159
+Opel,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/opel/,dubizzle,2025-10-29T11:13:52.374159
+Volkswagen,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/volkswagen/,dubizzle,2025-10-29T11:13:52.374159
+Speranza,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/speranza/,dubizzle,2025-10-29T11:13:52.374159
+Toyota,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/toyota/,dubizzle,2025-10-29T11:13:52.374159
+Suzuki,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/suzuki/,dubizzle,2025-10-29T11:13:52.374159
+Nissan,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/nissan/,dubizzle,2025-10-29T11:13:52.374159
+Mitsubishi,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/mitsubishi/,dubizzle,2025-10-29T11:13:52.374159
+Lada,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/lada/,dubizzle,2025-10-29T11:13:52.374159
+Seat,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/seat/,dubizzle,2025-10-29T11:13:52.374159
+Jeep,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/jeep/,dubizzle,2025-10-29T11:13:52.374159
+Cars for Rent,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-rent/,dubizzle,2025-10-29T11:13:52.374159
+"Tyres, Batteries, Oils, & Accessories",,,https://www.dubizzle.com.eg/en/vehicles/tyres-batteries-oil-car-accessories/,dubizzle,2025-10-29T11:13:52.374159
+Car Spare Parts,,,https://www.dubizzle.com.eg/en/vehicles/car-spare-parts/,dubizzle,2025-10-29T11:13:52.374159
+Motorcycles & Accessories,,,https://www.dubizzle.com.eg/en/vehicles/motorcycles-accessories/,dubizzle,2025-10-29T11:13:52.374159
+Boats - Watercraft,,,https://www.dubizzle.com.eg/en/vehicles/boats-watercraft/,dubizzle,2025-10-29T11:13:52.374159
+"Heavy Trucks, Buses & Other Vehicles",,,https://www.dubizzle.com.eg/en/vehicles/trucks-buses-other-vehicles/,dubizzle,2025-10-29T11:13:52.374159
+Cairo(9259),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/cairo/,dubizzle,2025-10-29T11:13:52.374159
+Giza(3047),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/giza/,dubizzle,2025-10-29T11:13:52.374159
+Alexandria(1551),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/alexandria/,dubizzle,2025-10-29T11:13:52.374159
+Gharbia(387),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/gharbia/,dubizzle,2025-10-29T11:13:52.374159
+Sharqia(368),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/sharqia/,dubizzle,2025-10-29T11:13:52.374159
+Dakahlia(306),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/dakahlia/,dubizzle,2025-10-29T11:13:52.374159
+Qalyubia(289),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/qalyubia/,dubizzle,2025-10-29T11:13:52.374159
+Damietta(199),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/damietta/,dubizzle,2025-10-29T11:13:52.374159
+Monufia(188),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/monufia/,dubizzle,2025-10-29T11:13:52.374159
+Ismailia(184),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/ismailia/,dubizzle,2025-10-29T11:13:52.374159
+Suez(140),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/suez/,dubizzle,2025-10-29T11:13:52.374159
+Beheira(121),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/beheira/,dubizzle,2025-10-29T11:13:52.374159
+Red Sea(99),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/red-sea/,dubizzle,2025-10-29T11:13:52.374159
+Fayoum(84),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/fayoum/,dubizzle,2025-10-29T11:13:52.374159
+Beni Suef(82),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/beni-suef/,dubizzle,2025-10-29T11:13:52.374159
+Port Said(78),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/port-said/,dubizzle,2025-10-29T11:13:52.374159
+Asyut(78),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/asyut/,dubizzle,2025-10-29T11:13:52.374159
+Kafr al-Sheikh(76),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/kafr-al-sheikh/,dubizzle,2025-10-29T11:13:52.374159
+Minya(66),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/minya/,dubizzle,2025-10-29T11:13:52.374159
+Sohag(53),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/sohag/,dubizzle,2025-10-29T11:13:52.374159
+BYD,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/byd/,dubizzle,2025-10-29T11:13:52.374159
+MG,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/mg/,dubizzle,2025-10-29T11:13:52.374159
+Chery,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/chery/,dubizzle,2025-10-29T11:13:52.374159
+Audi,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/audi/,dubizzle,2025-10-29T11:13:52.374159
+Geely,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/geely/,dubizzle,2025-10-29T11:13:52.374159
+Land Rover,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/land-rover/,dubizzle,2025-10-29T11:13:52.374159
+Ford,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/ford/,dubizzle,2025-10-29T11:13:52.374159
+Citroen,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/citroen/,dubizzle,2025-10-29T11:13:52.374159
+Honda,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/honda/,dubizzle,2025-10-29T11:13:52.374159
+Porsche,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/porsche/,dubizzle,2025-10-29T11:13:52.374159
+Mazda,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/mazda/,dubizzle,2025-10-29T11:13:52.374159
+Proton,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/proton/,dubizzle,2025-10-29T11:13:52.374159
+Daihatsu,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/daihatsu/,dubizzle,2025-10-29T11:13:52.374159
+Brilliance,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/brilliance/,dubizzle,2025-10-29T11:13:52.374159
+Changan,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/changan/,dubizzle,2025-10-29T11:13:52.374159
+Cupra,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/cupra/,dubizzle,2025-10-29T11:13:52.374159
+MINI,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/mini/,dubizzle,2025-10-29T11:13:52.374159
+Jetour,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/jetour/,dubizzle,2025-10-29T11:13:52.374159
+Baic,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/baic/,dubizzle,2025-10-29T11:13:52.374159
+Subaru,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/subaru/,dubizzle,2025-10-29T11:13:52.374159
+Volvo,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/volvo/,dubizzle,2025-10-29T11:13:52.374159
+Avatr,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/avatr/,dubizzle,2025-10-29T11:13:52.374159
+Soueast,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/soueast/,dubizzle,2025-10-29T11:13:52.374159
+Zeekr,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/zeekr/,dubizzle,2025-10-29T11:13:52.374159
+Ssang Yong,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/ssang-yong/,dubizzle,2025-10-29T11:13:52.374159
+Jaguar,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/jaguar/,dubizzle,2025-10-29T11:13:52.374159
+Jac,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/jac/,dubizzle,2025-10-29T11:13:52.374159
+Tesla,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/tesla/,dubizzle,2025-10-29T11:13:52.374159
+GMC,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/gmc/,dubizzle,2025-10-29T11:13:52.374159
+Other make,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/other-make/,dubizzle,2025-10-29T11:13:52.374159
+Alfa Romeo,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/alfa-romeo/,dubizzle,2025-10-29T11:13:52.374159
+Chrysler,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/chrysler/,dubizzle,2025-10-29T11:13:52.374159
+Cadillac,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/cadillac/,dubizzle,2025-10-29T11:13:52.374159
+ROX,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/rox/,dubizzle,2025-10-29T11:13:52.374159
+Saipa,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/saipa/,dubizzle,2025-10-29T11:13:52.374159
+Haval,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/haval/,dubizzle,2025-10-29T11:13:52.374159
+Dodge,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/dodge/,dubizzle,2025-10-29T11:13:52.374159
+Changhe,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/changhe/,dubizzle,2025-10-29T11:13:52.374159
+DFSK,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/dfsk/,dubizzle,2025-10-29T11:13:52.374159
+Senova,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/senova/,dubizzle,2025-10-29T11:13:52.374159
+Chana,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/chana/,dubizzle,2025-10-29T11:13:52.374159
+Zotye,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/zotye/,dubizzle,2025-10-29T11:13:52.374159
+Xiaomi,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/xiaomi/,dubizzle,2025-10-29T11:13:52.374159
+Isuzu,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/isuzu/,dubizzle,2025-10-29T11:13:52.374159
+Great Wall,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/great-wall/,dubizzle,2025-10-29T11:13:52.374159
+Kaiyi,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/kaiyi/,dubizzle,2025-10-29T11:13:52.374159
+Maserati,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/maserati/,dubizzle,2025-10-29T11:13:52.374159
+Bentley,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/bentley/,dubizzle,2025-10-29T11:13:52.374159
+Faw,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/faw/,dubizzle,2025-10-29T11:13:52.374159
+Lotus,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/lotus/,dubizzle,2025-10-29T11:13:52.374159
+GAC,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/gac/,dubizzle,2025-10-29T11:13:52.374159
+Hummer,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/hummer/,dubizzle,2025-10-29T11:13:52.374159
+Infiniti,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/infiniti/,dubizzle,2025-10-29T11:13:52.374159
+Ds,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/ds/,dubizzle,2025-10-29T11:13:52.374159
+Aston Martin,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/aston-martin/,dubizzle,2025-10-29T11:13:52.374159
+Lamborghini,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/lamborghini/,dubizzle,2025-10-29T11:13:52.374159
+Rolls Royce,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/rolls-royce/,dubizzle,2025-10-29T11:13:52.374159
+KYC,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/kyc/,dubizzle,2025-10-29T11:13:52.374159
+Smart,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/smart/,dubizzle,2025-10-29T11:13:52.374159
+Dongfeng,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/dongfeng/,dubizzle,2025-10-29T11:13:52.374159
+Cash (10074),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=payment_option_eq_1,dubizzle,2025-10-29T11:13:52.374159
+Cash or Installment (3552),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=payment_option_eq_3,dubizzle,2025-10-29T11:13:52.374159
+Exchange (161),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=payment_option_eq_4,dubizzle,2025-10-29T11:13:52.374159
+Installments (110),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=payment_option_eq_2,dubizzle,2025-10-29T11:13:52.374159
+Benzine (15609),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=petrol_eq_3,dubizzle,2025-10-29T11:13:52.374159
+Electric (500),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=petrol_eq_2,dubizzle,2025-10-29T11:13:52.374159
+Diesel (240),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=petrol_eq_1,dubizzle,2025-10-29T11:13:52.374159
+Hybrid (231),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=petrol_eq_4,dubizzle,2025-10-29T11:13:52.374159
+Natural Gas (193),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=petrol_eq_5,dubizzle,2025-10-29T11:13:52.374159
+Automatic (11732),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=transmission_eq_2,dubizzle,2025-10-29T11:13:52.374159
+Manual (5041),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=transmission_eq_1,dubizzle,2025-10-29T11:13:52.374159
+Sedan (8481),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_1,dubizzle,2025-10-29T11:13:52.374159
+SUV (3189),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_5,dubizzle,2025-10-29T11:13:52.374159
+Hatchback (2285),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_2,dubizzle,2025-10-29T11:13:52.374159
+4X4 (655),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_9,dubizzle,2025-10-29T11:13:52.374159
+Estate (274),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_12,dubizzle,2025-10-29T11:13:52.374159
+Sports / Coupe (273),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_3,dubizzle,2025-10-29T11:13:52.374159
+Van / Bus (197),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_7,dubizzle,2025-10-29T11:13:52.374159
+Pickup (109),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_6,dubizzle,2025-10-29T11:13:52.374159
+Convertible (108),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_4,dubizzle,2025-10-29T11:13:52.374159
+Small city car (63),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_11,dubizzle,2025-10-29T11:13:52.374159
+MPV (59),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_10,dubizzle,2025-10-29T11:13:52.374159
+Other (56),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_8,dubizzle,2025-10-29T11:13:52.374159
+Power Windows (6078),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_20,dubizzle,2025-10-29T11:13:52.374159
+AM/FM Radio (5734),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_5,dubizzle,2025-10-29T11:13:52.374159
+ABS (5224),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_1,dubizzle,2025-10-29T11:13:52.374159
+Airbags (5173),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_3,dubizzle,2025-10-29T11:13:52.374159
+Bluetooth System (4976),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_7,dubizzle,2025-10-29T11:13:52.374159
+Power Mirrors (4861),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_17,dubizzle,2025-10-29T11:13:52.374159
+USB Charger (4699),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_26,dubizzle,2025-10-29T11:13:52.374159
+Premium Wheels/Rims (4244),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_21,dubizzle,2025-10-29T11:13:52.374159
+Aux Audio In (4204),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_6,dubizzle,2025-10-29T11:13:52.374159
+Touch Screen (4112),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_25,dubizzle,2025-10-29T11:13:52.374159
+Fog Lights (4090),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_10,dubizzle,2025-10-29T11:13:52.374159
+Power Locks (4076),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_16,dubizzle,2025-10-29T11:13:52.374159
+Power Steering (3922),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_19,dubizzle,2025-10-29T11:13:52.374159
+Alarm/Anti-Theft System (3849),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_4,dubizzle,2025-10-29T11:13:52.374159
+Front Speakers (3845),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_32,dubizzle,2025-10-29T11:13:52.374159
+EBD (3808),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_9,dubizzle,2025-10-29T11:13:52.374159
+Rear speakers (3715),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_38,dubizzle,2025-10-29T11:13:52.374159
+Cassette Player (3657),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_29,dubizzle,2025-10-29T11:13:52.374159
+Rear View Camera (3584),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_22,dubizzle,2025-10-29T11:13:52.374159
+Cruise Control (3393),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_8,dubizzle,2025-10-29T11:13:52.374159
+Parking Sensors (3333),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_15,dubizzle,2025-10-29T11:13:52.374159
+Steering Switches (3325),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_27,dubizzle,2025-10-29T11:13:52.374159
+ESP (3297),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_42,dubizzle,2025-10-29T11:13:52.374159
+Keyless Start (3280),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_11,dubizzle,2025-10-29T11:13:52.374159
+Keyless Entry (3279),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_36,dubizzle,2025-10-29T11:13:52.374159
+Daytime running lights (3072),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_40,dubizzle,2025-10-29T11:13:52.374159
+Xenon Headlights (3041),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_46,dubizzle,2025-10-29T11:13:52.374159
+CD Player (2913),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_28,dubizzle,2025-10-29T11:13:52.374159
+Power Seats (2901),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_18,dubizzle,2025-10-29T11:13:52.374159
+Navigation System (2812),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_13,dubizzle,2025-10-29T11:13:52.374159
+Immobilizer Key (2782),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_35,dubizzle,2025-10-29T11:13:52.374159
+Sunroof (2694),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_24,dubizzle,2025-10-29T11:13:52.374159
+Tyre pressure sensor (2616),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_45,dubizzle,2025-10-29T11:13:52.374159
+DVD Player (2361),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_31,dubizzle,2025-10-29T11:13:52.374159
+Start/Stop system (2276),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_44,dubizzle,2025-10-29T11:13:52.374159
+Heated seats (2228),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_34,dubizzle,2025-10-29T11:13:52.374159
+Front Camera (2157),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_33,dubizzle,2025-10-29T11:13:52.374159
+Isofix (2143),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_43,dubizzle,2025-10-29T11:13:52.374159
+Off-Road Tyres (1914),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_14,dubizzle,2025-10-29T11:13:52.374159
+Roof Rack (1837),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_23,dubizzle,2025-10-29T11:13:52.374159
+Rear Seat Entertainment (1779),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_37,dubizzle,2025-10-29T11:13:52.374159
+Cool Box (1697),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_30,dubizzle,2025-10-29T11:13:52.374159
+Equipped for disabled (1120),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_41,dubizzle,2025-10-29T11:13:52.374159
+New,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/new/,dubizzle,2025-10-29T11:13:52.374159
+Used,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/used/,dubizzle,2025-10-29T11:13:52.374159
+View all,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?product=elite,dubizzle,2025-10-29T11:13:52.374159
+,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?page=3,dubizzle,2025-10-29T11:13:52.374159
+199,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?page=199,dubizzle,2025-10-29T11:13:52.374159
+,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?page=5,dubizzle,2025-10-29T11:13:52.374159
+فرنا للبيع,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D9%81%D8%B1%D9%86%D8%A7-%D9%84%D9%84%D8%A8%D9%8A%D8%B9/,dubizzle,2025-10-29T11:13:52.374159
+تيجو 2017,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%AA%D9%8A%D8%AC%D9%88-2017/,dubizzle,2025-10-29T11:13:52.374159
+جيتور t2,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%AC%D9%8A%D8%AA%D9%88%D8%B1-t2/,dubizzle,2025-10-29T11:13:52.374159
+تويوتا كورولا زيرو,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7-%D9%83%D9%88%D8%B1%D9%88%D9%84%D8%A7-%D8%B2%D9%8A%D8%B1%D9%88/,dubizzle,2025-10-29T11:13:52.374159
+c 200,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-c-200/,dubizzle,2025-10-29T11:13:52.374159
+gti,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-gti/,dubizzle,2025-10-29T11:13:52.374159
+لانسر 1300,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D9%84%D8%A7%D9%86%D8%B3%D8%B1-1300/,dubizzle,2025-10-29T11:13:52.374159
+كسر زيرو اوبترا,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D9%83%D8%B3%D8%B1-%D8%B2%D9%8A%D8%B1%D9%88-%D8%A7%D9%88%D8%A8%D8%AA%D8%B1%D8%A7/,dubizzle,2025-10-29T11:13:52.374159
+البقري موتورز,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%A7%D9%84%D8%A8%D9%82%D8%B1%D9%8A-%D9%85%D9%88%D8%AA%D9%88%D8%B1%D8%B2/,dubizzle,2025-10-29T11:13:52.374159
+ابترا,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%A7%D8%A8%D8%AA%D8%B1%D8%A7/,dubizzle,2025-10-29T11:13:52.374159
+النترا 2008,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%A7%D9%84%D9%86%D8%AA%D8%B1%D8%A7-2008/,dubizzle,2025-10-29T11:13:52.374159
+مرسيدس كوبيه,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D9%85%D8%B1%D8%B3%D9%8A%D8%AF%D8%B3-%D9%83%D9%88%D8%A8%D9%8A%D9%87/,dubizzle,2025-10-29T11:13:52.374159
+q3 2025,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-q3-2025/,dubizzle,2025-10-29T11:13:52.374159
+ايسوزو 2014,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%A7%D9%8A%D8%B3%D9%88%D8%B2%D9%88-2014/,dubizzle,2025-10-29T11:13:52.374159
+camera,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-camera/,dubizzle,2025-10-29T11:13:52.374159
+Vehicles,,,https://www.dubizzle.com.eg/en/vehicles/,dubizzle,2025-10-29T11:13:52.374159
+Cars for Sale,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/,dubizzle,2025-10-29T11:13:52.374159
+Mercedes-Benz,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/mercedes-benz/,dubizzle,2025-10-29T11:13:52.374159
+Fiat,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/fiat/,dubizzle,2025-10-29T11:13:52.374159
+Hyundai,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/hyundai/,dubizzle,2025-10-29T11:13:52.374159
+Daewoo,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/daewoo/,dubizzle,2025-10-29T11:13:52.374159
+Chevrolet,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/chevrolet/,dubizzle,2025-10-29T11:13:52.374159
+Renault,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/renault/,dubizzle,2025-10-29T11:13:52.374159
+BMW,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/bmw/,dubizzle,2025-10-29T11:13:52.374159
+Kia,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/kia/,dubizzle,2025-10-29T11:13:52.374159
+Skoda,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/skoda/,dubizzle,2025-10-29T11:13:52.374159
+Peugeot,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/peugeot/,dubizzle,2025-10-29T11:13:52.374159
+Opel,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/opel/,dubizzle,2025-10-29T11:13:52.374159
+Volkswagen,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/volkswagen/,dubizzle,2025-10-29T11:13:52.374159
+Speranza,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/speranza/,dubizzle,2025-10-29T11:13:52.374159
+Toyota,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/toyota/,dubizzle,2025-10-29T11:13:52.374159
+Suzuki,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/suzuki/,dubizzle,2025-10-29T11:13:52.374159
+Nissan,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/nissan/,dubizzle,2025-10-29T11:13:52.374159
+Mitsubishi,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/mitsubishi/,dubizzle,2025-10-29T11:13:52.374159
+Lada,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/lada/,dubizzle,2025-10-29T11:13:52.374159
+Seat,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/seat/,dubizzle,2025-10-29T11:13:52.374159
+Jeep,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/jeep/,dubizzle,2025-10-29T11:13:52.374159
+Cars for Rent,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-rent/,dubizzle,2025-10-29T11:13:52.374159
+"Tyres, Batteries, Oils, & Accessories",,,https://www.dubizzle.com.eg/en/vehicles/tyres-batteries-oil-car-accessories/,dubizzle,2025-10-29T11:13:52.374159
+Car Spare Parts,,,https://www.dubizzle.com.eg/en/vehicles/car-spare-parts/,dubizzle,2025-10-29T11:13:52.374159
+Motorcycles & Accessories,,,https://www.dubizzle.com.eg/en/vehicles/motorcycles-accessories/,dubizzle,2025-10-29T11:13:52.374159
+Boats - Watercraft,,,https://www.dubizzle.com.eg/en/vehicles/boats-watercraft/,dubizzle,2025-10-29T11:13:52.374159
+"Heavy Trucks, Buses & Other Vehicles",,,https://www.dubizzle.com.eg/en/vehicles/trucks-buses-other-vehicles/,dubizzle,2025-10-29T11:13:52.374159
+Cairo(9260),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/cairo/,dubizzle,2025-10-29T11:13:52.374159
+Giza(3047),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/giza/,dubizzle,2025-10-29T11:13:52.374159
+Alexandria(1551),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/alexandria/,dubizzle,2025-10-29T11:13:52.374159
+Gharbia(387),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/gharbia/,dubizzle,2025-10-29T11:13:52.374159
+Sharqia(368),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/sharqia/,dubizzle,2025-10-29T11:13:52.374159
+Dakahlia(306),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/dakahlia/,dubizzle,2025-10-29T11:13:52.374159
+Qalyubia(289),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/qalyubia/,dubizzle,2025-10-29T11:13:52.374159
+Damietta(199),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/damietta/,dubizzle,2025-10-29T11:13:52.374159
+Monufia(188),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/monufia/,dubizzle,2025-10-29T11:13:52.374159
+Ismailia(184),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/ismailia/,dubizzle,2025-10-29T11:13:52.374159
+Suez(140),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/suez/,dubizzle,2025-10-29T11:13:52.374159
+Beheira(121),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/beheira/,dubizzle,2025-10-29T11:13:52.374159
+Red Sea(99),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/red-sea/,dubizzle,2025-10-29T11:13:52.374159
+Fayoum(84),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/fayoum/,dubizzle,2025-10-29T11:13:52.374159
+Beni Suef(82),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/beni-suef/,dubizzle,2025-10-29T11:13:52.374159
+Port Said(78),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/port-said/,dubizzle,2025-10-29T11:13:52.374159
+Asyut(78),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/asyut/,dubizzle,2025-10-29T11:13:52.374159
+Kafr al-Sheikh(76),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/kafr-al-sheikh/,dubizzle,2025-10-29T11:13:52.374159
+Minya(66),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/minya/,dubizzle,2025-10-29T11:13:52.374159
+Sohag(53),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/sohag/,dubizzle,2025-10-29T11:13:52.374159
+BYD,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/byd/,dubizzle,2025-10-29T11:13:52.374159
+MG,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/mg/,dubizzle,2025-10-29T11:13:52.374159
+Chery,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/chery/,dubizzle,2025-10-29T11:13:52.374159
+Audi,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/audi/,dubizzle,2025-10-29T11:13:52.374159
+Geely,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/geely/,dubizzle,2025-10-29T11:13:52.374159
+Land Rover,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/land-rover/,dubizzle,2025-10-29T11:13:52.374159
+Ford,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/ford/,dubizzle,2025-10-29T11:13:52.374159
+Citroen,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/citroen/,dubizzle,2025-10-29T11:13:52.374159
+Honda,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/honda/,dubizzle,2025-10-29T11:13:52.374159
+Porsche,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/porsche/,dubizzle,2025-10-29T11:13:52.374159
+Mazda,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/mazda/,dubizzle,2025-10-29T11:13:52.374159
+Proton,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/proton/,dubizzle,2025-10-29T11:13:52.374159
+Daihatsu,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/daihatsu/,dubizzle,2025-10-29T11:13:52.374159
+Brilliance,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/brilliance/,dubizzle,2025-10-29T11:13:52.374159
+Changan,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/changan/,dubizzle,2025-10-29T11:13:52.374159
+Cupra,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/cupra/,dubizzle,2025-10-29T11:13:52.374159
+MINI,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/mini/,dubizzle,2025-10-29T11:13:52.374159
+Jetour,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/jetour/,dubizzle,2025-10-29T11:13:52.374159
+Baic,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/baic/,dubizzle,2025-10-29T11:13:52.374159
+Subaru,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/subaru/,dubizzle,2025-10-29T11:13:52.374159
+Volvo,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/volvo/,dubizzle,2025-10-29T11:13:52.374159
+Avatr,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/avatr/,dubizzle,2025-10-29T11:13:52.374159
+Soueast,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/soueast/,dubizzle,2025-10-29T11:13:52.374159
+Zeekr,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/zeekr/,dubizzle,2025-10-29T11:13:52.374159
+Ssang Yong,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/ssang-yong/,dubizzle,2025-10-29T11:13:52.374159
+Jaguar,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/jaguar/,dubizzle,2025-10-29T11:13:52.374159
+Jac,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/jac/,dubizzle,2025-10-29T11:13:52.374159
+Tesla,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/tesla/,dubizzle,2025-10-29T11:13:52.374159
+GMC,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/gmc/,dubizzle,2025-10-29T11:13:52.374159
+Other make,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/other-make/,dubizzle,2025-10-29T11:13:52.374159
+Alfa Romeo,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/alfa-romeo/,dubizzle,2025-10-29T11:13:52.374159
+Chrysler,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/chrysler/,dubizzle,2025-10-29T11:13:52.374159
+Cadillac,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/cadillac/,dubizzle,2025-10-29T11:13:52.374159
+ROX,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/rox/,dubizzle,2025-10-29T11:13:52.374159
+Saipa,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/saipa/,dubizzle,2025-10-29T11:13:52.374159
+Haval,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/haval/,dubizzle,2025-10-29T11:13:52.374159
+Dodge,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/dodge/,dubizzle,2025-10-29T11:13:52.374159
+Changhe,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/changhe/,dubizzle,2025-10-29T11:13:52.374159
+DFSK,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/dfsk/,dubizzle,2025-10-29T11:13:52.374159
+Senova,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/senova/,dubizzle,2025-10-29T11:13:52.374159
+Chana,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/chana/,dubizzle,2025-10-29T11:13:52.374159
+Zotye,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/zotye/,dubizzle,2025-10-29T11:13:52.374159
+Xiaomi,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/xiaomi/,dubizzle,2025-10-29T11:13:52.374159
+Isuzu,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/isuzu/,dubizzle,2025-10-29T11:13:52.374159
+Great Wall,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/great-wall/,dubizzle,2025-10-29T11:13:52.374159
+Kaiyi,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/kaiyi/,dubizzle,2025-10-29T11:13:52.374159
+Maserati,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/maserati/,dubizzle,2025-10-29T11:13:52.374159
+Bentley,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/bentley/,dubizzle,2025-10-29T11:13:52.374159
+Faw,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/faw/,dubizzle,2025-10-29T11:13:52.374159
+Lotus,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/lotus/,dubizzle,2025-10-29T11:13:52.374159
+GAC,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/gac/,dubizzle,2025-10-29T11:13:52.374159
+Hummer,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/hummer/,dubizzle,2025-10-29T11:13:52.374159
+Infiniti,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/infiniti/,dubizzle,2025-10-29T11:13:52.374159
+Ds,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/ds/,dubizzle,2025-10-29T11:13:52.374159
+Aston Martin,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/aston-martin/,dubizzle,2025-10-29T11:13:52.374159
+Lamborghini,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/lamborghini/,dubizzle,2025-10-29T11:13:52.374159
+Rolls Royce,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/rolls-royce/,dubizzle,2025-10-29T11:13:52.374159
+KYC,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/kyc/,dubizzle,2025-10-29T11:13:52.374159
+Smart,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/smart/,dubizzle,2025-10-29T11:13:52.374159
+Dongfeng,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/dongfeng/,dubizzle,2025-10-29T11:13:52.374159
+Cash (10075),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=payment_option_eq_1,dubizzle,2025-10-29T11:13:52.374159
+Cash or Installment (3552),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=payment_option_eq_3,dubizzle,2025-10-29T11:13:52.374159
+Exchange (161),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=payment_option_eq_4,dubizzle,2025-10-29T11:13:52.374159
+Installments (110),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=payment_option_eq_2,dubizzle,2025-10-29T11:13:52.374159
+Benzine (15610),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=petrol_eq_3,dubizzle,2025-10-29T11:13:52.374159
+Electric (500),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=petrol_eq_2,dubizzle,2025-10-29T11:13:52.374159
+Diesel (240),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=petrol_eq_1,dubizzle,2025-10-29T11:13:52.374159
+Hybrid (231),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=petrol_eq_4,dubizzle,2025-10-29T11:13:52.374159
+Natural Gas (193),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=petrol_eq_5,dubizzle,2025-10-29T11:13:52.374159
+Automatic (11733),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=transmission_eq_2,dubizzle,2025-10-29T11:13:52.374159
+Manual (5041),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=transmission_eq_1,dubizzle,2025-10-29T11:13:52.374159
+Sedan (8482),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_1,dubizzle,2025-10-29T11:13:52.374159
+SUV (3189),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_5,dubizzle,2025-10-29T11:13:52.374159
+Hatchback (2285),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_2,dubizzle,2025-10-29T11:13:52.374159
+4X4 (655),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_9,dubizzle,2025-10-29T11:13:52.374159
+Estate (274),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_12,dubizzle,2025-10-29T11:13:52.374159
+Sports / Coupe (273),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_3,dubizzle,2025-10-29T11:13:52.374159
+Van / Bus (197),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_7,dubizzle,2025-10-29T11:13:52.374159
+Pickup (109),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_6,dubizzle,2025-10-29T11:13:52.374159
+Convertible (108),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_4,dubizzle,2025-10-29T11:13:52.374159
+Small city car (63),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_11,dubizzle,2025-10-29T11:13:52.374159
+MPV (59),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_10,dubizzle,2025-10-29T11:13:52.374159
+Other (56),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=body_type_eq_8,dubizzle,2025-10-29T11:13:52.374159
+Power Windows (6078),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_20,dubizzle,2025-10-29T11:13:52.374159
+AM/FM Radio (5734),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_5,dubizzle,2025-10-29T11:13:52.374159
+ABS (5224),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_1,dubizzle,2025-10-29T11:13:52.374159
+Airbags (5173),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_3,dubizzle,2025-10-29T11:13:52.374159
+Bluetooth System (4976),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_7,dubizzle,2025-10-29T11:13:52.374159
+Power Mirrors (4861),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_17,dubizzle,2025-10-29T11:13:52.374159
+USB Charger (4699),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_26,dubizzle,2025-10-29T11:13:52.374159
+Premium Wheels/Rims (4244),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_21,dubizzle,2025-10-29T11:13:52.374159
+Aux Audio In (4204),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_6,dubizzle,2025-10-29T11:13:52.374159
+Touch Screen (4112),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_25,dubizzle,2025-10-29T11:13:52.374159
+Fog Lights (4090),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_10,dubizzle,2025-10-29T11:13:52.374159
+Power Locks (4076),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_16,dubizzle,2025-10-29T11:13:52.374159
+Power Steering (3922),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_19,dubizzle,2025-10-29T11:13:52.374159
+Alarm/Anti-Theft System (3849),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_4,dubizzle,2025-10-29T11:13:52.374159
+Front Speakers (3845),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_32,dubizzle,2025-10-29T11:13:52.374159
+EBD (3808),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_9,dubizzle,2025-10-29T11:13:52.374159
+Rear speakers (3715),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_38,dubizzle,2025-10-29T11:13:52.374159
+Cassette Player (3657),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_29,dubizzle,2025-10-29T11:13:52.374159
+Rear View Camera (3584),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_22,dubizzle,2025-10-29T11:13:52.374159
+Cruise Control (3393),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_8,dubizzle,2025-10-29T11:13:52.374159
+Parking Sensors (3333),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_15,dubizzle,2025-10-29T11:13:52.374159
+Steering Switches (3325),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_27,dubizzle,2025-10-29T11:13:52.374159
+ESP (3297),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_42,dubizzle,2025-10-29T11:13:52.374159
+Keyless Start (3280),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_11,dubizzle,2025-10-29T11:13:52.374159
+Keyless Entry (3279),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_36,dubizzle,2025-10-29T11:13:52.374159
+Daytime running lights (3072),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_40,dubizzle,2025-10-29T11:13:52.374159
+Xenon Headlights (3041),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_46,dubizzle,2025-10-29T11:13:52.374159
+CD Player (2913),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_28,dubizzle,2025-10-29T11:13:52.374159
+Power Seats (2901),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_18,dubizzle,2025-10-29T11:13:52.374159
+Navigation System (2812),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_13,dubizzle,2025-10-29T11:13:52.374159
+Immobilizer Key (2782),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_35,dubizzle,2025-10-29T11:13:52.374159
+Sunroof (2694),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_24,dubizzle,2025-10-29T11:13:52.374159
+Tyre pressure sensor (2616),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_45,dubizzle,2025-10-29T11:13:52.374159
+DVD Player (2361),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_31,dubizzle,2025-10-29T11:13:52.374159
+Start/Stop system (2276),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_44,dubizzle,2025-10-29T11:13:52.374159
+Heated seats (2228),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_34,dubizzle,2025-10-29T11:13:52.374159
+Front Camera (2157),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_33,dubizzle,2025-10-29T11:13:52.374159
+Isofix (2143),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_43,dubizzle,2025-10-29T11:13:52.374159
+Off-Road Tyres (1914),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_14,dubizzle,2025-10-29T11:13:52.374159
+Roof Rack (1837),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_23,dubizzle,2025-10-29T11:13:52.374159
+Rear Seat Entertainment (1779),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_37,dubizzle,2025-10-29T11:13:52.374159
+Cool Box (1697),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_30,dubizzle,2025-10-29T11:13:52.374159
+Equipped for disabled (1120),,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?filter=extra_features_eq_41,dubizzle,2025-10-29T11:13:52.374159
+New,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/new/,dubizzle,2025-10-29T11:13:52.374159
+Used,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/used/,dubizzle,2025-10-29T11:13:52.374159
+View all,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?product=elite,dubizzle,2025-10-29T11:13:52.374159
+,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?page=4,dubizzle,2025-10-29T11:13:52.374159
+199,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?page=199,dubizzle,2025-10-29T11:13:52.374159
+,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/?page=6,dubizzle,2025-10-29T11:13:52.374159
+فرنا للبيع,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D9%81%D8%B1%D9%86%D8%A7-%D9%84%D9%84%D8%A8%D9%8A%D8%B9/,dubizzle,2025-10-29T11:13:52.374159
+تيجو 2017,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%AA%D9%8A%D8%AC%D9%88-2017/,dubizzle,2025-10-29T11:13:52.374159
+جيتور t2,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%AC%D9%8A%D8%AA%D9%88%D8%B1-t2/,dubizzle,2025-10-29T11:13:52.374159
+تويوتا كورولا زيرو,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%AA%D9%88%D9%8A%D9%88%D8%AA%D8%A7-%D9%83%D9%88%D8%B1%D9%88%D9%84%D8%A7-%D8%B2%D9%8A%D8%B1%D9%88/,dubizzle,2025-10-29T11:13:52.374159
+c 200,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-c-200/,dubizzle,2025-10-29T11:13:52.374159
+gti,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-gti/,dubizzle,2025-10-29T11:13:52.374159
+لانسر 1300,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D9%84%D8%A7%D9%86%D8%B3%D8%B1-1300/,dubizzle,2025-10-29T11:13:52.374159
+كسر زيرو اوبترا,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D9%83%D8%B3%D8%B1-%D8%B2%D9%8A%D8%B1%D9%88-%D8%A7%D9%88%D8%A8%D8%AA%D8%B1%D8%A7/,dubizzle,2025-10-29T11:13:52.374159
+البقري موتورز,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%A7%D9%84%D8%A8%D9%82%D8%B1%D9%8A-%D9%85%D9%88%D8%AA%D9%88%D8%B1%D8%B2/,dubizzle,2025-10-29T11:13:52.374159
+ابترا,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%A7%D8%A8%D8%AA%D8%B1%D8%A7/,dubizzle,2025-10-29T11:13:52.374159
+النترا 2008,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%A7%D9%84%D9%86%D8%AA%D8%B1%D8%A7-2008/,dubizzle,2025-10-29T11:13:52.374159
+مرسيدس كوبيه,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D9%85%D8%B1%D8%B3%D9%8A%D8%AF%D8%B3-%D9%83%D9%88%D8%A8%D9%8A%D9%87/,dubizzle,2025-10-29T11:13:52.374159
+q3 2025,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-q3-2025/,dubizzle,2025-10-29T11:13:52.374159
+ايسوزو 2014,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-%D8%A7%D9%8A%D8%B3%D9%88%D8%B2%D9%88-2014/,dubizzle,2025-10-29T11:13:52.374159
+camera,,,https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/q-camera/,dubizzle,2025-10-29T11:13:52.374159
